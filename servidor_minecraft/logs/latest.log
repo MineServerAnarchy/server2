@@ -102,3 +102,50 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [17:46:15] [Server thread/INFO]: Lix4nD3r[/10.144.73.36:55990] logged in with entity id 509 at ([world]89.5, 72.0, -226.5)
 [17:46:51] [Server thread/INFO]: J3ZuX issued server command: /tp J3ZuX Lix4nD3r
 [17:46:51] [Server thread/INFO]: [J3ZuX: Teleported J3ZuX to Lix4nD3r]
+[17:52:03] [Server thread/INFO]: Lix4nD3r lost connection: Disconnected
+[17:52:03] [Server thread/INFO]: Lix4nD3r left the game
+[17:53:21] [Server thread/INFO]: J3ZuX issued server command: /tp 2224 71 -167
+[17:53:21] [Server thread/INFO]: [J3ZuX: Teleported J3ZuX to 2224.5, 71.0, -166.5]
+[17:53:45] [Server thread/INFO]: J3ZuX lost connection: Disconnected
+[17:53:45] [Server thread/INFO]: J3ZuX left the game
+[17:53:59] [User Authenticator #3/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
+[17:53:59] [Server thread/INFO]: J3ZuX joined the game
+[17:53:59] [Server thread/INFO]: J3ZuX[/10.144.204.103:50163] logged in with entity id 1830 at ([world]2224.5, 71.0, -166.5)
+[17:54:02] [Server thread/INFO]: [Server] ...
+[17:55:45] [Craft Scheduler Thread - 6/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 7
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[17:57:37] [Server thread/INFO]: J3ZuX lost connection: Disconnected
+[17:57:37] [Server thread/INFO]: J3ZuX left the game
+[17:57:42] [Server thread/INFO]: Stopping the server
+[17:57:42] [Server thread/INFO]: Stopping server
+[17:57:42] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.7
+[17:57:42] [Server thread/INFO]: [PingTab] Disabling PingTab v1.3.5
+[17:57:42] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.11
+[17:57:42] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
+[17:57:42] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
+[17:57:42] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[17:57:42] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[17:57:42] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[17:57:42] [Server thread/INFO]: Saving players
+[17:57:42] [Server thread/INFO]: Saving worlds
+[17:57:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:57:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:57:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:57:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:57:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:57:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:57:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:57:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:57:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:57:43] [Server thread/INFO]: Flushing Chunk IO
+[17:57:43] [Server thread/INFO]: Closing Thread Pool
+[17:57:43] [Server thread/INFO]: Closing Server
