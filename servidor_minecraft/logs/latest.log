@@ -1,86 +1,86 @@
-[08:17:58] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08:17:58] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[08:17:59] [Worker-Main-2/INFO]: Loaded 7 recipes
-[08:18:00] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[08:18:00] [Server thread/INFO]: Loading properties
-[08:18:00] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[08:18:00] [Server thread/INFO]: Debug logging is disabled
-[08:18:00] [Server thread/INFO]: Using 4 threads for Netty based IO
-[08:18:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[08:18:00] [Server thread/INFO]: Default game type: SURVIVAL
-[08:18:00] [Server thread/INFO]: Generating keypair
-[08:18:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:18:00] [Server thread/INFO]: Using epoll channel type
-[08:18:01] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[08:18:04] [Server thread/WARN]: Legacy plugin PingTab v1.3.5 does not specify an api-version.
-[08:18:04] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
-[08:18:04] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.3.2
-[08:18:04] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
-[08:18:04] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[08:18:05] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[08:18:05] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[08:18:05] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[08:18:05] [Server thread/INFO]: [ViaRewind] Registering protocols...
-[08:18:05] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.3.2
-[08:18:05] [Server thread/INFO]: [BlockLocker] Loading BlockLocker v1.11
-[08:18:05] [Server thread/INFO]: [PingTab] Loading PingTab v1.3.5
-[08:18:05] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v4.0.7
-[08:18:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[08:18:05] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.11
-[08:18:05] [Server thread/WARN]: [BlockLocker] Cannot recognize material mangrove_door, ignoring it
-[08:18:05] [Server thread/WARN]: [BlockLocker] Cannot recognize material mangrove_fence_gate, ignoring it
-[08:18:05] [Server thread/WARN]: [BlockLocker] Cannot recognize material mangrove_trapdoor, ignoring it
-[08:18:05] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.7
-[08:18:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08:18:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[08:18:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08:18:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[08:18:05] [Server thread/INFO]: Preparing level "world"
-[08:18:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:18:06] [Server thread/INFO]: Preparing spawn area: 0%
-[08:18:06] [Server thread/INFO]: Time elapsed: 419 ms
-[08:18:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[08:18:06] [Server thread/INFO]: Time elapsed: 121 ms
-[08:18:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[08:18:06] [Server thread/INFO]: Time elapsed: 94 ms
-[08:18:06] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
-[08:18:06] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
-[08:18:06] [Server thread/INFO]: [ClearLag] Loading modules...
-[08:18:06] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
-[08:18:06] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[08:18:06] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[08:18:06] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
-[08:18:06] [Thread-8/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.16]...
-[08:18:06] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.16.4-1.16.5 (754)
-[08:18:06] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please update it to at least Java 21 (your version is 11.0.28).
-[08:18:06] [Server thread/WARN]: [ViaVersion] ViaVersion no longer officially supports this version of Java, only offering unsupported compatibility builds.
-[08:18:06] [Server thread/WARN]: [ViaVersion] See https://github.com/ViaVersion/ViaVersion/releases/tag/5.0.0 for more information.
-[08:18:06] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
-[08:18:06] [Server thread/INFO]: [PingTab] Enabling PingTab v1.3.5*
-[08:18:06] [Server thread/INFO]: [PingTab] Plugin metrics enabled!
-[08:18:06] [Server thread/INFO]: [PingTab] Checking for new versions...
-[08:18:07] [Thread-8/INFO]: [ClearLag] No updates found!
-[08:18:07] [Server thread/INFO]: [PingTab] Plugin is up to date.
-[08:18:07] [Server thread/INFO]: Running delayed init tasks
-[08:18:07] [Server thread/INFO]: Done (7.483s)! For help, type "help"
-[08:18:07] [Craft Scheduler Thread - 2/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[08:18:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[08:18:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
-[08:18:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
-[08:18:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
-[08:18:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[08:18:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
-[08:18:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
-[08:18:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
-[08:18:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
-[08:18:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[08:18:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.28
-[08:18:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[08:18:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
-[08:18:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
-[08:18:07] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[08:18:07] [Server thread/INFO]: Timings Reset
-[08:18:07] [Craft Scheduler Thread - 1/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 309
+[17:40:34] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:40:34] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[17:40:35] [Worker-Main-2/INFO]: Loaded 7 recipes
+[17:40:36] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[17:40:36] [Server thread/INFO]: Loading properties
+[17:40:36] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[17:40:37] [Server thread/INFO]: Debug logging is disabled
+[17:40:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:40:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:40:37] [Server thread/INFO]: Default game type: SURVIVAL
+[17:40:37] [Server thread/INFO]: Generating keypair
+[17:40:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:40:37] [Server thread/INFO]: Using epoll channel type
+[17:40:38] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[17:40:41] [Server thread/WARN]: Legacy plugin PingTab v1.3.5 does not specify an api-version.
+[17:40:41] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[17:40:41] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.3.2
+[17:40:41] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
+[17:40:41] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[17:40:41] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[17:40:42] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[17:40:42] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[17:40:42] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[17:40:42] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.3.2
+[17:40:42] [Server thread/INFO]: [BlockLocker] Loading BlockLocker v1.11
+[17:40:42] [Server thread/INFO]: [PingTab] Loading PingTab v1.3.5
+[17:40:42] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v4.0.7
+[17:40:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:40:42] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.11
+[17:40:42] [Server thread/WARN]: [BlockLocker] Cannot recognize material mangrove_door, ignoring it
+[17:40:42] [Server thread/WARN]: [BlockLocker] Cannot recognize material mangrove_fence_gate, ignoring it
+[17:40:42] [Server thread/WARN]: [BlockLocker] Cannot recognize material mangrove_trapdoor, ignoring it
+[17:40:42] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.7
+[17:40:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:40:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:40:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:40:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:40:42] [Server thread/INFO]: Preparing level "world"
+[17:40:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:40:43] [Server thread/INFO]: Preparing spawn area: 0%
+[17:40:43] [Server thread/INFO]: Time elapsed: 350 ms
+[17:40:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:40:43] [Server thread/INFO]: Time elapsed: 48 ms
+[17:40:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:40:43] [Server thread/INFO]: Time elapsed: 38 ms
+[17:40:43] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[17:40:43] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[17:40:43] [Server thread/INFO]: [ClearLag] Loading modules...
+[17:40:43] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[17:40:43] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[17:40:43] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[17:40:43] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
+[17:40:43] [Thread-8/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.16]...
+[17:40:43] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.16.4-1.16.5 (754)
+[17:40:43] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please update it to at least Java 21 (your version is 11.0.28).
+[17:40:43] [Server thread/WARN]: [ViaVersion] ViaVersion no longer officially supports this version of Java, only offering unsupported compatibility builds.
+[17:40:43] [Server thread/WARN]: [ViaVersion] See https://github.com/ViaVersion/ViaVersion/releases/tag/5.0.0 for more information.
+[17:40:43] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
+[17:40:43] [Server thread/INFO]: [PingTab] Enabling PingTab v1.3.5*
+[17:40:43] [Server thread/INFO]: [PingTab] Plugin metrics enabled!
+[17:40:43] [Server thread/INFO]: [PingTab] Checking for new versions...
+[17:40:45] [Thread-8/INFO]: [ClearLag] No updates found!
+[17:40:45] [Server thread/INFO]: [PingTab] Plugin is up to date.
+[17:40:45] [Server thread/INFO]: Running delayed init tasks
+[17:40:45] [Server thread/INFO]: Done (8.838s)! For help, type "help"
+[17:40:45] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[17:40:45] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[17:40:45] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[17:40:45] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[17:40:45] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[17:40:45] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[17:40:45] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[17:40:45] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[17:40:45] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[17:40:45] [Craft Scheduler Thread - 3/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[17:40:45] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[17:40:45] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.28
+[17:40:45] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[17:40:45] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[17:40:45] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[17:40:45] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[17:40:45] [Server thread/INFO]: Timings Reset
+[17:40:45] [Craft Scheduler Thread - 1/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 7
 java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -91,38 +91,14 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
-[08:18:07] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.3.2
-[08:18:08] [Server thread/INFO]: The latest version of BlockLocker (version 1.13.0) no longer supports this Minecraft version, only Minecraft 1.20.2, 1.20.4, 1.20.6, 1.21, 1.21.1, 1.21.2, 1.21.3, 1.21.4, 1.21.5, 1.21.6.
-[08:18:08] [Server thread/INFO]: More information: https://www.spigotmc.org/resources/blocklocker.3268/update?update=571821
-[08:19:17] [User Authenticator #1/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
-[08:19:18] [Server thread/INFO]: J3ZuX joined the game
-[08:19:18] [Server thread/INFO]: J3ZuX[/10.144.204.103:52926] logged in with entity id 97 at ([world]2227.4732445753934, 70.0, -165.3549202688131)
-[08:19:28] [Server thread/INFO]: J3ZuX issued server command: /plugins
-[08:19:34] [Server thread/INFO]: J3ZuX issued server command: /ping
-[08:22:08] [Server thread/INFO]: J3ZuX issued server command: /stop
-[08:22:08] [Server thread/INFO]: [J3ZuX: Stopping the server]
-[08:22:08] [Server thread/INFO]: Stopping server
-[08:22:08] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.7
-[08:22:08] [Server thread/INFO]: [PingTab] Disabling PingTab v1.3.5
-[08:22:08] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.11
-[08:22:08] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
-[08:22:08] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
-[08:22:08] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[08:22:08] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
-[08:22:08] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[08:22:08] [Server thread/INFO]: Saving players
-[08:22:08] [Server thread/INFO]: J3ZuX lost connection: Server closed
-[08:22:08] [Server thread/INFO]: J3ZuX left the game
-[08:22:08] [Server thread/INFO]: Saving worlds
-[08:22:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:22:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:22:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[08:22:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:22:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[08:22:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:22:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:22:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:22:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:22:11] [Server thread/INFO]: Flushing Chunk IO
-[08:22:11] [Server thread/INFO]: Closing Thread Pool
-[08:22:11] [Server thread/INFO]: Closing Server
+[17:40:45] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.3.2
+[17:40:45] [Server thread/INFO]: The latest version of BlockLocker (version 1.13.0) no longer supports this Minecraft version, only Minecraft 1.20.2, 1.20.4, 1.20.6, 1.21, 1.21.1, 1.21.2, 1.21.3, 1.21.4, 1.21.5, 1.21.6.
+[17:40:45] [Server thread/INFO]: More information: https://www.spigotmc.org/resources/blocklocker.3268/update?update=571821
+[17:45:10] [User Authenticator #1/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
+[17:45:10] [Server thread/INFO]: J3ZuX joined the game
+[17:45:10] [Server thread/INFO]: J3ZuX[/10.144.204.103:50112] logged in with entity id 97 at ([world]2225.3861478414724, 71.0, -166.1632357468832)
+[17:46:15] [User Authenticator #2/INFO]: UUID of player Lix4nD3r is a6735982-79e6-34dd-8845-e3e6c496b674
+[17:46:15] [Server thread/INFO]: Lix4nD3r joined the game
+[17:46:15] [Server thread/INFO]: Lix4nD3r[/10.144.73.36:55990] logged in with entity id 509 at ([world]89.5, 72.0, -226.5)
+[17:46:51] [Server thread/INFO]: J3ZuX issued server command: /tp J3ZuX Lix4nD3r
+[17:46:51] [Server thread/INFO]: [J3ZuX: Teleported J3ZuX to Lix4nD3r]
