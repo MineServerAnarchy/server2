@@ -1543,3 +1543,82 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
+[04:53:40] [Async Chat Thread - #40/INFO]: <xNieves> mano
+[04:53:42] [Async Chat Thread - #40/INFO]: <xNieves> que paso
+[04:53:49] [Async Chat Thread - #40/INFO]: <xNieves> se me borraron las coordenadas xd
+[04:53:50] [Async Chat Thread - #40/INFO]: <xNieves> nmms
+[04:54:00] [Async Chat Thread - #40/INFO]: <J3ZuX> SI TU NO SABES MMGV
+[04:54:10] [Async Chat Thread - #40/INFO]: <xNieves> no me sale ni las coordenadas de la casa de nadie
+[04:54:11] [Async Chat Thread - #40/INFO]: <xNieves> xddd
+[04:54:39] [Async Chat Thread - #40/INFO]: <J3ZuX> TU LAUNCHER DE MIERDA PS
+[04:54:40] [Async Chat Thread - #40/INFO]: <xNieves> ahora pa buscar mi mmgvo portal
+[04:55:01] [Async Chat Thread - #40/INFO]: <xNieves> dame las coordenadas del tuyo jesu
+[04:55:09] [Async Chat Thread - #40/INFO]: <J3ZuX> ME LO MAMAS XD
+[04:55:21] [Async Chat Thread - #40/INFO]: <xNieves> no puedes mmfvo
+[04:55:30] [Async Chat Thread - #40/INFO]: <J3ZuX> IGUAK ESTAMOS CERCA MMGV
+[04:55:36] [Async Chat Thread - #40/INFO]: <xNieves> por eso
+[04:55:38] [Async Chat Thread - #40/INFO]: <Jexus_777> 2100. 272-
+[04:55:42] [Async Chat Thread - #40/INFO]: <xNieves> si busco el tuyo encontrare el mio
+[04:55:43] [Async Chat Thread - #40/INFO]: <J3ZuX> 2225 MENOS 148
+[04:56:03] [Async Chat Thread - #40/INFO]: <xNieves> ese es el de tu portal en el nether?
+[04:56:07] [Async Chat Thread - #40/INFO]: <J3ZuX> NO
+[04:56:17] [Async Chat Thread - #40/INFO]: <J3ZuX> ES DEL NTHER ES 220 MENOS 16
+[04:56:18] [Async Chat Thread - #40/INFO]: <xNieves> mmgvo dame las coordenadas es de tu portal xd
+[04:56:24] [Async Chat Thread - #40/INFO]: <xNieves> yo ando perdido es en el nether
+[04:57:35] [Async Chat Thread - #41/INFO]: <xNieves> las otras son de tu casa?
+[04:57:36] [Async Chat Thread - #41/INFO]: <xNieves> xddd
+[04:57:41] [Async Chat Thread - #41/INFO]: <J3ZuX> si
+[05:00:31] [Server thread/INFO]: [Server] ..
+[05:02:14] [Server thread/INFO]: J3ZuX was slain by Zombie
+[05:02:17] [Async Chat Thread - #42/INFO]: <Jexus_777> efe
+[05:02:19] [Async Chat Thread - #42/INFO]: <xNieves> efe
+[05:02:50] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[05:02:57] [Server thread/INFO]: J3ZuX lost connection: Disconnected
+[05:02:57] [Server thread/INFO]: J3ZuX left the game
+[05:02:57] [Async Chat Thread - #42/INFO]: <Jexus_777> llego mi hora de mimir
+[05:03:01] [Async Chat Thread - #42/INFO]: <Jexus_777> zzzzzzzzz
+[05:03:11] [Async Chat Thread - #42/INFO]: <Jexus_777> duerman pvto
+[05:03:24] [Server thread/INFO]: Jexus_777 lost connection: Disconnected
+[05:03:24] [Server thread/INFO]: Jexus_777 left the game
+[05:03:56] [User Authenticator #40/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
+[05:03:56] [Server thread/INFO]: J3ZuX joined the game
+[05:03:56] [Server thread/INFO]: J3ZuX[/10.144.204.103:50627] logged in with entity id 107396 at ([world]2208.2714501635473, 74.0, -181.87420818106784)
+[05:03:56] [Async Chat Thread - #42/INFO]: <J8nAThAn> ZZZZZZZ
+[05:04:18] [Async Chat Thread - #42/INFO]: <J3ZuX> zzzzzzz
+[05:04:18] [Async Chat Thread - #43/INFO]: <J3ZuX> zzzzzzzz
+[05:04:18] [Async Chat Thread - #43/INFO]: <J3ZuX> z
+[05:04:19] [Async Chat Thread - #43/INFO]: <J3ZuX> z
+[05:04:19] [Async Chat Thread - #43/INFO]: <J3ZuX> z
+[05:04:20] [Async Chat Thread - #43/INFO]: <J3ZuX> zzzzzzzz
+[05:04:20] [Async Chat Thread - #43/INFO]: <J3ZuX> z
+[05:04:20] [Async Chat Thread - #43/INFO]: <J3ZuX> z
+[05:04:21] [Async Chat Thread - #43/INFO]: <J3ZuX> zzzzzzzzzzzz
+[05:04:31] [Server thread/INFO]: J3ZuX issued server command: /kick J8nAThAn
+[05:04:31] [Server thread/INFO]: J8nAThAn lost connection: Kicked by an operator
+[05:04:31] [Server thread/INFO]: J8nAThAn left the game
+[05:04:31] [Server thread/INFO]: [J3ZuX: Kicked J8nAThAn: Kicked by an operator]
+[05:04:35] [Server thread/INFO]: J3ZuX issued server command: /kick xNieves
+[05:04:35] [Server thread/INFO]: xNieves lost connection: Kicked by an operator
+[05:04:35] [Server thread/INFO]: xNieves left the game
+[05:04:35] [Server thread/INFO]: [J3ZuX: Kicked xNieves: Kicked by an operator]
+[05:04:42] [User Authenticator #40/INFO]: UUID of player J8nAThAn is 37dd31f1-fed6-3e4d-a7a4-d78516e69b14
+[05:04:42] [Server thread/INFO]: J8nAThAn joined the game
+[05:04:42] [Server thread/INFO]: J8nAThAn[/10.144.157.103:58874] logged in with entity id 108224 at ([world]1374.5, 24.5625, 1711.5)
+[05:04:49] [User Authenticator #40/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
+[05:04:49] [Server thread/INFO]: xNieves joined the game
+[05:04:49] [Server thread/INFO]: xNieves[/10.144.22.200:52867] logged in with entity id 108436 at ([world]4136.5, 63.0, -1096.5)
+[05:04:56] [Async Chat Thread - #43/INFO]: <xNieves> taba en el nether maldt
+[05:05:01] [Async Chat Thread - #43/INFO]: <J3ZuX> F xd
+[05:05:11] [Async Chat Thread - #43/INFO]: <xNieves> consegui mi portal
+[05:05:12] [Async Chat Thread - #43/INFO]: <xNieves> xddd
+[05:07:34] [Craft Scheduler Thread - 22/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 193
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
