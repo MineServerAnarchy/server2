@@ -1,13 +1,19 @@
 {
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "in_water": "2025-09-20 17:50:56 +0000"
+      "has_log": "2025-09-21 02:07:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "in_water": "2025-09-20 17:50:56 +0000"
+      "has_logs": "2025-09-21 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-09-21 02:13:38 +0000"
     },
     "done": true
   },
@@ -18,6 +24,30 @@
     "done": true
   },
   "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-09-20 17:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-09-21 02:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-21 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-09-20 17:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-09-20 17:50:56 +0000"
     },
@@ -37,11 +67,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-09-21 02:16:12 +0000",
       "minecraft:forest": "2025-09-20 17:46:15 +0000",
       "minecraft:beach": "2025-09-21 01:51:44 +0000",
       "minecraft:river": "2025-09-20 17:47:48 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-09-21 02:13:38 +0000"
+    },
+    "done": true
   },
   "DataVersion": 2586
 }
