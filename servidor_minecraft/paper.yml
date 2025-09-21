@@ -14,6 +14,7 @@ verbose: false
 use-display-name-in-quit-message: false
 config-version: 20
 settings:
+  use-alternative-luck-formula: false
   load-permissions-yml-before-plugins: true
   region-file-cache-size: 256
   bungee-online-mode: true
@@ -22,13 +23,12 @@ settings:
   max-joins-per-tick: 3
   track-plugin-scoreboards: false
   suggest-player-names-when-null-tab-completions: true
-  use-alternative-luck-formula: false
   fix-entity-position-desync: true
-  chunk-tasks-per-tick: 1000
-  enable-player-collisions: true
   player-auto-save-rate: -1
-  max-player-auto-save-per-tick: -1
+  max-player-auto-save-per-tick: 6
   save-empty-scoreboard-teams: false
+  enable-player-collisions: true
+  chunk-tasks-per-tick: 1000
   unsupported-settings:
     allow-headless-pistons: false
     allow-permanent-block-break-exploits: false
@@ -63,12 +63,12 @@ settings:
       title: 8192
       author: 8192
       page: 16384
-  async-chunks:
-    threads: -1
   velocity-support:
     enabled: false
     online-mode: false
     secret: ''
+  async-chunks:
+    threads: -1
 messages:
   no-permission: '&cI''m sorry, but you do not have permission to perform this command.
     Please contact the server administrators if you believe that this is in error.'
@@ -91,9 +91,19 @@ timings:
 world-settings:
   default:
     disable-teleportation-suffocation-check: false
-    max-auto-save-chunks-per-tick: 24
+    optimize-explosions: false
+    baby-zombie-movement-modifier: 0.5
+    fixed-chunk-inhabited-time: -1
+    use-vanilla-world-scoreboard-name-coloring: false
+    remove-corrupt-tile-entities: false
+    experience-merge-max-value: -1
+    prevent-moving-into-unloaded-chunks: false
+    max-auto-save-chunks-per-tick: 6
     count-all-mobs-for-spawning: false
     per-player-mob-spawns: false
+    delay-chunk-unloads-by: 10s
+    should-remove-dragon: false
+    ender-dragons-death-always-places-dragon-egg: false
     allow-using-signs-inside-spawn-protection: false
     falling-block-height-nerf: 0
     tnt-entity-height-nerf: 0
@@ -106,21 +116,11 @@ world-settings:
     phantoms-only-attack-insomniacs: true
     update-pathfinding-on-block-update: true
     fix-wither-targeting-bug: false
-    baby-zombie-movement-modifier: 0.5
-    use-vanilla-world-scoreboard-name-coloring: false
-    experience-merge-max-value: -1
-    prevent-moving-into-unloaded-chunks: false
-    delay-chunk-unloads-by: 10s
-    optimize-explosions: false
-    remove-corrupt-tile-entities: false
-    fixed-chunk-inhabited-time: -1
-    should-remove-dragon: false
-    ender-dragons-death-always-places-dragon-egg: false
     seed-based-feature-search: true
     seed-based-feature-search-loads-chunks: true
     water-over-lava-flow-speed: 5
     grass-spread-tick-rate: 1
-    use-faster-eigencraft-redstone: false
+    use-faster-eigencraft-redstone: true
     nether-ceiling-void-damage-height: 0
     only-players-collide: false
     allow-vehicle-collisions: true
@@ -139,10 +139,12 @@ world-settings:
     keep-spawn-loaded-range: 10
     disable-explosion-knockback: false
     fix-climbing-bypassing-cramming-rule: false
+    light-queue-size: 20
+    auto-save-interval: -1
     prevent-tnt-from-moving-in-water: false
-    iron-golems-can-spawn-in-air: false
-    max-leash-distance: 10.0
     show-sign-click-command-failure-msgs-to-player: false
+    max-leash-distance: 10.0
+    iron-golems-can-spawn-in-air: false
     armor-stands-tick: true
     non-player-arrow-despawn-rate: -1
     creative-arrow-despawn-rate: -1
@@ -150,13 +152,32 @@ world-settings:
     entities-target-with-follow-range: false
     zombies-target-turtle-eggs: true
     zombie-villager-infection-chance: -1.0
-    mob-spawner-tick-rate: 1
     all-chunks-are-slime-chunks: false
+    mob-spawner-tick-rate: 1
     map-item-frame-cursor-limit: 128
     enable-treasure-maps: true
     treasure-maps-return-already-discovered: false
-    light-queue-size: 20
-    auto-save-interval: -1
+    game-mechanics:
+      scan-for-legacy-ender-dragon: true
+      disable-pillager-patrols: false
+      fix-curing-zombie-villager-discount-exploit: true
+      disable-chest-cat-detection: false
+      nerf-pigmen-from-nether-portals: false
+      disable-player-crits: false
+      disable-sprint-interruption-on-attack: false
+      disable-end-credits: false
+      shield-blocking-delay: 5
+      disable-unloaded-chunk-enderpearl-exploit: true
+      disable-relative-projectile-velocity: false
+      disable-mob-spawner-spawn-egg-transformation: false
+      pillager-patrols:
+        spawn-chance: 0.2
+        spawn-delay:
+          per-player: false
+          ticks: 12000
+        start:
+          per-player: false
+          day: 5
     entity-per-chunk-save-limit:
       experience_orb: -1
       snowball: -1
@@ -193,27 +214,6 @@ world-settings:
       enabled: false
       items:
         COBBLESTONE: 300
-    game-mechanics:
-      disable-pillager-patrols: false
-      fix-curing-zombie-villager-discount-exploit: true
-      scan-for-legacy-ender-dragon: true
-      disable-chest-cat-detection: false
-      nerf-pigmen-from-nether-portals: false
-      disable-player-crits: false
-      disable-sprint-interruption-on-attack: false
-      disable-end-credits: false
-      shield-blocking-delay: 5
-      disable-unloaded-chunk-enderpearl-exploit: true
-      disable-relative-projectile-velocity: false
-      disable-mob-spawner-spawn-egg-transformation: false
-      pillager-patrols:
-        spawn-chance: 0.2
-        spawn-delay:
-          per-player: false
-          ticks: 12000
-        start:
-          per-player: false
-          day: 5
     hopper:
       cooldown-when-full: true
       disable-move-event: false
