@@ -1838,3 +1838,43 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
 [06:25:55] [Server thread/INFO]: [Server] ...
+[06:28:22] [Server thread/INFO]: [Server] ..
+[06:29:09] [Server thread/INFO]: Villager EntityVillager['Villager'/138700, uuid='1854a1b7-b8f1-4eb4-89d5-daabfedbef38', l='ServerLevel[world]', x=4098.05, y=38.00, z=-1164.98, cx=256, cz=-73, tl=300463, v=true, d=false] died, message: 'Villager was slain by Drowned'
+[06:30:22] [Server thread/INFO]: J3ZuX lost connection: Disconnected
+[06:30:22] [Server thread/INFO]: J3ZuX left the game
+[06:31:35] [Server thread/INFO]: [Server] ...
+[06:31:43] [User Authenticator #45/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
+[06:31:43] [Server thread/INFO]: J3ZuX joined the game
+[06:31:43] [Server thread/INFO]: J3ZuX[/10.144.204.103:51067] logged in with entity id 149452 at ([world]2202.3978186535646, 72.0, -176.69167327699813)
+[06:32:21] [Server thread/INFO]: xNieves has made the advancement [What a Deal!]
+[06:36:47] [Async Chat Thread - #57/INFO]: <J8nAThAn> bueno mi gente yo voy ido
+[06:36:55] [Async Chat Thread - #57/INFO]: <J3ZuX> DALEW WEON
+[06:36:55] [Async Chat Thread - #57/INFO]: <xNieves> yo igual
+[06:37:08] [Async Chat Thread - #57/INFO]: <xNieves> ya me pego sueño
+[06:37:16] [Async Chat Thread - #57/INFO]: <J8nAThAn> hablamos
+[06:37:20] [Async Chat Thread - #57/INFO]: <J3ZuX> DALE
+[06:37:21] [Server thread/INFO]: J8nAThAn lost connection: Disconnected
+[06:37:21] [Server thread/INFO]: J8nAThAn left the game
+[06:37:34] [Craft Scheduler Thread - 32/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 193
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[06:38:38] [Server thread/INFO]: Villager EntityVillager['Villager'/151310, uuid='a8f332ad-b77a-4d14-93c4-f6d40de3cb0d', l='ServerLevel[world]', x=4119.85, y=57.02, z=-1157.87, cx=257, cz=-73, tl=4109, v=true, d=false] died, message: 'Villager drowned'
+[06:39:11] [Async Chat Thread - #58/INFO]: <J3ZuX> zzzzzzzzzz
+[06:39:28] [Async Chat Thread - #58/INFO]: <J3ZuX> zzzzzzzzzzzzzz
+[06:39:29] [Async Chat Thread - #58/INFO]: <J3ZuX> zzzzzzzzzzzzzz
+[06:39:29] [Async Chat Thread - #58/INFO]: <J3ZuX> zzzzzzzzzzz
+[06:41:29] [Async Chat Thread - #59/INFO]: <xNieves> me voy
+[06:41:30] [Async Chat Thread - #59/INFO]: <xNieves> xd
+[06:41:32] [Async Chat Thread - #59/INFO]: <J3ZuX> dale man
+[06:41:40] [Async Chat Thread - #59/INFO]: <xNieves> buenas noches
+[06:41:50] [Async Chat Thread - #59/INFO]: <J3ZuX> igual mente weon
+[06:41:52] [Server thread/INFO]: xNieves lost connection: Disconnected
+[06:41:52] [Server thread/INFO]: xNieves left the game
