@@ -1707,3 +1707,51 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [05:44:08] [Async Chat Thread - #49/INFO]: <J3ZuX> ERGAAA RATA
 [05:44:18] [Async Chat Thread - #49/INFO]: <J3ZuX> UN LOGRO LEGENDARIO
 [05:44:20] [Async Chat Thread - #49/INFO]: <J8nAThAn> XD
+[05:49:15] [Async Chat Thread - #50/INFO]: <J8nAThAn> Ese poco de biomas en ese puto nethe weon xd
+[05:49:34] [Async Chat Thread - #50/INFO]: <J3ZuX> JAJAJA WEON EL MUNDO NORMAL TIENE MAS DE LA MITAD
+[05:50:03] [Async Chat Thread - #50/INFO]: <J8nAThAn> jajaja
+[05:50:05] [Async Chat Thread - #50/INFO]: <xNieves> njda en el nether hay como 5 biomas
+[05:50:09] [Async Chat Thread - #50/INFO]: <xNieves> en el normal hay mas de 15 xd
+[05:50:20] [Async Chat Thread - #50/INFO]: <J3ZuX> SISA
+[05:50:41] [Async Chat Thread - #50/INFO]: <J8nAThAn> me cague con los whiter
+[05:50:59] [Async Chat Thread - #50/INFO]: <J3ZuX> con eoso bichos no hay que confiase
+[05:51:01] [Async Chat Thread - #50/INFO]: <J8nAThAn> pero pude conseguir la tres cabezas al fin
+[05:51:08] [Async Chat Thread - #50/INFO]: <xNieves> ñelda
+[05:51:09] [Async Chat Thread - #50/INFO]: <J3ZuX> ergaa mmgv{
+[05:51:14] [Async Chat Thread - #50/INFO]: <J3ZuX> no creo xd
+[05:51:29] [Async Chat Thread - #50/INFO]: <J8nAThAn> pronto xd
+[05:51:36] [Async Chat Thread - #50/INFO]: <J3ZuX> JAA
+[05:51:38] [Async Chat Thread - #50/INFO]: <J3ZuX> AJAJA
+[05:51:43] [Async Chat Thread - #50/INFO]: <J8nAThAn> son muy arrecho eso mmgv
+[05:51:43] [Async Chat Thread - #50/INFO]: <xNieves> si es mrco
+[05:51:50] [Async Chat Thread - #50/INFO]: <J3ZuX> susa
+[05:51:58] [Async Chat Thread - #50/INFO]: <xNieves> usa arco weon
+[05:52:01] [Async Chat Thread - #50/INFO]: <xNieves> o ballesta
+[05:52:03] [Async Chat Thread - #50/INFO]: <xNieves> ese es el truco
+[05:52:24] [Async Chat Thread - #50/INFO]: <J3ZuX> lo arrecho es es matarlo mmgv sino que te la den
+[05:52:24] [Async Chat Thread - #50/INFO]: <J8nAThAn> jajaja lo tomare en cuenta
+[05:52:34] [Craft Scheduler Thread - 26/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 193
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[05:52:52] [Async Chat Thread - #50/INFO]: <xNieves> yo creo que nada mas aguantamos un coñazo del wither
+[05:52:56] [Async Chat Thread - #50/INFO]: <xNieves> de 2 nos mata
+[05:53:00] [Async Chat Thread - #50/INFO]: <xNieves> los esqueletos esos
+[05:53:09] [Async Chat Thread - #50/INFO]: <J3ZuX> SISA MAS HO EMNOS
+[05:53:34] [Async Chat Thread - #50/INFO]: <J8nAThAn> mano tengo madera azul xd
+[05:53:41] [Async Chat Thread - #50/INFO]: <J8nAThAn> no sabia que existia
+[05:53:45] [Async Chat Thread - #50/INFO]: <xNieves> yo tenia de la roja
+[05:53:47] [Async Chat Thread - #50/INFO]: <xNieves> pero me mori
+[05:53:56] [Async Chat Thread - #50/INFO]: <J8nAThAn> xd
+[05:53:59] [Server thread/WARN]: J3ZuX was kicked for floating too long!
+[05:53:59] [Server thread/INFO]: J3ZuX lost connection: Flying is not enabled on this server
+[05:53:59] [Server thread/INFO]: J3ZuX left the game
+[05:54:58] [Server thread/INFO]: [Server] ....
+[05:55:04] [Server thread/INFO]: [Server] 123
