@@ -1666,3 +1666,44 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [05:29:12] [Async Chat Thread - #45/INFO]: <J3ZuX> zzzzzzzzzzzz
 [05:29:13] [Async Chat Thread - #45/INFO]: <J3ZuX> zzzzzzzzzzzzz
 [05:29:14] [Async Chat Thread - #45/INFO]: <J3ZuX> zzzzzzzzzz
+[05:35:47] [Server thread/INFO]: J8nAThAn lost connection: Timed out
+[05:35:47] [Server thread/INFO]: J8nAThAn left the game
+[05:35:49] [User Authenticator #41/INFO]: UUID of player J8nAThAn is 37dd31f1-fed6-3e4d-a7a4-d78516e69b14
+[05:35:49] [Server thread/INFO]: J8nAThAn joined the game
+[05:35:49] [Server thread/INFO]: J8nAThAn[/10.144.157.103:60522] logged in with entity id 119046 at ([world_nether]438.6426738070533, 64.0, 363.24762480011987)
+[05:35:54] [Server thread/INFO]: xNieves lost connection: You are sending too many packets, :(
+[05:35:54] [Server thread/INFO]: xNieves left the game
+[05:36:09] [User Authenticator #41/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
+[05:36:09] [Server thread/INFO]: xNieves joined the game
+[05:36:09] [Server thread/INFO]: xNieves[/10.144.22.200:61998] logged in with entity id 119103 at ([world]4632.681649212739, 61.994865262575466, -928.0015905014277)
+[05:36:21] [Async Chat Thread - #46/INFO]: <xNieves> a
+[05:36:33] [Server thread/INFO]: J3ZuX lost connection: Disconnected
+[05:36:33] [Server thread/INFO]: J3ZuX left the game
+[05:37:20] [Server thread/INFO]: [Server] 123
+[05:37:24] [Server thread/INFO]: [Server] 123
+[05:37:30] [Server thread/INFO]: [Server] COMO TEVA EL PING
+[05:37:34] [Craft Scheduler Thread - 24/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 193
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[05:37:40] [Async Chat Thread - #47/INFO]: <xNieves> DE LA NADA SUBIO BASTANTE
+[05:37:43] [Async Chat Thread - #47/INFO]: <xNieves> PERO YA SE MEJORO
+[05:37:47] [Server thread/INFO]: [Server] AMI TAMBIEN
+[05:38:05] [User Authenticator #42/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
+[05:38:05] [Server thread/INFO]: J3ZuX joined the game
+[05:38:05] [Server thread/INFO]: J3ZuX[/10.144.204.103:50796] logged in with entity id 120165 at ([world]2248.300000011921, 41.0, -127.30000001192093)
+[05:40:00] [Async Chat Thread - #48/INFO]: <J3ZuX> NOSE PORQUE SALEN TANTOS MOBS, YA ESTO NOES NORMAL
+[05:40:39] [Async Chat Thread - #48/INFO]: <xNieves> ESA MONDA TA EN ULTRA DIFICL JAJAJA
+[05:40:46] [Async Chat Thread - #48/INFO]: <J3ZuX> de pana xd
+[05:43:58] [Server thread/INFO]: J8nAThAn has completed the challenge [Hot Tourist Destinations]
+[05:44:05] [Async Chat Thread - #49/INFO]: <xNieves> erdiavlo
+[05:44:08] [Async Chat Thread - #49/INFO]: <J3ZuX> ERGAAA RATA
+[05:44:18] [Async Chat Thread - #49/INFO]: <J3ZuX> UN LOGRO LEGENDARIO
+[05:44:20] [Async Chat Thread - #49/INFO]: <J8nAThAn> XD
