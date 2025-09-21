@@ -1491,3 +1491,55 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [04:37:35] [Async Chat Thread - #36/INFO]: <Jexus_777> pero tmb me sirve
 [04:38:27] [Async Chat Thread - #36/INFO]: <Jexus_777> El hoyo es de 5x5 ?
 [04:38:39] [Async Chat Thread - #36/INFO]: <J3ZuX> DI
+[04:44:01] [Async Chat Thread - #37/INFO]: <Jexus_777> zzzzzz
+[04:44:07] [Async Chat Thread - #37/INFO]: <J3ZuX> njd jesus
+[04:44:38] [Server thread/INFO]: xNieves has made the advancement [Ol' Betsy]
+[04:45:48] [Async Chat Thread - #38/INFO]: <Jexus_777> manooooooooo
+[04:45:49] [Async Chat Thread - #38/INFO]: <Jexus_777> zzzzzzzzzzz
+[04:47:48] [Async Chat Thread - #39/INFO]: <Jexus_777> Hasta aqui juego yo
+[04:47:55] [Async Chat Thread - #39/INFO]: <Jexus_777> Mas nunca
+[04:48:03] [Async Chat Thread - #39/INFO]: <Jexus_777> Pq me tengo que ir para los bagres
+[04:48:04] [Async Chat Thread - #39/INFO]: <xNieves> ME QUEDO TUS VAINAS
+[04:48:10] [Async Chat Thread - #39/INFO]: <Jexus_777> si esq no instalo la pc alla
+[04:48:15] [Async Chat Thread - #39/INFO]: <Jexus_777> No endy
+[04:48:18] [Async Chat Thread - #39/INFO]: <Jexus_777> mis cosas las quemo
+[04:48:41] [Async Chat Thread - #39/INFO]: <xNieves> que mal
+[04:48:47] [Async Chat Thread - #39/INFO]: <Jexus_777> XDDD
+[04:49:45] [Async Chat Thread - #39/INFO]: <J3ZuX> ZZZZZZZZZZZZ
+[04:49:46] [Async Chat Thread - #39/INFO]: <J3ZuX> ZZZZZZZZZZZZZZ
+[04:49:48] [Async Chat Thread - #39/INFO]: <J3ZuX> ZZZZZZZZZZZZZZZ
+[04:49:49] [Async Chat Thread - #39/INFO]: <J3ZuX> ZZZZZZZZZZZZZZ
+[04:49:50] [Async Chat Thread - #39/INFO]: <J3ZuX> ZZZZZZZZZZZZZ
+[04:49:51] [Async Chat Thread - #39/INFO]: <J3ZuX> ZZZZZZZZZZZZZ
+[04:49:53] [Async Chat Thread - #39/INFO]: <J3ZuX> ZZZZZZZZZZZ
+[04:50:01] [Async Chat Thread - #39/INFO]: <J8nAThAn> ZZZZZZZ
+[04:50:05] [Async Chat Thread - #39/INFO]: <Jexus_777> zzz
+[04:50:05] [Async Chat Thread - #39/INFO]: <J3ZuX> ZZZZZZZZZZ
+[04:50:06] [Async Chat Thread - #39/INFO]: <J3ZuX> ZZZZZZZZZZZ
+[04:50:07] [Async Chat Thread - #39/INFO]: <J3ZuX> ZZZZZZZZZZZ
+[04:50:08] [Async Chat Thread - #39/INFO]: <J3ZuX> ZZZZZZZZZZZZ
+[04:50:11] [Async Chat Thread - #39/INFO]: <J3ZuX> ENDY MMGV
+[04:50:15] [Async Chat Thread - #39/INFO]: <Jexus_777> zzz
+[04:50:25] [Async Chat Thread - #39/INFO]: <xNieves> yo toy en el nether
+[04:50:34] [Async Chat Thread - #39/INFO]: <J3ZuX> LSITO
+[04:50:36] [Server thread/INFO]: Villager EntityVillager['Librarian'/93201, uuid='a05f283a-1245-40f0-8af4-3656a0a3b4c9', l='ServerLevel[world]', x=2213.48, y=74.00, z=-184.63, cx=138, cz=-12, tl=1019675, v=true, d=false] died, message: 'Librarian was slain by Zombie'
+[04:51:25] [Async Chat Thread - #39/INFO]: <xNieves> mano
+[04:51:32] [Async Chat Thread - #39/INFO]: <xNieves> la ballesta esta increible
+[04:51:40] [Async Chat Thread - #39/INFO]: <xNieves> me limpie un bastion a punta de flecha y ballesta
+[04:51:50] [Async Chat Thread - #39/INFO]: <J3ZuX> XD
+[04:51:55] [Async Chat Thread - #39/INFO]: <J3ZuX> TAN INCLEIBNLE NO
+[04:52:01] [Server thread/INFO]: xNieves has made the advancement [Hidden in the Depths]
+[04:52:09] [Async Chat Thread - #39/INFO]: <xNieves> AJA
+[04:52:22] [Async Chat Thread - #39/INFO]: <J3ZuX> TINE QUE SE AA PURA MANO XD
+[04:52:31] [Async Chat Thread - #39/INFO]: <xNieves> melomamas
+[04:52:34] [Craft Scheduler Thread - 20/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 193
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
