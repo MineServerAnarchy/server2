@@ -1878,3 +1878,40 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [06:41:50] [Async Chat Thread - #59/INFO]: <J3ZuX> igual mente weon
 [06:41:52] [Server thread/INFO]: xNieves lost connection: Disconnected
 [06:41:52] [Server thread/INFO]: xNieves left the game
+[06:52:34] [Craft Scheduler Thread - 33/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 193
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[06:55:08] [Server thread/INFO]: J3ZuX lost connection: Disconnected
+[06:55:08] [Server thread/INFO]: J3ZuX left the game
+[06:55:15] [Server thread/INFO]: Stopping the server
+[06:55:15] [Server thread/INFO]: Stopping server
+[06:55:15] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.7
+[06:55:15] [Server thread/INFO]: [PingTab] Disabling PingTab v1.3.5
+[06:55:15] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.11
+[06:55:15] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
+[06:55:15] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
+[06:55:15] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[06:55:15] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[06:55:15] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[06:55:15] [Server thread/INFO]: Saving players
+[06:55:15] [Server thread/INFO]: Saving worlds
+[06:55:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:55:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:55:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:55:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:55:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:55:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:55:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:55:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:55:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:55:16] [Server thread/INFO]: Flushing Chunk IO
+[06:55:16] [Server thread/INFO]: Closing Thread Pool
+[06:55:16] [Server thread/INFO]: Closing Server
