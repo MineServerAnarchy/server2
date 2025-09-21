@@ -1809,3 +1809,32 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
 [06:14:03] [Server thread/INFO]: J8nAThAn has made the advancement [Enchanter]
+[06:16:08] [Async Chat Thread - #55/INFO]: <J3ZuX> DESACTIVALE MI GRANJA DE HIERRO, YA TNGO LO SUFICIENTE
+[06:17:57] [Server thread/INFO]: Villager EntityVillager['Villager'/144061, uuid='20352a4b-db40-4811-8237-41e55cb57a83', l='ServerLevel[world]', x=4116.85, y=58.02, z=-1155.54, cx=257, cz=-73, tl=2853, v=true, d=false] died, message: 'Villager drowned'
+[06:18:09] [Async Chat Thread - #56/INFO]: <xNieves> como desactivo una granja de aldeanos? xd
+[06:18:17] [Async Chat Thread - #56/INFO]: <J3ZuX> TAPANDO AL ZOMBIE
+[06:18:25] [Async Chat Thread - #56/INFO]: <xNieves> de aldeanos mrcon
+[06:18:28] [Async Chat Thread - #56/INFO]: <xNieves> no de hierro
+[06:18:39] [Async Chat Thread - #56/INFO]: <xNieves> les rompo las camas?
+[06:18:42] [Async Chat Thread - #56/INFO]: <J3ZuX> JAJA DE HIEERO
+[06:18:56] [Async Chat Thread - #56/INFO]: <J3ZuX> SISA
+[06:19:03] [Async Chat Thread - #56/INFO]: <J3ZuX> QUITALE TODAS LAS CAMAS Y LA COMIDA
+[06:19:10] [Async Chat Thread - #56/INFO]: <J3ZuX> O EL TRABAJO DE GRANJERO
+[06:19:26] [Async Chat Thread - #56/INFO]: <J3ZuX> PERO LO MEJOR ESQ UE DEJES LAS CAMAS DE LOS ALDEANOS QUE YA ESTAN Y LSITO
+[06:19:36] [Async Chat Thread - #56/INFO]: <J3ZuX> ELLOS COGEN SI HAUY MAS CAMAS DISPONIBLES
+[06:19:55] [Async Chat Thread - #56/INFO]: <xNieves> tons les quito las camas xd
+[06:19:59] [Async Chat Thread - #56/INFO]: <xNieves> es que hice una trampa
+[06:20:04] [Async Chat Thread - #56/INFO]: <xNieves> no pueden ir a las camas xd
+[06:20:09] [Async Chat Thread - #56/INFO]: <J3ZuX> PS NOSE
+[06:22:34] [Craft Scheduler Thread - 30/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 193
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[06:25:55] [Server thread/INFO]: [Server] ...
