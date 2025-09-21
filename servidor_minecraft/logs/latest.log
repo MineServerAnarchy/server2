@@ -1382,3 +1382,86 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [04:21:27] [Async Chat Thread - #33/INFO]: <xNieves> si me vas a regalar el atril?
 [04:21:31] [Async Chat Thread - #33/INFO]: <J3ZuX> SI
 [04:21:34] [Async Chat Thread - #33/INFO]: <xNieves> voy tons
+[04:22:34] [Craft Scheduler Thread - 18/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 193
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[04:23:45] [Async Chat Thread - #34/INFO]: <xNieves> toy
+[04:23:52] [Async Chat Thread - #34/INFO]: <J3ZuX> EWSTOY EN LA GRANAJA DE EXP
+[04:23:55] [Async Chat Thread - #34/INFO]: <xNieves> voy
+[04:24:15] [Async Chat Thread - #34/INFO]: <xNieves> gracia manin
+[04:24:18] [Async Chat Thread - #34/INFO]: <J3ZuX> DALE
+[04:24:29] [Async Chat Thread - #34/INFO]: <J3ZuX> SI NO PUEDES PONER EL BLOQUE DE PIEDRE EN POR PORTAL LO DEJAS ASI
+[04:24:35] [Async Chat Thread - #34/INFO]: <xNieves> ta bien
+[04:24:41] [Async Chat Thread - #34/INFO]: <Jexus_777> gracias bro
+[04:24:57] [Async Chat Thread - #34/INFO]: <J3ZuX> AJAJAJJJA CUANDO ESCRIBO POR ESCRIBIR ESCRIBO MAS MALO QUE EL GUEBO XD
+[04:25:02] [Async Chat Thread - #34/INFO]: <J3ZuX> ASI MISMO SEGUIRE ESCRIBIENDO
+[04:25:03] [Async Chat Thread - #34/INFO]: <Jexus_777> corre perra correeee
+[04:25:17] [Async Chat Thread - #34/INFO]: <Jexus_777> quieres latieera o no =
+[04:25:24] [Async Chat Thread - #34/INFO]: <xNieves> no seas marco
+[04:25:28] [Async Chat Thread - #34/INFO]: <Jexus_777> okok
+[04:25:29] [Async Chat Thread - #34/INFO]: <xNieves> pa que quiero yo tierra
+[04:25:38] [Async Chat Thread - #34/INFO]: <J3ZuX> YO SI QUIERO
+[04:25:38] [Async Chat Thread - #34/INFO]: <Jexus_777> hacer una casa de barro
+[04:25:41] [Async Chat Thread - #34/INFO]: <J3ZuX> QUE PIDES CAMBIO+
+[04:25:46] [Async Chat Thread - #34/INFO]: <Jexus_777> tengo 8 stacks
+[04:25:47] [Async Chat Thread - #34/INFO]: <xNieves> dale mi tierra a jesu
+[04:25:50] [Async Chat Thread - #34/INFO]: <xNieves> oiste
+[04:25:58] [Async Chat Thread - #34/INFO]: <Jexus_777> jessu sal
+[04:26:00] [Async Chat Thread - #34/INFO]: <J3ZuX> Q OIDES_
+[04:26:02] [Async Chat Thread - #34/INFO]: <J3ZuX> TPIDES
+[04:26:05] [Async Chat Thread - #34/INFO]: <Jexus_777> hierrow
+[04:26:06] [Async Chat Thread - #34/INFO]: <xNieves> esos 8 stacks que me ibas a dar se lo das a martinez
+[04:26:09] [Async Chat Thread - #34/INFO]: <xNieves> no seas marico messi
+[04:26:16] [Async Chat Thread - #34/INFO]: <J3ZuX> TE DOY 1 STACL
+[04:26:17] [Async Chat Thread - #34/INFO]: <Jexus_777> bueno :((((
+[04:26:17] [Async Chat Thread - #34/INFO]: <xNieves> daselos o no vuelvo a tradear contigo
+[04:26:22] [Async Chat Thread - #34/INFO]: <xNieves> xddd
+[04:26:28] [Async Chat Thread - #34/INFO]: <J3ZuX> JAJA N DIJISTEQ UE NO ENDY
+[04:26:35] [Async Chat Thread - #34/INFO]: <Jexus_777> bu
+[04:26:41] [Async Chat Thread - #34/INFO]: <xNieves> mano nojoda
+[04:26:44] [Async Chat Thread - #34/INFO]: <xNieves> que maldito
+[04:26:44] [Async Chat Thread - #34/INFO]: <J3ZuX> JAJAJA ENDU JESUS ESTA AQUI
+[04:26:48] [Async Chat Thread - #34/INFO]: <xNieves> si xd
+[04:26:53] [Async Chat Thread - #34/INFO]: <Jexus_777> XDD
+[04:26:58] [Async Chat Thread - #34/INFO]: <Jexus_777> me vine sin q me vieras
+[04:26:59] [Async Chat Thread - #34/INFO]: <J3ZuX> QUE LE IBAS A DAR TU A JESUS ACMBIO+
+[04:27:05] [Async Chat Thread - #34/INFO]: <Jexus_777> pq no me querias aqui
+[04:27:07] [Async Chat Thread - #34/INFO]: <Jexus_777> papas
+[04:27:14] [Async Chat Thread - #34/INFO]: <Jexus_777> ya me las dio
+[04:27:17] [Async Chat Thread - #34/INFO]: <J3ZuX> xD PERO YO NO TEGNO PAPAS
+[04:27:33] [Async Chat Thread - #34/INFO]: <J3ZuX> ENDY ENTONCES ESTO ES TUYO
+[04:27:40] [Async Chat Thread - #34/INFO]: <J3ZuX> XD
+[04:27:40] [Async Chat Thread - #34/INFO]: <Jexus_777> si practicamente
+[04:27:45] [Async Chat Thread - #34/INFO]: <xNieves> si
+[04:27:47] [Async Chat Thread - #34/INFO]: <xNieves> xdddajksdan
+[04:27:49] [Async Chat Thread - #34/INFO]: <J3ZuX> TONCES PA QUE ME LAS DAS
+[04:27:56] [Async Chat Thread - #34/INFO]: <xNieves> te las regalo jesu
+[04:27:57] [Async Chat Thread - #34/INFO]: <Jexus_777> endy no las querias
+[04:28:02] [Async Chat Thread - #34/INFO]: <J3ZuX> BUENO NOSE TUMA TU HIERO
+[04:28:08] [Async Chat Thread - #34/INFO]: <Jexus_777> :'D
+[04:28:11] [Async Chat Thread - #34/INFO]: <xNieves> saliste ganador xd
+[04:28:32] [Async Chat Thread - #34/INFO]: <Jexus_777> gracias amor
+[04:28:40] [Async Chat Thread - #34/INFO]: <J3ZuX> DALE
+[04:28:41] [Async Chat Thread - #34/INFO]: <Jexus_777> Agradecido
+[04:30:39] [Async Chat Thread - #35/INFO]: <xNieves> consegui bioma azul en el nether
+[04:31:08] [Async Chat Thread - #35/INFO]: <Jexus_777> zzzzzz
+[04:31:32] [Async Chat Thread - #35/INFO]: <Jexus_777> JONAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[04:31:51] [Async Chat Thread - #35/INFO]: <J8nAThAn> CHAMO PERO SI FASTIDIAN WEON
+[04:31:59] [Async Chat Thread - #35/INFO]: <J3ZuX> ZZZZZZZZZZZZZ
+[04:32:01] [Async Chat Thread - #35/INFO]: <Jexus_777> Porfavor mano
+[04:32:03] [Async Chat Thread - #35/INFO]: <J3ZuX> MUEVETE
+[04:32:03] [Async Chat Thread - #35/INFO]: <xNieves> yo ando en el nether
+[04:32:12] [Async Chat Thread - #35/INFO]: <J3ZuX> ZZZZZZZZZZZZZZZZZZZ
+[04:32:13] [Async Chat Thread - #35/INFO]: <J3ZuX> ZZZZZZZZZZZZ
+[04:32:14] [Async Chat Thread - #35/INFO]: <J3ZuX> ZZZZZZZZZZZZ
+[04:32:16] [Async Chat Thread - #35/INFO]: <J3ZuX> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[04:32:19] [Async Chat Thread - #35/INFO]: <Jexus_777> zzz
+[04:32:24] [Async Chat Thread - #35/INFO]: <J8nAThAn> ZZZZZZZ
