@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 02:41:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-09-15 02:20:27 +0000"
@@ -212,6 +218,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-09-14 03:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 02:41:08 +0000"
     },
     "done": true
   },
@@ -368,6 +380,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_reeds": "2025-09-15 04:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 02:41:08 +0000"
     },
     "done": true
   },
@@ -558,6 +576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 02:41:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-14 03:25:01 +0000"
@@ -663,6 +687,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-09-14 03:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 02:41:08 +0000"
     },
     "done": true
   },
@@ -795,6 +825,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-09-14 03:09:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 02:41:08 +0000"
     },
     "done": true
   },
@@ -1192,6 +1228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 02:41:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-09-14 03:06:39 +0000"
@@ -1243,6 +1285,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_double_plant": "2025-09-14 04:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 02:41:08 +0000"
     },
     "done": true
   },
@@ -1390,6 +1438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 02:41:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_pickaxe": "2025-09-17 03:46:48 +0000"
@@ -1462,6 +1516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 02:41:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-09-14 03:17:05 +0000"
@@ -1483,6 +1543,12 @@
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-09-21 02:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 02:41:08 +0000"
     },
     "done": true
   },
@@ -1693,6 +1759,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-09-14 03:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 02:41:08 +0000"
     },
     "done": true
   },
@@ -1962,6 +2034,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-09-18 06:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 02:41:08 +0000"
     },
     "done": true
   },
