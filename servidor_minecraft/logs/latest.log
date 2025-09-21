@@ -1206,3 +1206,179 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [03:51:16] [Async Chat Thread - #24/INFO]: <J3ZuX> JESUS MUCHACHO RECONTRA MMGV NO TE QUIERE EN MI MALDITA BASE............... CUANDO ESTABAS AQUI UN MMGV CREEPER TE EXPLOTO Y DESTRUYO PARTE DE MI GRANJA DE ALDEANOS MMGV
 [03:51:28] [Async Chat Thread - #24/INFO]: <Jexus_777> Mano a mi no me metas en esos peo
 [03:51:33] [Async Chat Thread - #24/INFO]: <Jexus_777> a mi ningun creeper me exploto
+[03:51:51] [Async Chat Thread - #24/INFO]: <Jexus_777> puro echarles las culpas al mas webon
+[03:51:53] [Async Chat Thread - #24/INFO]: <J3ZuX> porque tenias el mmgv ping alto y no lo notaste, pero fue justo arriba de la parte donde estabas
+[03:52:02] [Async Chat Thread - #24/INFO]: <Jexus_777> :v
+[03:52:08] [Async Chat Thread - #24/INFO]: <Jexus_777> ta bien chamoa
+[03:52:09] [Async Chat Thread - #24/INFO]: <J3ZuX> porque eres el mmgv que viene pa esta mierda sin avisar
+[03:52:34] [Craft Scheduler Thread - 16/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 193
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[03:52:41] [Async Chat Thread - #24/INFO]: <Jexus_777> zzzzzzzz
+[03:52:50] [Async Chat Thread - #24/INFO]: <J3ZuX> zzzzzzzzzzzzzzzzzz
+[03:52:50] [Async Chat Thread - #24/INFO]: <xNieves> wzzz
+[03:52:50] [Async Chat Thread - #24/INFO]: <J8nAThAn> CANSERBERO ERA FAN MIO
+[03:52:54] [Async Chat Thread - #24/INFO]: <J3ZuX> zzzzzzzzzz
+[03:52:58] [Async Chat Thread - #24/INFO]: <Jexus_777> eso se llama plagio mmgvo
+[03:53:00] [Async Chat Thread - #24/INFO]: <xNieves> kyt jona
+[03:53:06] [Async Chat Thread - #24/INFO]: <xNieves> duermete un rato
+[03:53:07] [Async Chat Thread - #24/INFO]: <J3ZuX> sigue so;ando jona, anda a la cama zzzzzzzzzzz
+[03:53:15] [Async Chat Thread - #24/INFO]: <xNieves> o te mandamos a dormir
+[03:53:17] [Async Chat Thread - #24/INFO]: <xNieves> tu decides
+[03:53:18] [Async Chat Thread - #24/INFO]: <J3ZuX> zzzzzzzzzzzzzz
+[03:53:19] [Async Chat Thread - #24/INFO]: <J3ZuX> zzzzzzzzzzzzzzz
+[03:53:19] [Async Chat Thread - #24/INFO]: <Jexus_777> no entienden el origen de ese meme :v
+[03:53:20] [Async Chat Thread - #24/INFO]: <xNieves> o te silencias
+[03:53:20] [Async Chat Thread - #24/INFO]: <J3ZuX> zzzzzzzzzzzzz
+[03:53:21] [Async Chat Thread - #24/INFO]: <J8nAThAn> Z
+[03:53:22] [Async Chat Thread - #24/INFO]: <J3ZuX> zzzzzzzzzzzz
+[03:53:23] [Async Chat Thread - #24/INFO]: <J3ZuX> zzzzzzzzzzzzz
+[03:53:24] [Async Chat Thread - #24/INFO]: <J3ZuX> zzzzz
+[03:53:24] [Async Chat Thread - #24/INFO]: <xNieves> o te silenciamos
+[03:53:25] [Async Chat Thread - #24/INFO]: <J3ZuX> zzzzzzzzzzzzzzzzzzzzz
+[03:53:25] [Server thread/INFO]: J8nAThAn lost connection: Disconnected
+[03:53:25] [Server thread/INFO]: J8nAThAn left the game
+[03:53:40] [Server thread/INFO]: Villager EntityVillager['Librarian'/52900, uuid='0c7b350a-d1be-4d92-bb57-0d70e91f367a', l='ServerLevel[world]', x=2187.35, y=70.80, z=-162.36, cx=136, cz=-11, tl=974776, v=true, d=false] died, message: 'Librarian tried to swim in lava to escape Skeleton'
+[03:53:45] [User Authenticator #38/INFO]: UUID of player J8nAThAn is 37dd31f1-fed6-3e4d-a7a4-d78516e69b14
+[03:53:45] [Server thread/INFO]: J8nAThAn joined the game
+[03:53:45] [Server thread/INFO]: J8nAThAn[/10.144.157.103:55144] logged in with entity id 69354 at ([world]1629.6624201541822, 66.0, 2233.0231117497256)
+[03:54:41] [Async Chat Thread - #25/INFO]: <xNieves> martine
+[03:54:47] [Async Chat Thread - #25/INFO]: <xNieves> regalame un atril ahi si va
+[03:54:53] [Async Chat Thread - #25/INFO]: <J3ZuX> VEN
+[03:55:09] [Async Chat Thread - #25/INFO]: <xNieves> yo te aviso cuando vaya
+[03:55:12] [Async Chat Thread - #25/INFO]: <xNieves> que ando talando madera
+[03:55:13] [Async Chat Thread - #25/INFO]: <J3ZuX> DALE
+[03:55:16] [Async Chat Thread - #25/INFO]: <Jexus_777> siva
+[03:55:35] [Async Chat Thread - #25/INFO]: <J8nAThAn> TEMGO 5 TACK DE CRIPI QUE OFRECEN..???
+[03:55:43] [Async Chat Thread - #25/INFO]: <xNieves> 9 stack de diamante
+[03:55:43] [Async Chat Thread - #25/INFO]: <Jexus_777> 4 de piedra
+[03:55:52] [Async Chat Thread - #25/INFO]: <J8nAThAn> JAJAJAJA
+[03:56:05] [Async Chat Thread - #25/INFO]: <J8nAThAn> MESSI COMO QUE YA SE LO FUMO
+[03:56:16] [Async Chat Thread - #25/INFO]: <Jexus_777> Jesus
+[03:56:24] [Async Chat Thread - #25/INFO]: <Jexus_777> q tan alejado debe estar el zombi con los aldeanos
+[03:57:11] [Async Chat Thread - #25/INFO]: <Jexus_777> Jonaaaaaaaaaa
+[03:57:17] [Async Chat Thread - #25/INFO]: <Jexus_777> tengo 4 stack de carbon
+[03:57:20] [Async Chat Thread - #25/INFO]: <Jexus_777> consigueme tnt
+[03:57:23] [Async Chat Thread - #25/INFO]: <Jexus_777> JAJAJ
+[03:57:31] [Async Chat Thread - #25/INFO]: <Jexus_777> hazme ese coro ahi
+[04:00:09] [Server thread/INFO]: [Server] ...
+[04:00:22] [Async Chat Thread - #26/INFO]: <Jexus_777> MMGVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[04:00:26] [Server thread/INFO]: [Server] XD
+[04:00:42] [Async Chat Thread - #26/INFO]: <Jexus_777> Q PROBABILIDAD HAY DE Q PASE ESO
+[04:00:51] [Async Chat Thread - #26/INFO]: <Jexus_777> mi casa se quemaaaaaaaaa
+[04:00:59] [Async Chat Thread - #26/INFO]: <Jexus_777> mmgvooooooooooooooo ayudaaaaaaaaaaaaaaaaaaaa
+[04:01:03] [Async Chat Thread - #26/INFO]: <J3ZuX> ajjajaj le cayo un rayo, por eso yo no hago casa de mader
+[04:01:14] [Async Chat Thread - #26/INFO]: <Jexus_777> AAAAAAAAAAAAAAAAAAA MMGVOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[04:01:21] [Async Chat Thread - #26/INFO]: <J3ZuX> no puedes hacer ndaa
+[04:01:25] [Async Chat Thread - #26/INFO]: <Jexus_777> t-t
+[04:01:26] [Async Chat Thread - #26/INFO]: <J3ZuX> vegetta777
+[04:01:33] [Async Chat Thread - #26/INFO]: <xNieves> NOOO MI CASA TIO
+[04:01:39] [Async Chat Thread - #26/INFO]: <Jexus_777> PERRO CORREEEE
+[04:01:41] [Async Chat Thread - #26/INFO]: <Jexus_777> MMGVOOO
+[04:01:54] [Async Chat Thread - #26/INFO]: <Jexus_777> mi casa tio
+[04:01:58] [Async Chat Thread - #26/INFO]: <Jexus_777> espera espera miniatura
+[04:03:13] [Async Chat Thread - #27/INFO]: <Jexus_777> si tienen tiempo vengan a ver como quedo
+[04:04:14] [Async Chat Thread - #28/INFO]: <Jexus_777> tantos sitios para caer esa mrd
+[04:05:34] [Async Chat Thread - #29/INFO]: <Jexus_777> zzz
+[04:05:56] [Async Chat Thread - #29/INFO]: <Jexus_777> Porfa duerman
+[04:05:59] [Async Chat Thread - #29/INFO]: <xNieves> no puedo toy en el medio del mar
+[04:06:02] [Async Chat Thread - #29/INFO]: <J3ZuX> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[04:06:03] [Async Chat Thread - #29/INFO]: <xNieves> si los otros duermen me salgo
+[04:06:03] [Async Chat Thread - #29/INFO]: <Jexus_777> salte
+[04:06:12] [Async Chat Thread - #29/INFO]: <Jexus_777> JONA MAMAGVO
+[04:06:16] [Async Chat Thread - #29/INFO]: <J3ZuX> zzzzzzzzzzzzzzzzzzzz
+[04:06:17] [Async Chat Thread - #29/INFO]: <J3ZuX> zzzzzzzzzzzzzz
+[04:06:42] [Async Chat Thread - #29/INFO]: <xNieves> jona
+[04:06:57] [Async Chat Thread - #29/INFO]: <xNieves> zzz
+[04:07:05] [Async Chat Thread - #29/INFO]: <Jexus_777> SIEMPRE ES ESTE MMGVOO
+[04:07:13] [Async Chat Thread - #29/INFO]: <J3ZuX> ZZZZZZZZZZZZ
+[04:07:16] [Async Chat Thread - #29/INFO]: <xNieves> martinez dale kick por mmgvo
+[04:07:17] [Async Chat Thread - #29/INFO]: <xNieves> zzzzzzzzzzzzzzzzzzz
+[04:07:18] [Async Chat Thread - #29/INFO]: <J3ZuX> LO VOY A SACAR
+[04:07:27] [Async Chat Thread - #29/INFO]: <Jexus_777> JONAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[04:07:31] [Async Chat Thread - #29/INFO]: <J3ZuX> *&^%$#*(())(_+++[][]]\'\\\==--====
+[04:07:34] [Craft Scheduler Thread - 17/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 193
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[04:07:34] [Async Chat Thread - #29/INFO]: <J3ZuX> NO PUEDO X
+[04:07:35] [Async Chat Thread - #29/INFO]: <xNieves> xd
+[04:07:37] [Async Chat Thread - #29/INFO]: <J8nAThAn> XD
+[04:07:45] [Async Chat Thread - #29/INFO]: <xNieves> duermete jona
+[04:07:47] [Async Chat Thread - #29/INFO]: <J8nAThAn> ZZZZZZ
+[04:07:47] [Async Chat Thread - #29/INFO]: <xNieves> maldit0
+[04:08:06] [Async Chat Thread - #29/INFO]: <Jexus_777> QUIEN TIENE PAPA
+[04:08:12] [Async Chat Thread - #29/INFO]: <J8nAThAn> JAJAJA ESO ES LO MALO DE USAR EL CHAT PEQUEÑO XD
+[04:08:22] [Async Chat Thread - #29/INFO]: <J3ZuX> AGRANDA ESA MIERDA MMGV
+[04:08:29] [Server thread/INFO]: [Server] ...
+[04:08:32] [Async Chat Thread - #29/INFO]: <J8nAThAn> JAJAJA VOY
+[04:08:47] [Async Chat Thread - #29/INFO]: <Jexus_777> follen pvtos aldeanos
+[04:10:42] [Async Chat Thread - #30/INFO]: <Jexus_777> mano quien tiene zanahorias o papas
+[04:10:49] [Async Chat Thread - #30/INFO]: <Jexus_777> se lo cambio por 9 stacks de tierra
+[04:11:03] [Async Chat Thread - #30/INFO]: <xNieves> yo tengo de las dos vainas
+[04:11:05] [Async Chat Thread - #30/INFO]: <xNieves> pero njd
+[04:11:08] [Async Chat Thread - #30/INFO]: <xNieves> tas muy lejos
+[04:11:13] [Async Chat Thread - #30/INFO]: <Jexus_777> Dime unas cordenadas
+[04:11:15] [Async Chat Thread - #30/INFO]: <Jexus_777> y voy
+[04:11:42] [Async Chat Thread - #30/INFO]: <xNieves> habla con martinez y ve si podemos usar su casa como punto de encuentro
+[04:12:02] [Async Chat Thread - #30/INFO]: <Jexus_777> *habla con martinez*
+[04:12:19] [Async Chat Thread - #30/INFO]: <J3ZuX> no quiero a esa perra aqui de mnuevp
+[04:12:24] [Async Chat Thread - #30/INFO]: <xNieves> xddd
+[04:12:39] [Async Chat Thread - #30/INFO]: <Jexus_777> asi me gusta
+[04:14:12] [Async Chat Thread - #31/INFO]: <J3ZuX> ENDI TENES UN PICO DE TIQUE DE SEDA+
+[04:14:17] [Async Chat Thread - #31/INFO]: <xNieves> nop
+[04:14:21] [Async Chat Thread - #31/INFO]: <Jexus_777> se dice toque de sida para la proxima
+[04:15:12] [Async Chat Thread - #31/INFO]: <xNieves> chamo que webo con estos arboles
+[04:15:35] [Async Chat Thread - #31/INFO]: <xNieves> es uno de los que mas madera me da pero el mmgvo no deja casi arbolitos
+[04:16:14] [Server thread/INFO]: Jexus_777 issued server command: /msg xNieves MANO vamos a vernos en la casa de jesus pero donde esta el portal tas claro ¡
+[04:16:31] [Server thread/INFO]: xNieves issued server command: /msg Jexus_777 ese te va a ver xd
+[04:16:37] [Server thread/INFO]: Villager EntityVillager['Librarian'/52926, uuid='a8bb4988-50db-43d1-ab1b-97fd68cc6a6f', l='ServerLevel[world]', x=2207.44, y=74.00, z=-184.83, cx=137, cz=-12, tl=398534, v=true, d=false] died, message: 'Librarian was slain by J3ZuX'
+[04:16:48] [Server thread/INFO]: Jexus_777 issued server command: /msg xNieves pero no vamos a estar en su casa :v
+[04:17:01] [Server thread/INFO]: Jexus_777 issued server command: /msg xNieves ESO ES DANDO Y DANDO Y PAJARITO VOLANDO
+[04:17:04] [Server thread/INFO]: xNieves issued server command: /msg Jexus_777 no se que portal dices tons
+[04:17:26] [Server thread/INFO]: Jexus_777 issued server command: /msg xNieves CHAMO UN portal en ruinas no creo q nosepas
+[04:18:21] [Server thread/INFO]: xNieves issued server command: /msg
+[04:18:29] [Server thread/INFO]: xNieves issued server command: /msg Jexus_777 creo que si se
+[04:18:29] [Async Chat Thread - #32/INFO]: <J3ZuX> ZZZZZZZZZZZZZZ
+[04:18:39] [Async Chat Thread - #32/INFO]: <Jexus_777> zzzz
+[04:18:46] [Async Chat Thread - #32/INFO]: <J3ZuX> ZZZZZZZZZZZ
+[04:18:48] [Async Chat Thread - #32/INFO]: <xNieves> zz
+[04:18:58] [Async Chat Thread - #32/INFO]: <Jexus_777> nunca falta el mmgvo
+[04:19:01] [Async Chat Thread - #32/INFO]: <xNieves> este mmgvo jona
+[04:19:02] [Async Chat Thread - #32/INFO]: <J3ZuX> DE PANMA
+[04:19:09] [Async Chat Thread - #32/INFO]: <J3ZuX> ZZZZZZZZZZZZZZZZ
+[04:19:10] [Async Chat Thread - #32/INFO]: <xNieves> JOOOOOOOOOOOOOOOOOOOONAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[04:19:16] [Async Chat Thread - #32/INFO]: <J3ZuX> ZZZZZZZZZZZZ
+[04:19:17] [Server thread/INFO]: J8nAThAn lost connection: Disconnected
+[04:19:17] [Server thread/INFO]: J8nAThAn left the game
+[04:19:19] [Async Chat Thread - #32/INFO]: <J3ZuX> ZZZZZZZ
+[04:19:20] [Async Chat Thread - #32/INFO]: <J3ZuX> ZZZZZZZZZ
+[04:19:31] [User Authenticator #39/INFO]: UUID of player J8nAThAn is 37dd31f1-fed6-3e4d-a7a4-d78516e69b14
+[04:19:31] [Server thread/INFO]: J8nAThAn joined the game
+[04:19:31] [Server thread/INFO]: J8nAThAn[/10.144.157.103:56490] logged in with entity id 85859 at ([world]1404.6396733271756, 14.0, 1689.7999386723552)
+[04:19:34] [Async Chat Thread - #32/INFO]: <xNieves> la unica manera de que el mmgvo lea la vaina es escribiendo bastantes letras xd
+[04:19:49] [Server thread/INFO]: Jexus_777 issued server command: /msg xNieves En el portal o q mmgvo
+[04:19:52] [Async Chat Thread - #32/INFO]: <J3ZuX> SE HACE LA LOKA
+[04:19:55] [Server thread/INFO]: Jexus_777 issued server command: /msg xNieves necesito las papas
+[04:20:45] [Server thread/INFO]: xNieves issued server command: /msg Jexus_777 siva
+[04:21:04] [Server thread/INFO]: Jexus_777 issued server command: /msg xNieves voy llendo
+[04:21:19] [Async Chat Thread - #33/INFO]: <xNieves> jisu
+[04:21:26] [Async Chat Thread - #33/INFO]: <J3ZuX> 1Q\\
+[04:21:27] [Async Chat Thread - #33/INFO]: <xNieves> si me vas a regalar el atril?
+[04:21:31] [Async Chat Thread - #33/INFO]: <J3ZuX> SI
+[04:21:34] [Async Chat Thread - #33/INFO]: <xNieves> voy tons
