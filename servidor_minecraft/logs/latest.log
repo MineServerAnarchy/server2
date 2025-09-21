@@ -1465,3 +1465,29 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [04:32:16] [Async Chat Thread - #35/INFO]: <J3ZuX> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
 [04:32:19] [Async Chat Thread - #35/INFO]: <Jexus_777> zzz
 [04:32:24] [Async Chat Thread - #35/INFO]: <J8nAThAn> ZZZZZZZ
+[04:36:15] [Async Chat Thread - #36/INFO]: <Jexus_777> jesu
+[04:36:20] [Async Chat Thread - #36/INFO]: <J3ZuX> Q
+[04:36:21] [Async Chat Thread - #36/INFO]: <Jexus_777> cuanto de profundidad pa la granja
+[04:36:30] [Async Chat Thread - #36/INFO]: <Jexus_777> 2 bloqs
+[04:36:31] [Async Chat Thread - #36/INFO]: <J3ZuX> 3 BLOQYUES
+[04:36:31] [Async Chat Thread - #36/INFO]: <Jexus_777> ?
+[04:36:40] [Async Chat Thread - #36/INFO]: <Jexus_777> ya
+[04:36:54] [Async Chat Thread - #36/INFO]: <J3ZuX> DICE EN DONDE SE MORIRA EL GOLEN_
+[04:37:10] [Async Chat Thread - #36/INFO]: <Jexus_777> en una esquina no ?
+[04:37:25] [Async Chat Thread - #36/INFO]: <J3ZuX> ME REFIERO A QUE SI HABLAS DE ESO MMGV
+[04:37:31] [Async Chat Thread - #36/INFO]: <Jexus_777> no
+[04:37:34] [Craft Scheduler Thread - 19/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 193
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[04:37:34] [Async Chat Thread - #36/INFO]: <J3ZuX> EHONCES
+[04:37:35] [Async Chat Thread - #36/INFO]: <Jexus_777> pero tmb me sirve
+[04:38:27] [Async Chat Thread - #36/INFO]: <Jexus_777> El hoyo es de 5x5 ?
+[04:38:39] [Async Chat Thread - #36/INFO]: <J3ZuX> DI
