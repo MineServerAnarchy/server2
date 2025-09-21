@@ -1099,3 +1099,75 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [03:29:47] [User Authenticator #36/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
 [03:29:48] [Server thread/INFO]: Jexus_777 joined the game
 [03:29:48] [Server thread/INFO]: Jexus_777[/10.144.149.96:50104] logged in with entity id 54834 at ([world]1799.5777678950844, 63.0, 104.08558538434194)
+[03:32:41] [Async Chat Thread - #19/INFO]: <Jexus_777> ELLA NUNCA DEJO DE CREER
+[03:32:46] [Async Chat Thread - #19/INFO]: <xNieves> mmgvo
+[03:32:47] [Async Chat Thread - #19/INFO]: <J3ZuX> xd
+[03:32:48] [Async Chat Thread - #19/INFO]: <xNieves> pto susto
+[03:32:49] [Async Chat Thread - #19/INFO]: <xNieves> de mierda
+[03:32:52] [Async Chat Thread - #19/INFO]: <xNieves> kbrin
+[03:32:55] [Async Chat Thread - #19/INFO]: <xNieves> ya
+[03:32:56] [Async Chat Thread - #19/INFO]: <xNieves> va
+[03:32:59] [Async Chat Thread - #19/INFO]: <xNieves> puedes abrir?
+[03:33:00] [Async Chat Thread - #19/INFO]: <xNieves> njda
+[03:33:05] [Async Chat Thread - #19/INFO]: <J3ZuX> sisa
+[03:33:11] [Async Chat Thread - #19/INFO]: <xNieves> y entonces mano
+[03:33:13] [Async Chat Thread - #19/INFO]: <J3ZuX> soy administrado
+[03:33:15] [Async Chat Thread - #19/INFO]: <xNieves> aaaa
+[03:33:20] [Async Chat Thread - #19/INFO]: <xNieves> mosca me robas mrcon
+[03:33:21] [Async Chat Thread - #19/INFO]: <J3ZuX> xd los demas no pueden
+[03:33:32] [Async Chat Thread - #19/INFO]: <J3ZuX> que va weon, emprestame una piesa de oro
+[03:33:40] [Async Chat Thread - #19/INFO]: <xNieves> toma
+[03:33:51] [Async Chat Thread - #19/INFO]: <J3ZuX> te pareces a esos loko
+[03:33:57] [Async Chat Thread - #19/INFO]: <xNieves> pq
+[03:33:59] [Async Chat Thread - #19/INFO]: <J3ZuX> me pasp minecraft en el agua xd
+[03:34:06] [Async Chat Thread - #19/INFO]: <J3ZuX> solo en el agua xd
+[03:34:11] [Async Chat Thread - #19/INFO]: <xNieves> xddd
+[03:34:15] [Async Chat Thread - #19/INFO]: <J3ZuX> chao
+[03:34:17] [Async Chat Thread - #19/INFO]: <xNieves> pa alla hay una aleda
+[03:34:18] [Async Chat Thread - #19/INFO]: <xNieves> xd
+[03:34:20] [Async Chat Thread - #19/INFO]: <xNieves> chao
+[03:34:39] [Server thread/INFO]: J3ZuX has made the advancement [Those Were the Days]
+[03:34:43] [Async Chat Thread - #19/INFO]: <Jexus_777> Q TIEMPOS
+[03:34:58] [Async Chat Thread - #19/INFO]: <J3ZuX> la bation
+[03:36:27] [Async Chat Thread - #20/INFO]: <Jexus_777> M,ano
+[03:36:34] [Async Chat Thread - #20/INFO]: <Jexus_777> una loca me dijo que cuando tuviera partido la invitara
+[03:36:41] [Async Chat Thread - #20/INFO]: <Jexus_777> Voy a llorar
+[03:36:41] [Async Chat Thread - #20/INFO]: <J3ZuX> y?
+[03:36:42] [Async Chat Thread - #20/INFO]: <xNieves> detonala
+[03:36:49] [Async Chat Thread - #20/INFO]: <xNieves> hacela montiel
+[03:36:53] [Async Chat Thread - #20/INFO]: <xNieves> somos todos montieñ
+[03:37:00] [Async Chat Thread - #20/INFO]: <Jexus_777> por dioss hacelooo cueeevaaas
+[03:37:03] [Async Chat Thread - #20/INFO]: <J3ZuX> mont qe¡
+[03:37:24] [Async Chat Thread - #20/INFO]: <Jexus_777> jona
+[03:37:34] [Craft Scheduler Thread - 15/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 193
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[03:37:45] [Async Chat Thread - #20/INFO]: <Jexus_777> J8nAThAn
+[03:38:22] [Async Chat Thread - #20/INFO]: <Jexus_777> qn tiene un yunque ?
+[03:38:39] [Async Chat Thread - #20/INFO]: <J3ZuX> yo pero no lo empresto igual, eso se daña
+[03:38:54] [Async Chat Thread - #20/INFO]: <Jexus_777> es para ponerle nombre a la etiqueta y ya bro
+[03:39:11] [Async Chat Thread - #20/INFO]: <J3ZuX> consigue carbon y te doy hieero, con eso te haces tu yunque xd
+[03:39:22] [Async Chat Thread - #20/INFO]: <Jexus_777> :'v
+[03:39:24] [Async Chat Thread - #20/INFO]: <xNieves> no sabe hacerse un yunqu xd
+[03:39:32] [Async Chat Thread - #20/INFO]: <J3ZuX> mrk ps
+[03:39:33] [Async Chat Thread - #20/INFO]: <Jexus_777> zzzzzzzzzzzz
+[03:40:00] [Async Chat Thread - #20/INFO]: <xNieves> zzz
+[03:40:11] [Async Chat Thread - #20/INFO]: <J3ZuX> TOY EN NETHER
+[03:40:20] [Async Chat Thread - #20/INFO]: <Jexus_777> JONAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[03:40:24] [Async Chat Thread - #20/INFO]: <xNieves> siempre falta jona
+[03:40:30] [Async Chat Thread - #20/INFO]: <J8nAThAn> QUE
+[03:40:32] [Async Chat Thread - #20/INFO]: <Jexus_777> ESE MMGVO NO LEE EL CHAT
+[03:40:47] [Async Chat Thread - #20/INFO]: <J8nAThAn> QUE QUIERES MMGV
+[03:40:51] [Async Chat Thread - #20/INFO]: <xNieves> zzzzzzzzzzzzzzzzzzzzz
+[03:40:54] [Async Chat Thread - #20/INFO]: <Jexus_777> zzzzzzzzz
+[03:40:59] [Server thread/INFO]: J8nAThAn lost connection: Disconnected
+[03:40:59] [Server thread/INFO]: J8nAThAn left the game
+[03:41:13] [Async Chat Thread - #20/INFO]: <Jexus_777> MUCHISIMAS GRACIAS BRO
