@@ -1755,3 +1755,57 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [05:53:59] [Server thread/INFO]: J3ZuX left the game
 [05:54:58] [Server thread/INFO]: [Server] ....
 [05:55:04] [Server thread/INFO]: [Server] 123
+[05:55:20] [User Authenticator #43/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
+[05:55:20] [Server thread/INFO]: J3ZuX joined the game
+[05:55:20] [Server thread/INFO]: J3ZuX[/10.144.204.103:50882] logged in with entity id 130910 at ([world]2243.575868768783, 13.789478762699561, -129.64919881899797)
+[05:56:19] [Async Chat Thread - #51/INFO]: <J3ZuX> que es lo mas importante que uno debe siempre llevar para ustedes¡¡¡ en el jeugo
+[05:56:28] [Async Chat Thread - #51/INFO]: <J8nAThAn> agua xd
+[05:56:32] [Async Chat Thread - #51/INFO]: <xNieves> agua
+[05:56:32] [Async Chat Thread - #51/INFO]: <J3ZuX> endy
+[05:56:35] [Async Chat Thread - #51/INFO]: <J3ZuX> xsisa
+[05:56:43] [Async Chat Thread - #51/INFO]: <J8nAThAn> por si sale guaterdrosito xd
+[05:56:52] [Async Chat Thread - #51/INFO]: <xNieves> eso en el overwold
+[05:56:57] [Async Chat Thread - #51/INFO]: <xNieves> en el nether yo digo que bloques
+[05:57:02] [Async Chat Thread - #51/INFO]: <J3ZuX> O (CHARMANDER QUEMADURA)
+[05:57:03] [Async Chat Thread - #51/INFO]: <xNieves> o mejor dicho pcios
+[05:59:03] [Server thread/INFO]: J3ZuX issued server command: /PING
+[06:01:25] [Async Chat Thread - #52/INFO]: <xNieves> entre un pico y un hacha que prefieren llevar siempre
+[06:01:40] [Async Chat Thread - #52/INFO]: <J3ZuX> OBVIO QUE PICO MMGV
+[06:01:48] [Async Chat Thread - #52/INFO]: <xNieves> jona
+[06:01:56] [Async Chat Thread - #52/INFO]: <J8nAThAn> pico
+[06:02:00] [Async Chat Thread - #52/INFO]: <xNieves> ta bien
+[06:02:02] [Async Chat Thread - #52/INFO]: <xNieves> si le saben
+[06:02:09] [Async Chat Thread - #52/INFO]: <J3ZuX> XD
+[06:04:24] [Async Chat Thread - #53/INFO]: <J8nAThAn> zzz
+[06:04:29] [Async Chat Thread - #53/INFO]: <xNieves> ya va
+[06:04:33] [Async Chat Thread - #53/INFO]: <xNieves> deme un chance
+[06:04:37] [Async Chat Thread - #53/INFO]: <J8nAThAn> dale
+[06:06:38] [Server thread/INFO]: [Server] 123
+[06:07:03] [Async Chat Thread - #54/INFO]: <xNieves> ahora si
+[06:07:03] [Async Chat Thread - #54/INFO]: <xNieves> zzz
+[06:07:08] [Async Chat Thread - #54/INFO]: <J8nAThAn> zzzzzzzzzzzzzzz
+[06:07:10] [Server thread/INFO]: J3ZuX lost connection: Disconnected
+[06:07:10] [Server thread/INFO]: J3ZuX left the game
+[06:07:13] [Server thread/INFO]: J8nAThAn lost connection: Disconnected
+[06:07:13] [Server thread/INFO]: J8nAThAn left the game
+[06:07:15] [Server thread/INFO]: [Server] listooo
+[06:07:19] [Async Chat Thread - #54/INFO]: <xNieves> si
+[06:07:19] [Server thread/INFO]: [Server] ??
+[06:07:27] [User Authenticator #44/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
+[06:07:27] [Server thread/INFO]: J3ZuX joined the game
+[06:07:27] [Server thread/INFO]: J3ZuX[/10.144.204.103:50957] logged in with entity id 139559 at ([world]2121.300000011921, 68.0, -87.64496417480223)
+[06:07:31] [User Authenticator #44/INFO]: UUID of player J8nAThAn is 37dd31f1-fed6-3e4d-a7a4-d78516e69b14
+[06:07:31] [Server thread/INFO]: J8nAThAn joined the game
+[06:07:31] [Server thread/INFO]: J8nAThAn[/10.144.157.103:62263] logged in with entity id 139806 at ([world]1413.0357804053253, 63.0, 1685.5746692309735)
+[06:07:34] [Craft Scheduler Thread - 29/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 193
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[06:14:03] [Server thread/INFO]: J8nAThAn has made the advancement [Enchanter]

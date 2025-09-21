@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-09-21 05:59:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-18 03:32:53 +0000"
@@ -909,6 +915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-21 05:59:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-09-19 05:47:22 +0000"
@@ -1393,6 +1405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-09-21 05:59:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-09-20 03:20:48 +0000"
@@ -1821,7 +1839,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:pig": "2025-09-19 04:04:43 +0000"
+      "minecraft:pig": "2025-09-19 04:04:43 +0000",
+      "minecraft:cow": "2025-09-21 06:07:54 +0000"
     },
     "done": false
   },
