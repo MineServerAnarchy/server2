@@ -1622,3 +1622,47 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
+[05:15:06] [Async Chat Thread - #44/INFO]: <xNieves> zz
+[05:15:28] [Async Chat Thread - #44/INFO]: <J3ZuX> zzzzzzzzzzzzz
+[05:15:43] [Async Chat Thread - #44/INFO]: <J3ZuX> zzzzzzzzzzzzz
+[05:15:43] [Async Chat Thread - #44/INFO]: <J8nAThAn> ZZZZZ
+[05:15:44] [Async Chat Thread - #44/INFO]: <J3ZuX> zzzzzzzzzzz
+[05:15:45] [Async Chat Thread - #44/INFO]: <J3ZuX> zzzzzzzzzzzz
+[05:15:46] [Async Chat Thread - #44/INFO]: <J3ZuX> zzzzzzzzzzz
+[05:22:34] [Craft Scheduler Thread - 23/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 193
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[05:22:56] [Server thread/INFO]: [Server] xxx
+[05:27:38] [Async Chat Thread - #45/INFO]: <xNieves> chamo
+[05:27:41] [Async Chat Thread - #45/INFO]: <xNieves> que lala
+[05:27:48] [Async Chat Thread - #45/INFO]: <xNieves> craftie dispensadores
+[05:27:53] [Async Chat Thread - #45/INFO]: <xNieves> y eran soltadores
+[05:27:53] [Async Chat Thread - #45/INFO]: <xNieves> jkassd
+[05:28:22] [Async Chat Thread - #45/INFO]: <J3ZuX> zzzzzzzzzzz
+[05:28:24] [Async Chat Thread - #45/INFO]: <J3ZuX> zzzzzzzzzz
+[05:28:25] [Async Chat Thread - #45/INFO]: <J3ZuX> zzzzzzzzzzzzz
+[05:28:26] [Async Chat Thread - #45/INFO]: <xNieves> zz
+[05:28:26] [Async Chat Thread - #45/INFO]: <J3ZuX> zzzzzzzzzzzzzz
+[05:28:27] [Async Chat Thread - #45/INFO]: <J3ZuX> zzzzzzzzzz
+[05:28:29] [Async Chat Thread - #45/INFO]: <J3ZuX> zzzzzzzzzzz
+[05:28:30] [Async Chat Thread - #45/INFO]: <J3ZuX> zzzzzzzzzzzzzzzz
+[05:28:31] [Async Chat Thread - #45/INFO]: <J3ZuX> zzzzzzzzzzzzz
+[05:28:33] [Async Chat Thread - #45/INFO]: <J3ZuX> zzzzzzzzzzzzzz
+[05:28:34] [Async Chat Thread - #45/INFO]: <J3ZuX> zzzzzzzzzzzzz
+[05:28:37] [Async Chat Thread - #45/INFO]: <xNieves> jona
+[05:28:38] [Async Chat Thread - #45/INFO]: <J8nAThAn> ZZZZZZZZZ
+[05:28:39] [Async Chat Thread - #45/INFO]: <xNieves> mmgvo
+[05:28:56] [Async Chat Thread - #45/INFO]: <xNieves> zzzzz
+[05:29:02] [Async Chat Thread - #45/INFO]: <xNieves> bueno quien falta pue
+[05:29:11] [Async Chat Thread - #45/INFO]: <J3ZuX> zzzzzzzzzzzzz
+[05:29:12] [Async Chat Thread - #45/INFO]: <J3ZuX> zzzzzzzzzzzz
+[05:29:13] [Async Chat Thread - #45/INFO]: <J3ZuX> zzzzzzzzzzzzz
+[05:29:14] [Async Chat Thread - #45/INFO]: <J3ZuX> zzzzzzzzzz
