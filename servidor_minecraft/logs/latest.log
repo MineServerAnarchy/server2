@@ -104,3 +104,198 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [01:46:54] [Server thread/INFO]: Lix4nD3r joined the game
 [01:46:54] [Server thread/INFO]: Lix4nD3r[/10.144.73.36:58408] logged in with entity id 1911 at ([world]90.62471525124406, 74.0, -225.30000001192093)
 [01:47:07] [Async Chat Thread - #0/INFO]: <J3ZuX> hablame ATIIIIII
+[01:47:39] [Server thread/WARN]: Lix4nD3r was kicked due to keepalive timeout!
+[01:47:39] [Server thread/INFO]: Lix4nD3r lost connection: Timed out
+[01:47:39] [Server thread/INFO]: Lix4nD3r left the game
+[01:47:48] [Async Chat Thread - #0/INFO]: <J3ZuX> jona zzzzzzzzzz
+[01:47:50] [Async Chat Thread - #0/INFO]: <J3ZuX> zzzzzzzzz
+[01:47:51] [Async Chat Thread - #0/INFO]: <J3ZuX> zzzzzzzzzz
+[01:47:52] [Async Chat Thread - #0/INFO]: <J3ZuX> zzzzzzzzzzzz
+[01:47:52] [Async Chat Thread - #0/INFO]: <J3ZuX> z
+[01:47:53] [Async Chat Thread - #0/INFO]: <J3ZuX> z
+[01:47:53] [Async Chat Thread - #0/INFO]: <J8nAThAn> zz
+[01:47:54] [Async Chat Thread - #0/INFO]: <J8nAThAn> z
+[01:47:54] [Async Chat Thread - #0/INFO]: <J8nAThAn> z
+[01:47:54] [Async Chat Thread - #0/INFO]: <J3ZuX> zzzzzzzzzzzz
+[01:47:54] [Async Chat Thread - #0/INFO]: <J8nAThAn> z
+[01:47:54] [Async Chat Thread - #0/INFO]: <J8nAThAn> zz
+[01:47:54] [Async Chat Thread - #0/INFO]: <J8nAThAn> z
+[01:47:54] [Async Chat Thread - #0/INFO]: <J8nAThAn> z
+[01:47:55] [Async Chat Thread - #0/INFO]: <J3ZuX> zzzzzzzz
+[01:47:55] [Async Chat Thread - #0/INFO]: <J8nAThAn> z
+[01:47:55] [Async Chat Thread - #0/INFO]: <J8nAThAn> z
+[01:47:55] [Async Chat Thread - #0/INFO]: <J8nAThAn> z
+[01:47:55] [Async Chat Thread - #0/INFO]: <J8nAThAn> z
+[01:47:55] [Async Chat Thread - #0/INFO]: <J8nAThAn> z
+[01:48:17] [User Authenticator #3/INFO]: UUID of player Lix4nD3r is a6735982-79e6-34dd-8845-e3e6c496b674
+[01:48:17] [Server thread/INFO]: Lix4nD3r joined the game
+[01:48:17] [Server thread/INFO]: Lix4nD3r[/10.144.73.36:58432] logged in with entity id 2524 at ([world]102.72972064484738, 81.0, -216.66651405267083)
+[01:49:02] [Server thread/WARN]: Lix4nD3r was kicked due to keepalive timeout!
+[01:49:02] [Server thread/INFO]: Lix4nD3r lost connection: Timed out
+[01:49:02] [Server thread/INFO]: Lix4nD3r left the game
+[01:51:13] [User Authenticator #4/INFO]: UUID of player Lix4nD3r is a6735982-79e6-34dd-8845-e3e6c496b674
+[01:51:13] [Server thread/INFO]: Lix4nD3r joined the game
+[01:51:13] [Server thread/INFO]: Lix4nD3r[/10.144.73.36:58556] logged in with entity id 3250 at ([world]89.35474000574261, 79.0, -216.1880856632322)
+[01:51:29] [User Authenticator #4/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[01:51:29] [Server thread/INFO]: Jexus_777 joined the game
+[01:51:29] [Server thread/INFO]: Jexus_777[/10.144.149.96:49427] logged in with entity id 3434 at ([world]1842.719735212147, 71.0, 131.399842387497)
+[01:51:58] [Server thread/WARN]: Lix4nD3r was kicked due to keepalive timeout!
+[01:51:58] [Server thread/INFO]: Lix4nD3r lost connection: Timed out
+[01:51:58] [Server thread/INFO]: Lix4nD3r left the game
+[01:52:14] [Server thread/WARN]: Jexus_777 was kicked due to keepalive timeout!
+[01:52:14] [Server thread/INFO]: Jexus_777 lost connection: Timed out
+[01:52:14] [Server thread/INFO]: Jexus_777 left the game
+[01:52:34] [Craft Scheduler Thread - 5/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 193
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[01:52:39] [User Authenticator #5/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[01:52:40] [Server thread/INFO]: Jexus_777 joined the game
+[01:52:40] [Server thread/INFO]: Jexus_777[/10.144.149.96:49441] logged in with entity id 4084 at ([world]1842.719735212147, 71.0, 131.399842387497)
+[01:53:25] [Server thread/WARN]: Jexus_777 was kicked due to keepalive timeout!
+[01:53:25] [Server thread/INFO]: Jexus_777 lost connection: Timed out
+[01:53:25] [Server thread/INFO]: Jexus_777 left the game
+[01:53:41] [User Authenticator #6/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[01:53:41] [Server thread/INFO]: Jexus_777 joined the game
+[01:53:41] [Server thread/INFO]: Jexus_777[/10.144.149.96:49467] logged in with entity id 4517 at ([world]1843.3197713225327, 70.5, 131.33297442912541)
+[01:53:49] [Server thread/INFO]: [Server] ...
+[01:54:26] [Server thread/WARN]: Jexus_777 was kicked due to keepalive timeout!
+[01:54:26] [Server thread/INFO]: Jexus_777 lost connection: Timed out
+[01:54:26] [Server thread/INFO]: Jexus_777 left the game
+[01:55:04] [User Authenticator #7/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[01:55:04] [Server thread/INFO]: Jexus_777 joined the game
+[01:55:04] [Server thread/INFO]: Jexus_777[/10.144.149.96:49469] logged in with entity id 4988 at ([world]1845.699999988079, 71.0, 132.20073151881678)
+[01:55:30] [User Authenticator #7/INFO]: UUID of player Lix4nD3r is a6735982-79e6-34dd-8845-e3e6c496b674
+[01:55:30] [Server thread/INFO]: Lix4nD3r joined the game
+[01:55:30] [Server thread/INFO]: Lix4nD3r[/10.144.73.36:58596] logged in with entity id 5274 at ([world]97.52424593002512, 64.0, -183.62985118932284)
+[01:55:45] [Async Chat Thread - #1/INFO]: <J8nAThAn> martinez entra al facebook
+[01:55:49] [Async Chat Thread - #1/INFO]: <J3ZuX> voy
+[01:55:49] [Server thread/WARN]: Jexus_777 was kicked due to keepalive timeout!
+[01:55:49] [Server thread/INFO]: Jexus_777 lost connection: Timed out
+[01:55:49] [Server thread/INFO]: Jexus_777 left the game
+[01:56:03] [Server thread/INFO]: Lix4nD3r lost connection: Timed out
+[01:56:03] [Server thread/INFO]: Lix4nD3r left the game
+[01:56:08] [User Authenticator #7/INFO]: UUID of player Lix4nD3r is a6735982-79e6-34dd-8845-e3e6c496b674
+[01:56:08] [Server thread/INFO]: Lix4nD3r joined the game
+[01:56:08] [Server thread/INFO]: Lix4nD3r[/10.144.73.36:58612] logged in with entity id 5549 at ([world]97.52424593002512, 64.0, -183.62985118932284)
+[01:56:27] [User Authenticator #7/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[01:56:27] [Server thread/INFO]: Jexus_777 joined the game
+[01:56:27] [Server thread/INFO]: Jexus_777[/10.144.149.96:49471] logged in with entity id 5729 at ([world]1800.323977297098, 63.0, 114.64596160288426)
+[01:56:39] [Server thread/INFO]: Lix4nD3r lost connection: Timed out
+[01:56:39] [Server thread/INFO]: Lix4nD3r left the game
+[01:56:48] [Async Chat Thread - #1/INFO]: <Jexus_777> BORREN EL SERVER LA PTM
+[01:56:49] [Async Chat Thread - #1/INFO]: <Jexus_777> KAKAKA
+[01:57:12] [Server thread/WARN]: Jexus_777 was kicked due to keepalive timeout!
+[01:57:12] [Server thread/INFO]: Jexus_777 lost connection: Timed out
+[01:57:12] [Server thread/INFO]: Jexus_777 left the game
+[01:57:49] [User Authenticator #8/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[01:57:49] [Server thread/INFO]: Jexus_777 joined the game
+[01:57:49] [Server thread/INFO]: Jexus_777[/10.144.149.96:49473] logged in with entity id 6241 at ([world]1798.206806638925, 65.0, 99.07176594088152)
+[01:58:16] [User Authenticator #8/INFO]: UUID of player Lix4nD3r is a6735982-79e6-34dd-8845-e3e6c496b674
+[01:58:16] [Server thread/INFO]: Lix4nD3r joined the game
+[01:58:16] [Server thread/INFO]: Lix4nD3r[/10.144.73.36:58726] logged in with entity id 6545 at ([world]97.52424593002512, 64.0, -183.62985118932284)
+[01:58:34] [Server thread/WARN]: Jexus_777 was kicked due to keepalive timeout!
+[01:58:34] [Server thread/INFO]: Jexus_777 lost connection: Timed out
+[01:58:34] [Server thread/INFO]: Jexus_777 left the game
+[01:58:43] [User Authenticator #8/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[01:58:43] [Server thread/INFO]: Jexus_777 joined the game
+[01:58:43] [Server thread/INFO]: Jexus_777[/10.144.149.96:49476] logged in with entity id 6768 at ([world]1842.323465311783, 71.0, 132.04035738949406)
+[01:58:55] [Server thread/INFO]: Jexus_777 lost connection: Disconnected
+[01:58:55] [Server thread/INFO]: Jexus_777 left the game
+[01:59:01] [Server thread/WARN]: Lix4nD3r was kicked due to keepalive timeout!
+[01:59:01] [Server thread/INFO]: Lix4nD3r lost connection: Timed out
+[01:59:01] [Server thread/INFO]: Lix4nD3r left the game
+[01:59:56] [User Authenticator #9/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[01:59:56] [Server thread/INFO]: Jexus_777 joined the game
+[01:59:56] [Server thread/INFO]: Jexus_777[/10.144.149.96:49503] logged in with entity id 7098 at ([world]1842.323465311783, 71.0, 132.04035738949406)
+[02:00:41] [Server thread/WARN]: Jexus_777 was kicked due to keepalive timeout!
+[02:00:41] [Server thread/INFO]: Jexus_777 lost connection: Timed out
+[02:00:41] [Server thread/INFO]: Jexus_777 left the game
+[02:01:11] [Async Chat Thread - #2/INFO]: <J8nAThAn> zz
+[02:01:17] [Async Chat Thread - #2/INFO]: <J8nAThAn> ZZZZZ
+[02:01:17] [Async Chat Thread - #2/INFO]: <J8nAThAn> Z
+[02:01:17] [Async Chat Thread - #2/INFO]: <J8nAThAn> Z
+[02:01:17] [Async Chat Thread - #2/INFO]: <J8nAThAn> Z
+[02:01:18] [Async Chat Thread - #2/INFO]: <J8nAThAn> Z
+[02:01:18] [User Authenticator #10/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[02:01:18] [Server thread/INFO]: Jexus_777 joined the game
+[02:01:18] [Server thread/INFO]: Jexus_777[/10.144.149.96:49505] logged in with entity id 7534 at ([world]1839.0459795881181, 70.0, 131.83214303959707)
+[02:01:18] [Async Chat Thread - #2/INFO]: <J8nAThAn> Z
+[02:01:18] [Async Chat Thread - #2/INFO]: <J8nAThAn> Z
+[02:01:18] [Async Chat Thread - #2/INFO]: <J8nAThAn> Z
+[02:01:18] [Async Chat Thread - #2/INFO]: <J8nAThAn> Z
+[02:01:19] [Async Chat Thread - #2/INFO]: <J3ZuX> ZZZ
+[02:01:20] [Async Chat Thread - #2/INFO]: <J3ZuX> Z
+[02:01:20] [Async Chat Thread - #2/INFO]: <J3ZuX> Z
+[02:01:20] [Async Chat Thread - #2/INFO]: <J3ZuX> Z
+[02:01:21] [Async Chat Thread - #2/INFO]: <J3ZuX> ZZZ
+[02:01:24] [Async Chat Thread - #2/INFO]: <J3ZuX> ZZZZZZZZZZZZZZZZZZ
+[02:01:24] [Async Chat Thread - #2/INFO]: <J3ZuX> Z
+[02:01:24] [Async Chat Thread - #2/INFO]: <J3ZuX> Z
+[02:01:24] [Async Chat Thread - #2/INFO]: <J3ZuX> Z
+[02:01:24] [Async Chat Thread - #2/INFO]: <J3ZuX> Z
+[02:01:25] [Async Chat Thread - #2/INFO]: <J3ZuX> Z
+[02:01:25] [Async Chat Thread - #2/INFO]: <J3ZuX> Z
+[02:01:27] [Async Chat Thread - #2/INFO]: <J3ZuX> ZZZ
+[02:01:27] [Async Chat Thread - #2/INFO]: <J3ZuX> Z
+[02:01:27] [Async Chat Thread - #2/INFO]: <J3ZuX> Z
+[02:01:27] [Async Chat Thread - #2/INFO]: <J3ZuX> Z
+[02:01:28] [Async Chat Thread - #2/INFO]: <J3ZuX> ZZ
+[02:01:47] [Server thread/INFO]: Jexus_777 lost connection: Disconnected
+[02:01:47] [Server thread/INFO]: Jexus_777 left the game
+[02:02:00] [User Authenticator #10/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[02:02:00] [Server thread/INFO]: Jexus_777 joined the game
+[02:02:00] [Server thread/INFO]: Jexus_777[/10.144.149.96:49508] logged in with entity id 7863 at ([world]1845.5, 71.0, 130.5)
+[02:02:45] [Server thread/WARN]: Jexus_777 was kicked due to keepalive timeout!
+[02:02:45] [Server thread/INFO]: Jexus_777 lost connection: Timed out
+[02:02:45] [Server thread/INFO]: Jexus_777 left the game
+[02:03:24] [User Authenticator #11/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[02:03:24] [Server thread/INFO]: Jexus_777 joined the game
+[02:03:24] [Server thread/INFO]: Jexus_777[/10.144.149.96:49510] logged in with entity id 8393 at ([world]1841.8907918139494, 70.0, 133.4075933656949)
+[02:04:09] [Server thread/WARN]: Jexus_777 was kicked due to keepalive timeout!
+[02:04:09] [Server thread/INFO]: Jexus_777 lost connection: Timed out
+[02:04:09] [Server thread/INFO]: Jexus_777 left the game
+[02:04:50] [User Authenticator #12/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[02:04:50] [Server thread/INFO]: Jexus_777 joined the game
+[02:04:50] [Server thread/INFO]: Jexus_777[/10.144.149.96:49542] logged in with entity id 9057 at ([world]1841.8907918139494, 70.0, 133.4075933656949)
+[02:05:00] [User Authenticator #12/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
+[02:05:00] [Server thread/INFO]: xNieves joined the game
+[02:05:00] [Server thread/INFO]: xNieves[/10.144.22.200:49152] logged in with entity id 9417 at ([world]4120.361990403392, 62.0, -1091.0853966386708)
+[02:05:35] [Server thread/WARN]: Jexus_777 was kicked due to keepalive timeout!
+[02:05:35] [Server thread/INFO]: Jexus_777 lost connection: Timed out
+[02:05:35] [Server thread/INFO]: Jexus_777 left the game
+[02:06:07] [User Authenticator #13/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[02:06:08] [Server thread/INFO]: Jexus_777 joined the game
+[02:06:08] [Server thread/INFO]: Jexus_777[/10.144.149.96:49544] logged in with entity id 10079 at ([world]1733.2621614535062, 71.08441379691861, 62.297588181646496)
+[02:06:08] [Async Chat Thread - #3/INFO]: <xNieves> hey muy buenas a todos guapisimos
+[02:06:23] [Async Chat Thread - #3/INFO]: <J3ZuX> culo
+[02:06:24] [Async Chat Thread - #3/INFO]: <J8nAThAn> JAJAJA VERGETA ERES TU..??
+[02:06:27] [Async Chat Thread - #3/INFO]: <Jexus_777> aQUI VEGETTA SETECIENTOS SETENTA Y SIETE
+[02:06:54] [Async Chat Thread - #3/INFO]: <J3ZuX> endy mmg pusiste madera en el nether
+[02:06:55] [Async Chat Thread - #3/INFO]: <xNieves> si jona soy yo vegetta mira: Me cago en todo tio, no es simetrico
+[02:06:58] [Async Chat Thread - #3/INFO]: <J3ZuX> se ve nas feo que el guebo
+[02:06:59] [User Authenticator #13/INFO]: UUID of player Lix4nD3r is a6735982-79e6-34dd-8845-e3e6c496b674
+[02:06:59] [Server thread/INFO]: Lix4nD3r joined the game
+[02:06:59] [Server thread/INFO]: Lix4nD3r[/10.144.73.36:58828] logged in with entity id 10949 at ([world]105.41376356721946, 65.0, -171.5571934129397)
+[02:07:09] [Async Chat Thread - #3/INFO]: <Jexus_777> cULO PA LA CALOr
+[02:07:09] [Async Chat Thread - #3/INFO]: <xNieves> mmlo jesu
+[02:07:11] [Async Chat Thread - #3/INFO]: <J8nAThAn> JAJAJAJAJA
+[02:07:29] [Async Chat Thread - #3/INFO]: <Jexus_777> Ati te cogi y me negastes
+[02:07:34] [Craft Scheduler Thread - 6/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 193
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
