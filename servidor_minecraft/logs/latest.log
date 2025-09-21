@@ -1035,3 +1035,67 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [03:19:37] [User Authenticator #33/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
 [03:19:37] [Server thread/INFO]: Jexus_777 joined the game
 [03:19:37] [Server thread/INFO]: Jexus_777[/10.144.149.96:49961] logged in with entity id 49678 at ([world]1849.1826505806712, 74.0, 131.3543880197125)
+[03:21:07] [Async Chat Thread - #15/INFO]: <Jexus_777> q mrd
+[03:21:12] [Async Chat Thread - #15/INFO]: <Jexus_777> q es esto
+[03:21:13] [Server thread/INFO]: Jexus_777 lost connection: Disconnected
+[03:21:13] [Server thread/INFO]: Jexus_777 left the game
+[03:21:19] [User Authenticator #34/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[03:21:19] [Server thread/INFO]: Jexus_777 joined the game
+[03:21:19] [Server thread/INFO]: Jexus_777[/10.144.149.96:49988] logged in with entity id 50606 at ([world]1805.667348806802, 63.0, 121.64507282253706)
+[03:22:34] [Craft Scheduler Thread - 13/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 193
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[03:22:42] [Server thread/INFO]: Jexus_777 lost connection: Disconnected
+[03:22:42] [Server thread/INFO]: Jexus_777 left the game
+[03:23:41] [Async Chat Thread - #16/INFO]: <J3ZuX> ergaa chamo miren su ping
+[03:23:50] [Async Chat Thread - #16/INFO]: <xNieves> esta hermoso mi ping
+[03:25:01] [Async Chat Thread - #17/INFO]: <J3ZuX> sisa
+[03:26:52] [Server thread/INFO]: J3ZuX lost connection: Timed out
+[03:26:52] [Server thread/INFO]: J3ZuX left the game
+[03:27:12] [Server thread/INFO]: [Server] ...
+[03:27:33] [User Authenticator #35/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
+[03:27:33] [Server thread/INFO]: J3ZuX joined the game
+[03:27:33] [Server thread/INFO]: J3ZuX[/10.144.204.103:50124] logged in with entity id 52892 at ([world]2218.1995120609813, 53.0, -146.38630352599696)
+[03:28:11] [Async Chat Thread - #18/INFO]: <J3ZuX> zzzzzzzzzzzzzzzz
+[03:28:16] [Async Chat Thread - #18/INFO]: <xNieves> zz
+[03:28:29] [Async Chat Thread - #18/INFO]: <J3ZuX> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[03:28:31] [Async Chat Thread - #18/INFO]: <J3ZuX> zzz
+[03:28:32] [Server thread/INFO]: J8nAThAn lost connection: Disconnected
+[03:28:32] [Server thread/INFO]: J8nAThAn left the game
+[03:28:32] [Async Chat Thread - #18/INFO]: <J3ZuX> zzz
+[03:28:33] [Async Chat Thread - #18/INFO]: <xNieves> jonaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[03:28:35] [Async Chat Thread - #18/INFO]: <J3ZuX> zzzz
+[03:28:35] [Async Chat Thread - #18/INFO]: <J3ZuX> z
+[03:28:35] [Async Chat Thread - #18/INFO]: <J3ZuX> z
+[03:28:36] [Async Chat Thread - #18/INFO]: <J3ZuX> z
+[03:28:36] [Async Chat Thread - #18/INFO]: <J3ZuX> z
+[03:28:37] [Async Chat Thread - #18/INFO]: <xNieves> zz
+[03:28:37] [Async Chat Thread - #18/INFO]: <J3ZuX> z
+[03:28:38] [Async Chat Thread - #18/INFO]: <xNieves> z
+[03:28:50] [User Authenticator #36/INFO]: UUID of player J8nAThAn is 37dd31f1-fed6-3e4d-a7a4-d78516e69b14
+[03:28:50] [Server thread/INFO]: J8nAThAn joined the game
+[03:28:50] [Server thread/INFO]: J8nAThAn[/10.144.157.103:53837] logged in with entity id 53701 at ([world]1684.4968219782145, 56.0, 1804.27370276617)
+[03:28:56] [Async Chat Thread - #18/INFO]: <J3ZuX> alguien tiro su pico aqui en mi casa xd
+[03:28:59] [Async Chat Thread - #18/INFO]: <J3ZuX> de diamten
+[03:29:09] [Async Chat Thread - #18/INFO]: <xNieves> ese fue jesu
+[03:29:09] [Async Chat Thread - #18/INFO]: <xNieves> xd
+[03:29:14] [Async Chat Thread - #18/INFO]: <J3ZuX> ajaj
+[03:29:27] [User Authenticator #36/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[03:29:27] [Server thread/INFO]: Jexus_777 joined the game
+[03:29:27] [Server thread/INFO]: Jexus_777[/10.144.149.96:50102] logged in with entity id 54480 at ([world]1799.544684543982, 63.0, 104.15200578284755)
+[03:29:33] [Async Chat Thread - #18/INFO]: <J8nAThAn> Y QUE PASO CON MESSI
+[03:29:40] [Server thread/INFO]: Jexus_777 lost connection: Disconnected
+[03:29:40] [Server thread/INFO]: Jexus_777 left the game
+[03:29:42] [Async Chat Thread - #18/INFO]: <J3ZuX> EL PING NO LO DEJA
+[03:29:46] [Server thread/INFO]: xNieves has made the advancement [Diamonds!]
+[03:29:47] [User Authenticator #36/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[03:29:48] [Server thread/INFO]: Jexus_777 joined the game
+[03:29:48] [Server thread/INFO]: Jexus_777[/10.144.149.96:50104] logged in with entity id 54834 at ([world]1799.5777678950844, 63.0, 104.08558538434194)
