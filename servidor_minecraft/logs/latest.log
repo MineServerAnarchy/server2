@@ -327,3 +327,88 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [02:46:05] [Async Chat Thread - #2/INFO]: <xNieves> y ya ando buscando un trabajo que me de mas plata
 [02:46:06] [Async Chat Thread - #2/INFO]: <J3ZuX> cuanto te falta?
 [02:46:13] [Async Chat Thread - #2/INFO]: <xNieves> porque el de horita no me da pa mucho xd
+[02:46:15] [Async Chat Thread - #2/INFO]: <J3ZuX> pos que bueno mano
+[02:46:17] [Async Chat Thread - #2/INFO]: <xNieves> me falta 2 semestres
+[02:46:22] [Async Chat Thread - #2/INFO]: <xNieves> como 8 meses mas o menos
+[02:46:23] [Async Chat Thread - #2/INFO]: <J3ZuX> que serian??
+[02:46:27] [Async Chat Thread - #2/INFO]: <J3ZuX> mmm ok
+[02:46:35] [Async Chat Thread - #2/INFO]: <J3ZuX> pos que bueno mano
+[02:46:40] [Async Chat Thread - #2/INFO]: <J3ZuX> y que has aprendido?
+[02:46:44] [Async Chat Thread - #2/INFO]: <xNieves> y pa que me den el titulo son como 1 año y 4 meses
+[02:46:46] [Async Chat Thread - #2/INFO]: <J3ZuX> que te vaya a servir?
+[02:46:59] [Async Chat Thread - #2/INFO]: <xNieves> horita te se hacer paginas web con base de datos dedicadas
+[02:47:03] [Async Chat Thread - #2/INFO]: <xNieves> servicios de seguridad
+[02:47:07] [Async Chat Thread - #2/INFO]: <xNieves> estructura de redes
+[02:47:09] [Async Chat Thread - #2/INFO]: <J3ZuX> njd, osea que te graduas y el titulo no te lo dan al instante?
+[02:47:10] [Async Chat Thread - #2/INFO]: <xNieves> y otras vainas ahi
+[02:47:19] [Async Chat Thread - #2/INFO]: <xNieves> no hay que esperar unos meses
+[02:47:20] [Async Chat Thread - #2/INFO]: <J3ZuX> mmm pos que bueno mano
+[02:47:28] [Async Chat Thread - #2/INFO]: <J3ZuX> njd no cuadra mano
+[02:47:28] [Async Chat Thread - #2/INFO]: <xNieves> aunque la verdad toda esa vaina que yo se
+[02:47:33] [Async Chat Thread - #2/INFO]: <xNieves> es porque me he puesto
+[02:47:39] [Async Chat Thread - #2/INFO]: <xNieves> porque esos mmgvos te dicen "quiero esto"
+[02:47:45] [Async Chat Thread - #2/INFO]: <xNieves> y no te dicen como lo vas a hacer ni nada
+[02:47:55] [Async Chat Thread - #2/INFO]: <J3ZuX> sisa, porque hay locos que estudian y no aprendieron anda ajajja por eso te pregunto
+[02:48:21] [Async Chat Thread - #2/INFO]: <xNieves> yo conozco gente asi
+[02:48:26] [Async Chat Thread - #2/INFO]: <xNieves> esos mmgvos casi saliendo
+[02:48:26] [Async Chat Thread - #2/INFO]: <J3ZuX> x2 xd
+[02:48:30] [Async Chat Thread - #2/INFO]: <xNieves> y no saben un coño
+[02:48:46] [Async Chat Thread - #2/INFO]: <xNieves> una vez me obligaron a hacer equipo con un loco ahi
+[02:48:58] [Async Chat Thread - #2/INFO]: <J3ZuX> bueno mano ojala te vaya bien porque la vaina esta arrecha, la plata no da para nada y hay lokos que ni con 50 titulos tienen trabajos buenos
+[02:49:09] [Async Chat Thread - #2/INFO]: <xNieves> el loco se supone que iba como unos 4 semestres mas adelantado que yo, y no sabia hacer nada, termine haciendo todo yo
+[02:49:29] [Async Chat Thread - #2/INFO]: <xNieves> y tu mano de que trabajas
+[02:49:31] [Async Chat Thread - #2/INFO]: <J3ZuX> jajaj ese es otro beta, imaginate que a tu novia la obligen tambien con un loko hay
+[02:49:50] [Async Chat Thread - #2/INFO]: <J3ZuX> ayudante de un loko hay en un invernadero
+[02:50:18] [Async Chat Thread - #2/INFO]: <xNieves> coño es arrecho
+[02:50:21] [Async Chat Thread - #2/INFO]: <J3ZuX> sisa xd
+[02:50:27] [Async Chat Thread - #2/INFO]: <J3ZuX> y tu como estas con ella?
+[02:50:31] [Async Chat Thread - #2/INFO]: <xNieves> fino mano
+[02:50:36] [Async Chat Thread - #2/INFO]: <J3ZuX> todo bello, hay o no hay casamiento?? xd
+[02:50:36] [Async Chat Thread - #2/INFO]: <xNieves> la verdad si peleamos y eso
+[02:50:45] [Async Chat Thread - #2/INFO]: <J3ZuX> sisa pero eso es normal
+[02:50:46] [Async Chat Thread - #2/INFO]: <xNieves> pero nada asi grave
+[02:50:51] [Async Chat Thread - #2/INFO]: <xNieves> casamiento hay
+[02:50:52] [Craft Scheduler Thread - 7/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[02:50:59] [Async Chat Thread - #2/INFO]: <J3ZuX> claro, mientras se respeten a las espaldas todo bien
+[02:50:59] [Async Chat Thread - #2/INFO]: <xNieves> mientras ni ella ni yo la kguemos
+[02:51:06] [Async Chat Thread - #2/INFO]: <J3ZuX> jajaj ergaa palabras mayores
+[02:51:25] [Async Chat Thread - #2/INFO]: <xNieves> es que es asi
+[02:51:30] [Async Chat Thread - #2/INFO]: <xNieves> mientras seamos reales y leales
+[02:51:33] [Async Chat Thread - #2/INFO]: <xNieves> si a todo
+[02:51:49] [Async Chat Thread - #2/INFO]: <xNieves> no me ha dado asi motivos de desconfianza y yo a ella tampoco
+[02:51:55] [Async Chat Thread - #2/INFO]: <J3ZuX> sisa asi mismo es, bueno que bueno mano porque hoy en dia la gente no sirve pa ninguna mieerda
+[02:52:03] [Async Chat Thread - #2/INFO]: <xNieves> sisa
+[02:52:08] [Async Chat Thread - #2/INFO]: <xNieves> la mayoria de carajitas de aqui
+[02:52:19] [Async Chat Thread - #2/INFO]: <xNieves> como por ejemplo valeria mano
+[02:53:06] [Async Chat Thread - #2/INFO]: <J3ZuX> ahorita, ahorita puras putas y gafos, asi mismo les digo yo, PUTAS Y GAFOS SIN IMPORTAR NADA porque es lo que es
+[02:53:25] [Async Chat Thread - #2/INFO]: <J3ZuX> jajaja sisa ya me se los cuentos de esa loka
+[02:53:30] [Async Chat Thread - #2/INFO]: <xNieves> las carajitas de hoy en dia andan como desatadas
+[02:53:46] [Async Chat Thread - #2/INFO]: <xNieves> cogen todos los dias con personas distintas
+[02:53:55] [Async Chat Thread - #2/INFO]: <xNieves> ahhh pero despues salen con su barriga y dicen "fue accidente"
+[02:53:56] [Async Chat Thread - #2/INFO]: <J3ZuX> jajaja sisa, y cuando quieren algo serio ya andan cogidas por todos lados
+[02:54:02] [Async Chat Thread - #2/INFO]: <J3ZuX> jaja sias
+[02:54:11] [Async Chat Thread - #2/INFO]: <xNieves> si maldita, debe ser que te resbalaste y rebotaste varias veces en un webo
+[02:54:19] [Async Chat Thread - #2/INFO]: <J3ZuX> y no tanto la barriga, si no una mmgv enfermeda
+[02:54:27] [Async Chat Thread - #2/INFO]: <J3ZuX> ajajjaja
+[02:54:33] [Async Chat Thread - #2/INFO]: <xNieves> eso es lo que menos les interesa a esas ptas
+[02:54:48] [Async Chat Thread - #2/INFO]: <xNieves> esa gente piensa que eso las hace ser mejores personas
+[02:54:52] [Async Chat Thread - #2/INFO]: <J3ZuX> jajaja sisa pero si se enferman luego viene lo bueno
+[02:55:01] [Async Chat Thread - #2/INFO]: <xNieves> pero cuando maduran y quieren algo serio ven que nadies las quiere por usadas
+[02:55:03] [Async Chat Thread - #2/INFO]: <J3ZuX> sisa que se la estan comiendo ajaja
+[02:55:09] [Async Chat Thread - #2/INFO]: <J3ZuX> jajaja exacto
+[02:55:16] [Async Chat Thread - #2/INFO]: <xNieves> lo mismo pienso con los hombres
+[02:55:20] [Async Chat Thread - #2/INFO]: <xNieves> aqui hay igualda
+[02:55:31] [Async Chat Thread - #2/INFO]: <xNieves> esos carajos quieren andar cogiendo con todas las mujeres sin importar nada
+[02:55:53] [Async Chat Thread - #2/INFO]: <J3ZuX> sisa, como te digo piensas que se la estan comiendo
+[02:55:53] [Async Chat Thread - #2/INFO]: <xNieves> despues por andar de calientes se les enferma el webo y ya no pueden hacer nada nunca
+[02:56:05] [Async Chat Thread - #2/INFO]: <J3ZuX> ajjaja de pana eso es lo que no saben
