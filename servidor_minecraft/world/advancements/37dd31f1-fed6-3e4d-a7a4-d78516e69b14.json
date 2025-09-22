@@ -473,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-09-22 04:04:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-09-14 05:16:06 +0000"
@@ -519,6 +525,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-09-14 04:35:14 +0000",
       "minecraft:spider": "2025-09-14 04:51:19 +0000",
+      "minecraft:enderman": "2025-09-22 04:23:58 +0000",
       "minecraft:zombie": "2025-09-14 04:35:19 +0000",
       "minecraft:drowned": "2025-09-15 03:10:46 +0000",
       "minecraft:zombie_villager": "2025-09-15 03:40:06 +0000"
@@ -1203,6 +1210,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-09-14 03:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-09-22 04:17:49 +0000"
     },
     "done": true
   },
@@ -2182,6 +2195,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-09-17 03:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-09-22 04:04:54 +0000"
     },
     "done": true
   },
