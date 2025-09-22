@@ -718,3 +718,85 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
+[03:37:32] [Async Chat Thread - #7/INFO]: <J8nAThAn> COMO CUANTOS OJOS CREEN QUE NECESITE PARA CONSEGUIR EL PORTAL AL END
+[03:37:39] [Async Chat Thread - #7/INFO]: <J3ZuX> CON 4
+[03:37:43] [Async Chat Thread - #7/INFO]: <J3ZuX> ES SUCIENTE
+[03:37:43] [Async Chat Thread - #7/INFO]: <xNieves> unos 5-6
+[03:37:50] [Async Chat Thread - #7/INFO]: <xNieves> tamos en dificil
+[03:37:54] [Async Chat Thread - #7/INFO]: <J3ZuX> NI QUE TUVIERAS TAN MALA SUERTE XD
+[03:37:56] [Async Chat Thread - #7/INFO]: <xNieves> en dificil se rompen mas rapidos
+[03:38:06] [Async Chat Thread - #7/INFO]: <J3ZuX> SISA PERO ES QUE VAS A LAMZAR 1 CADA 300 BLOQUES
+[03:38:16] [Async Chat Thread - #7/INFO]: <J3ZuX> NO A CADA RATO
+[03:38:31] [Async Chat Thread - #7/INFO]: <J8nAThAn> VOY PARA ESA
+[03:38:39] [Async Chat Thread - #7/INFO]: <xNieves> ñelda
+[03:38:41] [Async Chat Thread - #7/INFO]: <J3ZuX> PARA ESA QUE MMGV???
+[03:38:45] [Async Chat Thread - #7/INFO]: <xNieves> esta gente va es volando
+[03:38:58] [Async Chat Thread - #7/INFO]: <J3ZuX> NO TE PONGAS MRK QUE ESA VAINA LO HAREMOS TODOS JUNTOS
+[03:39:22] [Async Chat Thread - #7/INFO]: <J8nAThAn> POR QUE..??
+[03:39:32] [Async Chat Thread - #7/INFO]: <J3ZuX> PARA QUE SEA MEJOR PS
+[03:39:45] [Async Chat Thread - #7/INFO]: <J8nAThAn> LES ESTOY AHORRANDO EL TRABAJO MMGVS
+[03:39:59] [Async Chat Thread - #7/INFO]: <J3ZuX> NVL, ESE TRABAJO PARA MI ES FACIL
+[03:40:04] [Async Chat Thread - #7/INFO]: <J3ZuX> ME LOS PASOS POR LOS GUEBOS
+[03:40:19] [Async Chat Thread - #7/INFO]: <J3ZuX> PERO ESTAMOS JUGANDO JUNSTOS, SI NO YA YO TUVIERAS MIS PODEROSAS ELITRAS
+[03:41:13] [Async Chat Thread - #7/INFO]: <xNieves> deberiamos un dia jugar pvp
+[03:41:19] [Async Chat Thread - #7/INFO]: <xNieves> asi sea en otro servidor
+[03:41:23] [Async Chat Thread - #7/INFO]: <J3ZuX> SISA ESA ES LA DIEA
+[03:41:25] [Async Chat Thread - #7/INFO]: <xNieves> pa pelear entre nosotros
+[03:41:30] [Async Chat Thread - #7/INFO]: <J3ZuX> PERO MAS DEALANTE
+[03:43:45] [Async Chat Thread - #8/INFO]: <J3ZuX> CUANDO USTEDES QUIERAN MATAMOS A LA DRAGONA
+[03:43:56] [Async Chat Thread - #8/INFO]: <J3ZuX> Y CUANDO ESTE EL PATO DE JESUS
+[03:44:02] [Async Chat Thread - #8/INFO]: <J8nAThAn> AHORITA
+[03:44:08] [Async Chat Thread - #8/INFO]: <J3ZuX> FALTA JESUS
+[03:44:17] [Async Chat Thread - #8/INFO]: <J3ZuX> ADEMAS TE VAN A METER EL PALO A TI
+[03:44:28] [Server thread/INFO]: xNieves has made the advancement [A Terrible Fortress]
+[03:44:34] [Async Chat Thread - #8/INFO]: <J8nAThAn> YO YA ANDO FULL NEDERITE
+[03:44:38] [Async Chat Thread - #8/INFO]: <xNieves> quejode
+[03:44:39] [Async Chat Thread - #8/INFO]: <J3ZuX> JAJAJ QUISIERAS
+[03:44:46] [Async Chat Thread - #8/INFO]: <xNieves> full mrco sera
+[03:44:49] [Async Chat Thread - #8/INFO]: <J8nAThAn> JAJAJA
+[03:44:51] [Async Chat Thread - #8/INFO]: <J8nAThAn> QTAL
+[03:44:56] [Async Chat Thread - #8/INFO]: <J3ZuX> ADEM,AS LA NETHERITE NO ES NADA SI NO TIENE FULL ENCANTAMIETNOS
+[03:47:50] [Server thread/INFO]: xNieves has made the advancement [Into Fire]
+[03:50:52] [Craft Scheduler Thread - 12/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[03:51:23] [Async Chat Thread - #9/INFO]: <J8nAThAn> JESUS
+[03:51:27] [Async Chat Thread - #9/INFO]: <J3ZuX> q
+[03:51:32] [Async Chat Thread - #9/INFO]: <J8nAThAn> ESTOY EN TU CASA
+[03:51:44] [Async Chat Thread - #9/INFO]: <J3ZuX> ya me quieres mamar el guebo :
+[03:51:46] [Async Chat Thread - #9/INFO]: <J3ZuX> :V
+[03:51:56] [Async Chat Thread - #9/INFO]: <J8nAThAn> JAJAJ ECONTRE TU PORTAL POR EL NETHER
+[03:52:00] [Async Chat Thread - #9/INFO]: <J3ZuX> xd
+[03:52:05] [Async Chat Thread - #9/INFO]: <J3ZuX> y picaste la piedra¡
+[03:52:15] [Async Chat Thread - #9/INFO]: <J3ZuX> que tapa el portal
+[03:52:28] [Async Chat Thread - #9/INFO]: <J8nAThAn> NO TENIA NADA
+[03:52:33] [Async Chat Thread - #9/INFO]: <J3ZuX> este mmgv
+[03:52:49] [Async Chat Thread - #9/INFO]: <J3ZuX> ahj xd
+[03:52:51] [Async Chat Thread - #9/INFO]: <xNieves> ese fue messi cuando uso tu portal xd
+[03:52:58] [Async Chat Thread - #9/INFO]: <J3ZuX> lo pico por detras
+[03:53:17] [Async Chat Thread - #9/INFO]: <xNieves> malditos withers
+[03:53:19] [Async Chat Thread - #9/INFO]: <J3ZuX> jaja no has dormido
+[03:53:19] [Async Chat Thread - #9/INFO]: <xNieves> casi me matan
+[03:53:28] [Async Chat Thread - #9/INFO]: <J8nAThAn> NO XD
+[03:53:35] [Async Chat Thread - #9/INFO]: <J3ZuX> a jona lo atacan los fantastas
+[03:53:40] [Async Chat Thread - #9/INFO]: <J3ZuX> vente
+[03:53:47] [Async Chat Thread - #9/INFO]: <xNieves> yo ando en el nether jajaja
+[03:53:54] [Async Chat Thread - #9/INFO]: <xNieves> pueden dormir relajaos
+[03:54:37] [Async Chat Thread - #9/INFO]: <J8nAThAn> ERGA TA QUENDAOD BOLETA
+[03:54:43] [Async Chat Thread - #9/INFO]: <J3ZuX> SSISA
+[03:54:50] [Async Chat Thread - #9/INFO]: <J3ZuX> HAY HUMILDE MENTE XD
+[03:54:55] [Async Chat Thread - #9/INFO]: <J8nAThAn> JAJAJA
+[03:55:09] [Async Chat Thread - #9/INFO]: <J3ZuX> AUNQUE ESTA NO SERA MI BASE, SOLO MI GRANAJA
+[03:55:13] [Async Chat Thread - #9/INFO]: <J3ZuX> GRANJA
+[03:55:20] [Async Chat Thread - #9/INFO]: <J8nAThAn> UMMMM OK
+[03:56:40] [Async Chat Thread - #10/INFO]: <J3ZuX> PA DONDE TE FUISTE?
+[03:56:50] [Async Chat Thread - #10/INFO]: <J8nAThAn> ESTOY EN EL NETHER
+[03:56:53] [Async Chat Thread - #10/INFO]: <J3ZuX> OK
