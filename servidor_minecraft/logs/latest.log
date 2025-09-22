@@ -116,3 +116,152 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [02:15:19] [Async Chat Thread - #1/INFO]: <J3ZuX> jajaj el que unca falla
 [02:15:24] [Async Chat Thread - #1/INFO]: <xNieves> y como nadie lo usa va volando
 [02:15:28] [Async Chat Thread - #1/INFO]: <J3ZuX> sisa
+[02:15:47] [Async Chat Thread - #1/INFO]: <xNieves> somos tu y yo na mas hoy parece
+[02:16:04] [Async Chat Thread - #1/INFO]: <J3ZuX> sisa messi disque prenda temprano porque tiene liceo mañana, como que es mrk
+[02:16:18] [Async Chat Thread - #1/INFO]: <J3ZuX> debe de ser que yo no juego sabiendo que tengo que trabajar
+[02:16:24] [Async Chat Thread - #1/INFO]: <xNieves> xddd
+[02:16:26] [Async Chat Thread - #1/INFO]: <J3ZuX> es no mi culpa no prender temprano
+[02:16:30] [Async Chat Thread - #1/INFO]: <J3ZuX> depende del internet
+[02:16:33] [Async Chat Thread - #1/INFO]: <xNieves> pero el no estudia en la tarde?
+[02:16:39] [Async Chat Thread - #1/INFO]: <J3ZuX> y que meda lala jugar temrpranio xd
+[02:16:44] [Async Chat Thread - #1/INFO]: <xNieves> el estudia aqui mismo no?
+[02:16:46] [Async Chat Thread - #1/INFO]: <J3ZuX> no, es estuda en los bagres
+[02:16:50] [Async Chat Thread - #1/INFO]: <xNieves> erga
+[02:16:57] [Async Chat Thread - #1/INFO]: <xNieves> y es en la mañana que estudia ese mrco¡?
+[02:17:02] [Async Chat Thread - #1/INFO]: <J3ZuX> sisa
+[02:17:14] [Async Chat Thread - #1/INFO]: <xNieves> meentero
+[02:17:19] [Async Chat Thread - #1/INFO]: <J3ZuX> pos si
+[02:17:22] [Async Chat Thread - #1/INFO]: <xNieves> que mrco irse a estudiar pa los bagres
+[02:17:41] [Async Chat Thread - #1/INFO]: <J3ZuX> de pana, es la misma mierda aquui o alla, no sirve de nada
+[02:17:51] [Async Chat Thread - #1/INFO]: <xNieves> si fuera kike el cortijo
+[02:17:53] [Async Chat Thread - #1/INFO]: <J3ZuX> en mi opinion
+[02:17:54] [Async Chat Thread - #1/INFO]: <xNieves> coño te lo paso
+[02:17:58] [Async Chat Thread - #1/INFO]: <xNieves> pero alla es peor que aqui
+[02:18:04] [Async Chat Thread - #1/INFO]: <J3ZuX> el cortijo tambien es pura paja
+[02:18:05] [Async Chat Thread - #1/INFO]: <xNieves> alla nada mas hay un edificio
+[02:18:12] [Async Chat Thread - #1/INFO]: <xNieves> y cada cuarto es un salon
+[02:18:22] [Async Chat Thread - #1/INFO]: <J3ZuX> hay dos edicicios
+[02:18:32] [Async Chat Thread - #1/INFO]: <xNieves> harian otro porque antes era uno 2
+[02:18:55] [Async Chat Thread - #1/INFO]: <J3ZuX> bueno que yo sepa siempre he visto dos, el liceo que esta hay en la cauchera
+[02:19:12] [Async Chat Thread - #1/INFO]: <xNieves> toy hablando de los bagres mrco
+[02:19:18] [Async Chat Thread - #1/INFO]: <J3ZuX> a
+[02:19:21] [Async Chat Thread - #1/INFO]: <J3ZuX> JAjja sisa solo 1
+[02:19:35] [Async Chat Thread - #1/INFO]: <J3ZuX> pero igual, es la misma mierda
+[02:19:41] [Async Chat Thread - #1/INFO]: <J3ZuX> depende del estudiante no del liceo
+[02:19:46] [Async Chat Thread - #1/INFO]: <xNieves> exacto
+[02:20:28] [Async Chat Thread - #1/INFO]: <xNieves> chamo ngbna
+[02:20:31] [Async Chat Thread - #1/INFO]: <J3ZuX> q
+[02:20:35] [Async Chat Thread - #1/INFO]: <xNieves> le quite todo a mis aldeanos
+[02:20:37] [Async Chat Thread - #1/INFO]: <xNieves> camas
+[02:20:38] [Async Chat Thread - #1/INFO]: <xNieves> cultivos
+[02:20:40] [Async Chat Thread - #1/INFO]: <xNieves> trabajos
+[02:20:42] [Async Chat Thread - #1/INFO]: <J3ZuX> y
+[02:20:42] [Async Chat Thread - #1/INFO]: <xNieves> y siguen cogiendo
+[02:20:43] [Async Chat Thread - #1/INFO]: <xNieves> jashdjkasd
+[02:20:47] [Async Chat Thread - #1/INFO]: <J3ZuX> jajaja ni idea entonces xd
+[02:20:52] [Craft Scheduler Thread - 5/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[02:21:02] [Async Chat Thread - #1/INFO]: <xNieves> ya tengo mi granja de carbon natural
+[02:21:16] [Async Chat Thread - #1/INFO]: <J3ZuX> que fino xd
+[02:21:31] [Async Chat Thread - #1/INFO]: <xNieves> ahora solo necesito madera pa tira parriba
+[02:21:36] [Async Chat Thread - #1/INFO]: <xNieves> como que voy a agrandar mi zona de madera
+[02:21:42] [Async Chat Thread - #1/INFO]: <J3ZuX> jaja ese es otro peo
+[02:23:02] [Async Chat Thread - #2/INFO]: <xNieves> chamo y tu cuando coño visitas a tu muje
+[02:23:08] [Async Chat Thread - #2/INFO]: <xNieves> mas nunca te he visto ahi xd
+[02:23:15] [Async Chat Thread - #2/INFO]: <J3ZuX> jajajaj ya nada es como antes weon
+[02:23:35] [Async Chat Thread - #2/INFO]: <xNieves> antes cuando yo bajaba tu tabas ahi
+[02:23:40] [Async Chat Thread - #2/INFO]: <J3ZuX> ajajj sIsa
+[02:23:54] [Async Chat Thread - #2/INFO]: <xNieves> filo 5 en un aldeano
+[02:23:56] [Async Chat Thread - #2/INFO]: <xNieves> viva venezuela
+[02:23:59] [Async Chat Thread - #2/INFO]: <J3ZuX> YA ERES EL SEGUD¿NDO QUE ME LO PREGUNTA, ANDAN PENDIENTE DE UN CHISME XD
+[02:24:02] [Async Chat Thread - #2/INFO]: <J3ZuX> XD
+[02:24:18] [Async Chat Thread - #2/INFO]: <xNieves> coño no te pregunto un coño pue
+[02:24:24] [Async Chat Thread - #2/INFO]: <J3ZuX> JAJAJ ES JUGANDO MRK
+[02:24:40] [Async Chat Thread - #2/INFO]: <J3ZuX> SI NO NO TE PUSIERA EL XD
+[02:24:41] [Async Chat Thread - #2/INFO]: <xNieves> ya andan en la etapa de las peleas es que
+[02:24:57] [Async Chat Thread - #2/INFO]: <J3ZuX> QUE VA, ESA ESTAPA LA PASAMOS, ANDAMOS EN LA ESTAPA DE LAS CAGADAS
+[02:25:02] [Async Chat Thread - #2/INFO]: <J3ZuX> Y YO CON ESO NO ME LA LLEVO
+[02:25:11] [Async Chat Thread - #2/INFO]: <xNieves> diavlo
+[02:25:25] [Async Chat Thread - #2/INFO]: <xNieves> y en que consiste esa etapa
+[02:25:28] [Async Chat Thread - #2/INFO]: <xNieves> no me la conozco
+[02:25:43] [Async Chat Thread - #2/INFO]: <J3ZuX> QUE ALGUNO DE LOS DOS EMPIEZA A HACER COSAS QUE NO DEBE
+[02:26:03] [Async Chat Thread - #2/INFO]: <xNieves> ah
+[02:26:12] [Async Chat Thread - #2/INFO]: <xNieves> coño ahi depende es la gravedad de lo que se haga
+[02:26:27] [Async Chat Thread - #2/INFO]: <J3ZuX> EXACTAMENTE
+[02:26:50] [Async Chat Thread - #2/INFO]: <J3ZuX> PERO CUANDO, ALGUNOS LES GUSTA AGUANTAR LAS VAINAS PARA NO PERDE A LA PERSONA Y TAL
+[02:26:55] [Async Chat Thread - #2/INFO]: <J3ZuX> PERO YO NO
+[02:27:04] [Async Chat Thread - #2/INFO]: <J3ZuX> para vivir aguantando cosas prefiero estar solo
+[02:27:06] [Async Chat Thread - #2/INFO]: <xNieves> no es lo mismo comerse algo que no se puede que comerse a la vecina dicen por ahi
+[02:27:27] [Async Chat Thread - #2/INFO]: <J3ZuX> ajjajja y eso que tiene que ver xd
+[02:27:42] [Async Chat Thread - #2/INFO]: <xNieves> que hay cosas que estan mal pero que no son graves
+[02:27:49] [Async Chat Thread - #2/INFO]: <xNieves> y otras que son graves sin perdon jashjahsd
+[02:27:56] [Async Chat Thread - #2/INFO]: <xNieves> por eso digo que depende de la cosa
+[02:28:08] [Async Chat Thread - #2/INFO]: <J3ZuX> sisa
+[02:28:31] [Async Chat Thread - #2/INFO]: <J3ZuX> pero hay cosas simples pero que igual no cuadran
+[02:28:41] [Async Chat Thread - #2/INFO]: <J3ZuX> y hay personas que aun asi las aguantan
+[02:28:44] [Async Chat Thread - #2/INFO]: <J3ZuX> pero yo no
+[02:29:00] [Async Chat Thread - #2/INFO]: <xNieves> bueno mano es aceptable
+[02:29:24] [Async Chat Thread - #2/INFO]: <J3ZuX> si no me gusta no me gusta y ya, asi otros lo vean como algo significante, ami si no me cuadra no y listo, yo soy muy delicado con esa vainas
+[02:29:34] [Async Chat Thread - #2/INFO]: <xNieves> es verdad
+[02:29:55] [Async Chat Thread - #2/INFO]: <xNieves> uno avece es el verdadero complicao jajaa
+[02:30:37] [Async Chat Thread - #2/INFO]: <J3ZuX> sisa, hay otros que por ejemplo no la jeva anda hablando con un tipo que a ellos no le gusta o tal y aguantan eso simplemente para no parecer celoso o para no tener peo con la pareja
+[02:30:45] [Async Chat Thread - #2/INFO]: <J3ZuX> pero que va, como yo te digo, yo no aguanto nada
+[02:30:51] [Async Chat Thread - #2/INFO]: <xNieves> njda
+[02:30:57] [Async Chat Thread - #2/INFO]: <J3ZuX> si algo no me gusta no me gusta y listo
+[02:30:58] [Async Chat Thread - #2/INFO]: <xNieves> si mi novia anda hablando con otro formo peo
+[02:31:03] [Async Chat Thread - #2/INFO]: <xNieves> que eso de aguantarse esas vainas xd
+[02:31:03] [Async Chat Thread - #2/INFO]: <J3ZuX> jajaj exacto
+[02:31:20] [Async Chat Thread - #2/INFO]: <J3ZuX> pero conozco a mrks que sus novias hacen eso y se quedan callado
+[02:31:28] [Async Chat Thread - #2/INFO]: <xNieves> pa que me monten cacho prefiero quedarme solo
+[02:31:33] [Async Chat Thread - #2/INFO]: <xNieves> en ese ejemplo por lo meno
+[02:31:43] [Async Chat Thread - #2/INFO]: <J3ZuX> sisa pero no tanto por cacho
+[02:31:51] [Async Chat Thread - #2/INFO]: <J3ZuX> si no que este hablando con un tipo normal
+[02:31:56] [Async Chat Thread - #2/INFO]: <J3ZuX> asi sea cualquier cosa normañ
+[02:32:03] [Async Chat Thread - #2/INFO]: <J3ZuX> ami no me cuadra
+[02:32:06] [Async Chat Thread - #2/INFO]: <J3ZuX> pero a otros si
+[02:32:12] [Async Chat Thread - #2/INFO]: <xNieves> a mi tampoco xd
+[02:32:19] [Async Chat Thread - #2/INFO]: <xNieves> me da arrecherita
+[02:32:21] [Async Chat Thread - #2/INFO]: <J3ZuX> jaja sisa
+[02:32:22] [Async Chat Thread - #2/INFO]: <J3ZuX> claro
+[02:32:36] [Async Chat Thread - #2/INFO]: <J3ZuX> TU ESTUDIAS LA MISMA CARRERA QUE TU NOVIA?
+[02:32:42] [Async Chat Thread - #2/INFO]: <xNieves> nop
+[02:32:49] [Async Chat Thread - #2/INFO]: <xNieves> yo soy informatica y ella es hidrocarburos
+[02:32:51] [Async Chat Thread - #2/INFO]: <J3ZuX> PERO SI VEN CLASES EL MISMO DIA?
+[02:32:58] [Async Chat Thread - #2/INFO]: <xNieves> algunas veces
+[02:33:06] [Async Chat Thread - #2/INFO]: <xNieves> porque depende de los horarios y aveces no son los mismos
+[02:33:11] [Async Chat Thread - #2/INFO]: <J3ZuX> MM OK, PERO POR LO MENOS TU ESTAS ALLA Y VEZ QLQ
+[02:33:24] [Async Chat Thread - #2/INFO]: <xNieves> sisa
+[02:33:24] [Async Chat Thread - #2/INFO]: <J3ZuX> PERO LA JEVA DISQUE VA A COMENZAR A ESTUDIAR SI DIOS QUIERE
+[02:33:36] [Async Chat Thread - #2/INFO]: <xNieves> y te da kgue
+[02:33:41] [Async Chat Thread - #2/INFO]: <J3ZuX> PERO SI SON MAS DE 3 DIA DE ESTUDIOS, HASTA HAY LLEGAMOS
+[02:33:53] [Async Chat Thread - #2/INFO]: <xNieves> porque mano
+[02:34:13] [Async Chat Thread - #2/INFO]: <J3ZuX> cague de que me engañe y tal no, si no de vivir engañado, pero si me engaña normal mientras me entere
+[02:34:32] [Async Chat Thread - #2/INFO]: <J3ZuX> porque yo no voy a estar con ella, y no voy aver ni a saber qlq en esa universidad donde estara
+[02:34:44] [Async Chat Thread - #2/INFO]: <xNieves> pero tu crees que ella te monte cacho
+[02:34:52] [Async Chat Thread - #2/INFO]: <xNieves> o haga algo y no te diga
+[02:34:58] [Async Chat Thread - #2/INFO]: <J3ZuX> jajajaj como te dije mano, ya comenzaron las cagadas
+[02:35:03] [Async Chat Thread - #2/INFO]: <xNieves> uyyy
+[02:35:14] [Async Chat Thread - #2/INFO]: <xNieves> bueno si ya te dio razones de desconfianza
+[02:35:18] [Async Chat Thread - #2/INFO]: <xNieves> se jodio ella misma
+[02:35:18] [Async Chat Thread - #2/INFO]: <xNieves> xd
+[02:35:43] [Async Chat Thread - #2/INFO]: <J3ZuX> pos no tanto que me monte chachos como tal, pero si cosas que no me van a cuadrar y como ya te dije, yo no aguanto nada a nadie
+[02:35:52] [Craft Scheduler Thread - 6/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
