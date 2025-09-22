@@ -1051,3 +1051,48 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [04:47:35] [Async Chat Thread - #22/INFO]: <J3ZuX> PERO AHPORIA NO XD
 [04:47:38] [Async Chat Thread - #22/INFO]: <xNieves> xdd
 [04:47:42] [Async Chat Thread - #22/INFO]: <J3ZuX> ANDO OCUAPADO SOLO TE DECIA AVER
+[04:49:57] [Async Chat Thread - #23/INFO]: <J8nAThAn> enddy tu tienes windows 11 pro::???
+[04:50:03] [Async Chat Thread - #23/INFO]: <xNieves> si
+[04:50:17] [Async Chat Thread - #23/INFO]: <J8nAThAn> y no te sonsume ram es monda..??
+[04:50:22] [Async Chat Thread - #23/INFO]: <xNieves> obvio
+[04:50:33] [Async Chat Thread - #23/INFO]: <xNieves> consume creo que 2 de los 8 de ram que tengo
+[04:50:33] [Async Chat Thread - #23/INFO]: <J8nAThAn> osea pero bastante..??
+[04:50:52] [Craft Scheduler Thread - 16/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[04:50:59] [Async Chat Thread - #23/INFO]: <xNieves> ahi ma o meno
+[04:50:59] [Async Chat Thread - #23/INFO]: <J8nAThAn> ummm igual que el windows 10
+[04:51:03] [Async Chat Thread - #23/INFO]: <xNieves> sisa
+[04:51:14] [Async Chat Thread - #23/INFO]: <J3ZuX> YO NO ME QUEJO,
+[04:51:20] [Async Chat Thread - #23/INFO]: <J3ZuX> COMO 500M NADA MAS XD
+[04:51:20] [Async Chat Thread - #23/INFO]: <J8nAThAn> es mejor que windows 10..??
+[04:51:28] [Async Chat Thread - #23/INFO]: <xNieves> la verdad la verdad
+[04:51:32] [Async Chat Thread - #23/INFO]: <xNieves> pa mi son la misma monda
+[04:51:40] [Async Chat Thread - #23/INFO]: <J8nAThAn> jajaja
+[04:51:57] [Async Chat Thread - #23/INFO]: <xNieves> solo que el windows 11 tiene una ia integrada
+[04:51:59] [Async Chat Thread - #23/INFO]: <xNieves> pero njda
+[04:52:02] [Async Chat Thread - #23/INFO]: <xNieves> yo no uso esa monda
+[04:52:14] [Async Chat Thread - #23/INFO]: <J3ZuX> EL 10 TAMBIEN, ES UNA MIERDA
+[04:52:17] [Async Chat Thread - #23/INFO]: <xNieves> prefiero usar chat gt
+[04:52:27] [Async Chat Thread - #23/INFO]: <J3ZuX> YO GEMINI XD
+[04:52:28] [Async Chat Thread - #23/INFO]: <J8nAThAn> ummm mejor me quedo con mi windows 10 entonces xd
+[04:52:45] [Async Chat Thread - #23/INFO]: <J3ZuX> Y YO CON EL MEJOR DE LOS MOJORES
+[04:52:50] [Async Chat Thread - #23/INFO]: <J8nAThAn> gemini es buena, pero prefiero chat gpt
+[04:53:06] [Async Chat Thread - #23/INFO]: <J3ZuX> SISA YO PORQUE MEDA LALA USA VPN
+[04:53:14] [Async Chat Thread - #23/INFO]: <xNieves> gemini es mejor que chat gpt en algunas cosas
+[04:53:24] [Async Chat Thread - #23/INFO]: <xNieves> como en texto
+[04:53:30] [Async Chat Thread - #23/INFO]: <xNieves> y en generacion de imagenes
+[04:53:54] [Async Chat Thread - #23/INFO]: <J8nAThAn> sisa ya chatgpt para general imagenes es una mierdad
+[04:54:12] [Async Chat Thread - #23/INFO]: <xNieves> y que no tienes casi oportunidades en el plan gratuito
+[04:54:18] [Async Chat Thread - #23/INFO]: <xNieves> generas como 6 imagenes y listo
+[04:54:24] [Async Chat Thread - #23/INFO]: <xNieves> con gemini generas hasta 20 xd
+[04:54:32] [Async Chat Thread - #23/INFO]: <J8nAThAn> 6 imagnes cada 24 horas
+[04:58:55] [Server thread/INFO]: Villager EntityVillager['Villager'/67799, uuid='4841be02-571a-4f32-a60c-8bb2c312e8b1', l='ServerLevel[world]', x=4378.28, y=70.00, z=2227.37, cx=273, cz=139, tl=191, v=true, d=false] died, message: 'Villager suffocated in a wall'
