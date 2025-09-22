@@ -1242,3 +1242,190 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [05:29:20] [Async Chat Thread - #29/INFO]: <J3ZuX> Z
 [05:29:20] [Async Chat Thread - #29/INFO]: <J3ZuX> Z
 [05:29:26] [Async Chat Thread - #29/INFO]: <xNieves> zz
+[05:33:04] [Async Chat Thread - #30/INFO]: <xNieves> erga
+[05:33:07] [Async Chat Thread - #30/INFO]: <J3ZuX> Q
+[05:33:11] [Async Chat Thread - #30/INFO]: <xNieves> tengo un spawn de arañas abajo de mi casa
+[05:33:12] [Async Chat Thread - #30/INFO]: <xNieves> xd
+[05:33:17] [Async Chat Thread - #30/INFO]: <J3ZuX> XD
+[05:33:23] [Async Chat Thread - #30/INFO]: <J3ZuX> AUN EL DE ARA;A NO TEINEE VIDA
+[05:34:00] [Async Chat Thread - #30/INFO]: <xNieves> no pero me da hilo
+[05:34:03] [Async Chat Thread - #30/INFO]: <xNieves> que me sirve
+[05:34:05] [Async Chat Thread - #30/INFO]: <xNieves> pa las esm
+[05:34:05] [Async Chat Thread - #30/INFO]: <J3ZuX> sisa
+[05:35:52] [Craft Scheduler Thread - 19/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[05:36:15] [Async Chat Thread - #31/INFO]: <J3ZuX> BUENO MANO HACEMOS EL PVP >v
+[05:36:26] [Async Chat Thread - #31/INFO]: <xNieves> siva
+[05:36:29] [Async Chat Thread - #31/INFO]: <J3ZuX> LLEGATE
+[05:36:43] [Async Chat Thread - #31/INFO]: <J3ZuX> TRAE SOLO COMIDA PORQUE NO TENGO PARA TI
+[05:36:59] [Async Chat Thread - #31/INFO]: <J3ZuX> Y LOS 5 DIAMANTES XD
+[05:37:08] [Async Chat Thread - #31/INFO]: <xNieves> o sea tu me das las herramientas y armadura'
+[05:37:19] [Async Chat Thread - #31/INFO]: <J3ZuX> SISA YO TE DOY LO DEMAS
+[05:37:58] [Async Chat Thread - #31/INFO]: <xNieves> voy entonces
+[05:38:02] [Async Chat Thread - #31/INFO]: <J3ZuX> DA;EL
+[05:39:05] [Async Chat Thread - #32/INFO]: <xNieves> no llevo pico
+[05:39:09] [Async Chat Thread - #32/INFO]: <xNieves> pa que piques la piedra esa
+[05:39:12] [Async Chat Thread - #32/INFO]: <J3ZuX> DALE
+[05:40:02] [Async Chat Thread - #32/INFO]: <xNieves> toy
+[05:40:09] [Async Chat Thread - #32/INFO]: <J3ZuX> ;ISTO
+[05:40:14] [Async Chat Thread - #32/INFO]: <xNieves> erga
+[05:40:17] [Async Chat Thread - #32/INFO]: <xNieves> pero se hace de noche
+[05:40:18] [Async Chat Thread - #32/INFO]: <xNieves> xd
+[05:40:20] [Async Chat Thread - #32/INFO]: <J3ZuX> TOMA DUERME
+[05:40:36] [Async Chat Thread - #32/INFO]: <J3ZuX> USA TU ESCUDO XD
+[05:41:05] [Async Chat Thread - #32/INFO]: <xNieves> a
+[05:41:06] [Async Chat Thread - #32/INFO]: <xNieves> e
+[05:41:09] [Async Chat Thread - #32/INFO]: <xNieves> chamo
+[05:41:13] [Async Chat Thread - #32/INFO]: <J3ZuX> JAJAJA YA VI
+[05:41:14] [Async Chat Thread - #32/INFO]: <xNieves> que lala uno sale del portal
+[05:41:18] [Async Chat Thread - #32/INFO]: <xNieves> y el ping sube
+[05:41:25] [Async Chat Thread - #32/INFO]: <J3ZuX> SISA ESO NI NO LO ENTIENDI
+[05:42:09] [Server thread/INFO]: xNieves issued server command: /ping
+[05:42:23] [Async Chat Thread - #32/INFO]: <xNieves> voy a guardar un casco de oro en el cofre
+[05:42:31] [Async Chat Thread - #32/INFO]: <xNieves> es que es el que uso pal nether
+[05:42:33] [Async Chat Thread - #32/INFO]: <xNieves> xddd
+[05:43:43] [Async Chat Thread - #33/INFO]: <J3ZuX> ve
+[05:43:48] [Async Chat Thread - #33/INFO]: <xNieves> mano
+[05:43:51] [Async Chat Thread - #33/INFO]: <J3ZuX> q
+[05:43:51] [Async Chat Thread - #33/INFO]: <xNieves> no sabia de esto
+[05:43:55] [Async Chat Thread - #33/INFO]: <xNieves> el alto horno
+[05:43:59] [Async Chat Thread - #33/INFO]: <xNieves> sirve pa estos webones
+[05:44:06] [Async Chat Thread - #33/INFO]: <J3ZuX> sisa yo se
+[05:44:24] [Async Chat Thread - #33/INFO]: <J3ZuX> esta bien este espacio o es miu peque;o_
+[05:44:28] [Async Chat Thread - #33/INFO]: <xNieves> sisa
+[05:44:29] [Async Chat Thread - #33/INFO]: <xNieves> xd
+[05:44:32] [Async Chat Thread - #33/INFO]: <J3ZuX> sisa q
+[05:44:44] [Async Chat Thread - #33/INFO]: <xNieves> que esta bien
+[05:44:50] [Async Chat Thread - #33/INFO]: <xNieves> pero pon el cofre de los diamantes afuera
+[05:44:50] [Async Chat Thread - #33/INFO]: <J3ZuX> ok
+[05:45:07] [Async Chat Thread - #33/INFO]: <xNieves> ya lo puse yo
+[05:45:31] [Async Chat Thread - #33/INFO]: <xNieves> xd
+[05:45:46] [Async Chat Thread - #33/INFO]: <J3ZuX> guarda spawn
+[05:45:53] [Async Chat Thread - #33/INFO]: <xNieves> pon la cama arriba
+[05:46:04] [Async Chat Thread - #33/INFO]: <xNieves> pa dejar esto cerrado
+[05:46:07] [Async Chat Thread - #33/INFO]: <xNieves> sin estorbo
+[05:46:28] [Async Chat Thread - #33/INFO]: <J3ZuX> YAVA DAME CHACE PARA GRABAR XD
+[05:46:30] [Async Chat Thread - #33/INFO]: <xNieves> xdd
+[05:46:53] [Async Chat Thread - #33/INFO]: <J3ZuX> 3
+[05:46:57] [Async Chat Thread - #33/INFO]: <J3ZuX> 2
+[05:47:00] [Async Chat Thread - #33/INFO]: <J3ZuX> 1
+[05:48:03] [Server thread/INFO]: J3ZuX was slain by xNieves
+[05:48:07] [Async Chat Thread - #34/INFO]: <xNieves> tomaaa
+[05:48:07] [Async Chat Thread - #34/INFO]: <J3ZuX> xd
+[05:48:19] [Async Chat Thread - #34/INFO]: <xNieves> otra?
+[05:48:21] [Async Chat Thread - #34/INFO]: <xNieves> xd
+[05:48:26] [Async Chat Thread - #34/INFO]: <xNieves> pero sin apostar nada si no quieres xd
+[05:48:31] [Async Chat Thread - #34/INFO]: <J3ZuX> la dejamos para 3__
+[05:48:37] [Async Chat Thread - #34/INFO]: <xNieves> 3 diamantes?
+[05:48:43] [Async Chat Thread - #34/INFO]: <J3ZuX> no, 3 rondas
+[05:48:46] [Async Chat Thread - #34/INFO]: <xNieves> aaa
+[05:48:47] [Async Chat Thread - #34/INFO]: <xNieves> dale
+[05:48:48] [Async Chat Thread - #34/INFO]: <J3ZuX> me subio el ping's
+[05:48:51] [Async Chat Thread - #34/INFO]: <xNieves> si xd
+[05:48:54] [Async Chat Thread - #34/INFO]: <J3ZuX> creo que es por grabar nose
+[05:48:58] [Async Chat Thread - #34/INFO]: <xNieves> a mi tambien en plena pelea xd
+[05:49:00] [Async Chat Thread - #34/INFO]: <J3ZuX> mejor no grabo xd
+[05:49:10] [Async Chat Thread - #34/INFO]: <xNieves> ya grabaste la primera jajaja
+[05:49:14] [Async Chat Thread - #34/INFO]: <J3ZuX> sisa
+[05:49:23] [Async Chat Thread - #34/INFO]: <J3ZuX> y mi comida_
+[05:49:29] [Async Chat Thread - #34/INFO]: <xNieves> se juntaron
+[05:49:37] [Async Chat Thread - #34/INFO]: <J3ZuX> ya veo, venia mas mmgv xd
+[05:49:47] [Async Chat Thread - #34/INFO]: <xNieves> toma pa que no llore
+[05:49:54] [Async Chat Thread - #34/INFO]: <J3ZuX> JAJAJ MIRA MI PING XD
+[05:50:01] [Async Chat Thread - #34/INFO]: <xNieves> mano que anda pasando
+[05:50:01] [Async Chat Thread - #34/INFO]: <J3ZuX> VAMOS A DARLE
+[05:50:02] [Async Chat Thread - #34/INFO]: <xNieves> jaja
+[05:50:08] [Async Chat Thread - #34/INFO]: <xNieves> 3
+[05:50:09] [Async Chat Thread - #34/INFO]: <J3ZuX> 3
+[05:50:12] [Async Chat Thread - #34/INFO]: <xNieves> 2
+[05:50:15] [Async Chat Thread - #34/INFO]: <xNieves> 1
+[05:50:16] [Async Chat Thread - #34/INFO]: <xNieves> ya
+[05:50:52] [Craft Scheduler Thread - 20/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[05:50:54] [Server thread/INFO]: J3ZuX was slain by xNieves
+[05:51:06] [Async Chat Thread - #34/INFO]: <xNieves> casi me matas mmgvo xd
+[05:51:15] [Async Chat Thread - #34/INFO]: <J3ZuX> mrk me diste un combo y no te ponia ni pegar, nose si era por el ping
+[05:51:36] [Async Chat Thread - #34/INFO]: <xNieves> ahi tan tus vainas
+[05:51:53] [Async Chat Thread - #34/INFO]: <J3ZuX> jjajaj ya ganaste, pero vamos a darle la ultima
+[05:51:57] [Async Chat Thread - #34/INFO]: <xNieves> chamo te puedes creer que yo no sabia lo del hacha jaja
+[05:51:59] [Async Chat Thread - #34/INFO]: <J3ZuX> zzz
+[05:51:59] [Async Chat Thread - #34/INFO]: <J3ZuX> z
+[05:51:59] [Async Chat Thread - #34/INFO]: <J3ZuX> z
+[05:51:59] [Async Chat Thread - #34/INFO]: <J3ZuX> zz
+[05:52:01] [Async Chat Thread - #34/INFO]: <xNieves> que te quitaba el escudo
+[05:52:09] [Async Chat Thread - #34/INFO]: <J3ZuX> ajajaj sisa
+[05:52:17] [Async Chat Thread - #34/INFO]: <J3ZuX> 3
+[05:52:18] [Async Chat Thread - #34/INFO]: <J3ZuX> 2
+[05:52:19] [Async Chat Thread - #34/INFO]: <J3ZuX> 1
+[05:52:42] [Server thread/INFO]: J3ZuX was slain by xNieves
+[05:52:48] [Async Chat Thread - #34/INFO]: <J3ZuX> que va mrk
+[05:52:48] [Async Chat Thread - #34/INFO]: <xNieves> el mejor papa
+[05:52:55] [Async Chat Thread - #34/INFO]: <J3ZuX> hay un momento donde no te pego
+[05:53:02] [Async Chat Thread - #34/INFO]: <xNieves> porque te esquivo
+[05:53:03] [Async Chat Thread - #34/INFO]: <xNieves> jaksjdkasd
+[05:53:13] [Async Chat Thread - #34/INFO]: <J3ZuX> nvl, te tengo al frente
+[05:53:37] [Async Chat Thread - #34/INFO]: <J3ZuX> tenes universoft craft__++
+[05:53:40] [Async Chat Thread - #34/INFO]: <xNieves> sisa
+[05:53:47] [Async Chat Thread - #34/INFO]: <J3ZuX> vamos hacer pvp hay
+[05:53:50] [Async Chat Thread - #34/INFO]: <xNieves> siva
+[05:53:56] [Async Chat Thread - #34/INFO]: <J3ZuX> pero que no sea un pvp con un poco de mierdas op
+[05:54:02] [Async Chat Thread - #34/INFO]: <xNieves> na vale
+[05:54:06] [Async Chat Thread - #34/INFO]: <xNieves> uno ahi sencillo
+[05:54:06] [Async Chat Thread - #34/INFO]: <J3ZuX> te veo hay
+[05:54:08] [Server thread/INFO]: xNieves lost connection: Disconnected
+[05:54:08] [Server thread/INFO]: xNieves left the game
+[05:54:09] [Server thread/INFO]: J3ZuX lost connection: Disconnected
+[05:54:09] [Server thread/INFO]: J3ZuX left the game
+[05:55:24] [User Authenticator #6/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
+[05:55:24] [Server thread/INFO]: J3ZuX joined the game
+[05:55:24] [Server thread/INFO]: J3ZuX[/10.144.204.103:50739] logged in with entity id 79801 at ([world]2183.0087262014595, 71.0, -186.03336458759247)
+[05:56:30] [User Authenticator #7/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
+[05:56:30] [Server thread/INFO]: xNieves joined the game
+[05:56:30] [Server thread/INFO]: xNieves[/10.144.22.200:51864] logged in with entity id 80324 at ([world]2179.9391005344182, 71.0, -185.87514243810097)
+[05:56:37] [Async Chat Thread - #35/INFO]: <J3ZuX> donde te metiste
+[05:56:42] [Async Chat Thread - #35/INFO]: <J3ZuX> que no te encontre
+[05:57:01] [Async Chat Thread - #35/INFO]: <xNieves> mano en arena pvp
+[05:57:08] [Async Chat Thread - #35/INFO]: <xNieves> te mande solicitud de amistad y todo
+[05:57:09] [Async Chat Thread - #35/INFO]: <xNieves> xd
+[05:57:16] [Async Chat Thread - #35/INFO]: <J3ZuX> yo entre hay tambien, en el lugar 1 xd
+[05:57:26] [Async Chat Thread - #35/INFO]: <xNieves> aceptame la solicitud mmgvo
+[05:57:32] [Async Chat Thread - #35/INFO]: <xNieves> pon /amigos añadir xNieves
+[05:57:35] [Async Chat Thread - #35/INFO]: <J3ZuX> esperame
+[05:57:38] [Async Chat Thread - #35/INFO]: <xNieves> y ahi cuadramos
+[05:57:40] [Async Chat Thread - #35/INFO]: <J3ZuX> voya reiniciar el mincraft
+[05:57:49] [Async Chat Thread - #35/INFO]: <xNieves> bueno estoy aqui
+[05:57:52] [Async Chat Thread - #35/INFO]: <xNieves> voy para mi casa
+[05:57:55] [Async Chat Thread - #35/INFO]: <J3ZuX> esperame en univercraft
+[05:57:59] [Async Chat Thread - #35/INFO]: <xNieves> ah bueno
+[05:58:02] [Async Chat Thread - #35/INFO]: <J3ZuX> dale
+[05:58:03] [Server thread/INFO]: J3ZuX lost connection: Disconnected
+[05:58:03] [Server thread/INFO]: J3ZuX left the game
+[05:58:19] [Server thread/INFO]: [Server] en arena pvp
+[05:58:25] [Async Chat Thread - #35/INFO]: <xNieves> sisa
+[05:58:28] [Async Chat Thread - #35/INFO]: <xNieves> la 1
+[05:58:30] [Server thread/INFO]: [Server] dale ps
+[05:58:44] [Server thread/INFO]: [Server] toy reiniciando el juego
+[05:58:47] [Async Chat Thread - #35/INFO]: <xNieves> siva
+[05:58:51] [Async Chat Thread - #35/INFO]: <xNieves> yo voy camino a mi casa
+[05:58:55] [Async Chat Thread - #35/INFO]: <xNieves> para no quedarme botao
+[05:58:56] [Server thread/INFO]: [Server] ya me abrio nos vemos hay
+[05:59:01] [Server thread/INFO]: xNieves lost connection: Disconnected
+[05:59:01] [Server thread/INFO]: xNieves left the game
