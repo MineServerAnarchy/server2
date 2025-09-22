@@ -1096,3 +1096,64 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [04:54:24] [Async Chat Thread - #23/INFO]: <xNieves> con gemini generas hasta 20 xd
 [04:54:32] [Async Chat Thread - #23/INFO]: <J8nAThAn> 6 imagnes cada 24 horas
 [04:58:55] [Server thread/INFO]: Villager EntityVillager['Villager'/67799, uuid='4841be02-571a-4f32-a60c-8bb2c312e8b1', l='ServerLevel[world]', x=4378.28, y=70.00, z=2227.37, cx=273, cz=139, tl=191, v=true, d=false] died, message: 'Villager suffocated in a wall'
+[05:01:51] [Async Chat Thread - #24/INFO]: <J8nAThAn> se saben la historia del optifine
+[05:01:59] [Async Chat Thread - #24/INFO]: <J3ZuX> CUA LES
+[05:02:28] [Async Chat Thread - #24/INFO]: <J8nAThAn> la del optifine
+[05:02:34] [Server thread/INFO]: J8nAThAn fell from a high place
+[05:02:36] [Async Chat Thread - #24/INFO]: <xNieves> xddd
+[05:02:39] [Async Chat Thread - #24/INFO]: <J3ZuX> BUENO CUAL ES
+[05:02:43] [Async Chat Thread - #24/INFO]: <J8nAThAn> xd
+[05:02:44] [Async Chat Thread - #24/INFO]: <J3ZuX> LE FALTO OPTIFINE XD
+[05:03:08] [Async Chat Thread - #24/INFO]: <J8nAThAn> la neblina me tapo
+[05:03:14] [Async Chat Thread - #24/INFO]: <J3ZuX> xd
+[05:03:18] [Async Chat Thread - #24/INFO]: <J8nAThAn> tengo que usar optifine
+[05:03:24] [Async Chat Thread - #24/INFO]: <xNieves> xsddd
+[05:03:36] [Async Chat Thread - #24/INFO]: <J3ZuX> con optifine la quitas yo quito esa mierda no me gusta
+[05:04:09] [Async Chat Thread - #24/INFO]: <J8nAThAn> jajaja, yo tengo todo en bajo
+[05:04:17] [Async Chat Thread - #24/INFO]: <J3ZuX> sisa yo se
+[05:04:20] [Async Chat Thread - #24/INFO]: <J8nAThAn> solo las particulas activadas
+[05:04:36] [Async Chat Thread - #24/INFO]: <J3ZuX> cambiate a fabroc muchio mejor xd
+[05:04:39] [Async Chat Thread - #24/INFO]: <J3ZuX> pero mas complicado
+[05:04:56] [Async Chat Thread - #24/INFO]: <J8nAThAn> vamos a ver weon,
+[05:05:08] [Async Chat Thread - #24/INFO]: <xNieves> erga
+[05:05:10] [Async Chat Thread - #24/INFO]: <xNieves> miren ese ping
+[05:05:13] [Async Chat Thread - #24/INFO]: <J8nAThAn> bueno mi gente me voy a retirar ya me dio sueñito
+[05:05:26] [Async Chat Thread - #24/INFO]: <J3ZuX> jaja ta bueno el ping
+[05:05:28] [Async Chat Thread - #24/INFO]: <xNieves> vaya pue
+[05:05:34] [Async Chat Thread - #24/INFO]: <J3ZuX> mierdaa son la 1
+[05:05:38] [Async Chat Thread - #24/INFO]: <J3ZuX> xd
+[05:05:39] [Async Chat Thread - #24/INFO]: <xNieves> sisa xd
+[05:05:44] [Async Chat Thread - #24/INFO]: <J3ZuX> pense que era como las 11
+[05:05:52] [Craft Scheduler Thread - 17/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[05:05:57] [Async Chat Thread - #24/INFO]: <J8nAThAn> cuidense el dulce chaito
+[05:05:59] [Async Chat Thread - #24/INFO]: <xNieves> pareciera xd
+[05:06:05] [Async Chat Thread - #24/INFO]: <J3ZuX> xd
+[05:06:06] [Server thread/INFO]: J8nAThAn lost connection: Disconnected
+[05:06:06] [Server thread/INFO]: J8nAThAn left the game
+[05:07:35] [Async Chat Thread - #25/INFO]: <J3ZuX> BUENO MANO ECHATE UN CHISTE XD
+[05:07:44] [Async Chat Thread - #25/INFO]: <xNieves> njda mano ajjaaj
+[05:07:44] [Async Chat Thread - #25/INFO]: <J3ZuX> COMO ESTAN LOS CULOS ESA UNI XD
+[05:07:55] [Async Chat Thread - #25/INFO]: <xNieves> mano en mi area casi no hay mujeres
+[05:07:56] [Async Chat Thread - #25/INFO]: <xNieves> xd
+[05:08:15] [Async Chat Thread - #25/INFO]: <J3ZuX> PERO HAY BASTANTE GENTE EN GENERAR_
+[05:08:32] [Async Chat Thread - #25/INFO]: <xNieves> ahi mano
+[05:08:39] [Async Chat Thread - #25/INFO]: <xNieves> somo 3k de personas jajaja
+[05:08:50] [Async Chat Thread - #25/INFO]: <J3ZuX> SAPE GATO XD
+[05:09:03] [Async Chat Thread - #25/INFO]: <J3ZuX> YC COMO HACEN CON TANTA GENTE_
+[05:09:17] [Async Chat Thread - #25/INFO]: <xNieves> no van todos al mismo tiempo
+[05:09:23] [Async Chat Thread - #25/INFO]: <xNieves> pero el total es mas o menos ese
+[05:09:26] [Async Chat Thread - #25/INFO]: <J3ZuX> MMM OK
+[05:09:28] [Async Chat Thread - #25/INFO]: <xNieves> por dia van que si 200
+[05:09:44] [Async Chat Thread - #25/INFO]: <J3ZuX> ERGAAA Y ESO NO TE FASTIDIA___ AMI NO ME CUADRA UN LADO CON MUCHOS MMGVS
+[05:09:46] [Async Chat Thread - #25/INFO]: <xNieves> regalame librerias ahi pue
+[05:09:56] [Async Chat Thread - #25/INFO]: <xNieves> na yo me voy pa mi lao
