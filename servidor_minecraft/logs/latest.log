@@ -800,3 +800,67 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [03:56:40] [Async Chat Thread - #10/INFO]: <J3ZuX> PA DONDE TE FUISTE?
 [03:56:50] [Async Chat Thread - #10/INFO]: <J8nAThAn> ESTOY EN EL NETHER
 [03:56:53] [Async Chat Thread - #10/INFO]: <J3ZuX> OK
+[03:58:45] [Async Chat Thread - #11/INFO]: <xNieves> njda
+[03:58:49] [Async Chat Thread - #11/INFO]: <J8nAThAn> ECONTRE UNA FORTALEZA WITHER
+[03:58:51] [Async Chat Thread - #11/INFO]: <xNieves> las fortalezas no dan mucho loot
+[03:58:55] [Async Chat Thread - #11/INFO]: <J8nAThAn> DECENME SUERTE
+[03:59:02] [Async Chat Thread - #11/INFO]: <J3ZuX> YO ENCONTRE DAIAMNTES
+[03:59:05] [Async Chat Thread - #11/INFO]: <xNieves> fortaleza wither?
+[03:59:08] [Async Chat Thread - #11/INFO]: <xNieves> que vaina sera esa
+[03:59:10] [Async Chat Thread - #11/INFO]: <J8nAThAn> SISA
+[03:59:16] [Async Chat Thread - #11/INFO]: <J8nAThAn> JAJAJA
+[03:59:19] [Async Chat Thread - #11/INFO]: <J3ZuX> COMO ASI QUE FORTALEZA WITHER?=
+[03:59:19] [Async Chat Thread - #11/INFO]: <xNieves> creo que es un bastion xd
+[03:59:39] [Async Chat Thread - #11/INFO]: <J8nAThAn> QUE ES ESA MONDA
+[03:59:49] [Async Chat Thread - #11/INFO]: <J3ZuX> UNA VAINA DE BLOQUES NEGROS????
+[03:59:53] [Async Chat Thread - #11/INFO]: <J8nAThAn> SISA
+[03:59:56] [Async Chat Thread - #11/INFO]: <xNieves> bastion
+[04:00:06] [Async Chat Thread - #11/INFO]: <J8nAThAn> QUE HAY DE BUENO HAY
+[04:00:13] [Async Chat Thread - #11/INFO]: <xNieves> hay un portal cerca de esa monda?
+[04:00:14] [Async Chat Thread - #11/INFO]: <J3ZuX> TE VAN A METER EL GEUBO
+[04:00:36] [Async Chat Thread - #11/INFO]: <J8nAThAn> EL QUE TANGA MIERDO A MORIR QUE NO NASCA XD
+[04:00:40] [Async Chat Thread - #11/INFO]: <J3ZuX> PUEDES ENCONTRAR NETHERITE SI TENES SUERTE PERO TE VAN A COGER, SI PICAS BLOQUES HAY TE ATACARAN LOS CERDOS
+[04:00:43] [Server thread/INFO]: J8nAThAn has made the advancement [Those Were the Days]
+[04:00:52] [Async Chat Thread - #11/INFO]: <xNieves> si pica o si abre los cofres
+[04:01:00] [Async Chat Thread - #11/INFO]: <J3ZuX> SISA YA LO VAN A MATAR
+[04:01:07] [Async Chat Thread - #11/INFO]: <xNieves> los cochinos que tienen una vestimenta negra
+[04:01:12] [Async Chat Thread - #11/INFO]: <xNieves> te van a atacar apenas te vean
+[04:01:17] [Async Chat Thread - #11/INFO]: <J3ZuX> VERDAD XD
+[04:01:18] [Async Chat Thread - #11/INFO]: <J8nAThAn> VOY CON Dios
+[04:01:21] [Async Chat Thread - #11/INFO]: <xNieves> esos mmgvos baja 4 corazones por hachazo
+[04:01:54] [Async Chat Thread - #11/INFO]: <xNieves> alo mejor pa nada proque es el bastion que yo agarre jajaa
+[04:01:55] [Async Chat Thread - #11/INFO]: <J8nAThAn> ya esroy adentro
+[04:02:21] [Async Chat Thread - #11/INFO]: <xNieves> manten distancia de los cochinos esos jajaja
+[04:03:36] [Async Chat Thread - #12/INFO]: <J8nAThAn> aqui como que ya entro alguien
+[04:03:40] [Async Chat Thread - #12/INFO]: <xNieves> jajajaj
+[04:03:42] [Async Chat Thread - #12/INFO]: <J3ZuX> JAJAJJAJ
+[04:03:46] [Async Chat Thread - #12/INFO]: <J3ZuX> FEU ENDY
+[04:03:56] [Async Chat Thread - #12/INFO]: <xNieves> por eso te pregunte que si habia un portal cerca xd
+[04:05:42] [Server thread/INFO]: J8nAThAn was slain by Piglin Brute
+[04:05:44] [Async Chat Thread - #13/INFO]: <xNieves> xddd
+[04:05:45] [Async Chat Thread - #13/INFO]: <J3ZuX> JAJA
+[04:05:52] [Craft Scheduler Thread - 13/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[04:05:53] [Async Chat Thread - #13/INFO]: <J8nAThAn> el diablo
+[04:05:55] [Async Chat Thread - #13/INFO]: <xNieves> yi sabia
+[04:05:56] [Async Chat Thread - #13/INFO]: <xNieves> xddd
+[04:06:01] [Async Chat Thread - #13/INFO]: <J3ZuX> X2 XD{
+[04:06:32] [Async Chat Thread - #13/INFO]: <J8nAThAn> yo por que soy un chamo que no peleo por que si no le meto xd
+[04:06:42] [Async Chat Thread - #13/INFO]: <xNieves> AJJAJAJA
+[04:06:50] [Async Chat Thread - #13/INFO]: <J3ZuX> JAJAJA LA LABIA DE TODO JODIDO XD
+[04:07:12] [Async Chat Thread - #13/INFO]: <J8nAThAn> mmgv
+[04:07:23] [Async Chat Thread - #13/INFO]: <J3ZuX> Q
+[04:07:25] [Async Chat Thread - #13/INFO]: <xNieves> contra esos cochinos uno no lleva vida con hierro xd
+[04:07:31] [Async Chat Thread - #13/INFO]: <J3ZuX> de pana
+[04:07:42] [Async Chat Thread - #13/INFO]: <J8nAThAn> yo ponia bloques para que no parasara y los bloques desaparecian
+[04:07:51] [Async Chat Thread - #13/INFO]: <J3ZuX> tu ping ps
+[04:08:01] [Async Chat Thread - #13/INFO]: <xNieves> tambien depende
