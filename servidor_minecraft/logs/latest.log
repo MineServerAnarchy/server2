@@ -964,3 +964,49 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [04:26:59] [Async Chat Thread - #18/INFO]: <xNieves> ese es el negocio
 [04:27:11] [Async Chat Thread - #18/INFO]: <J3ZuX> xd
 [04:27:13] [Async Chat Thread - #18/INFO]: <J8nAThAn> jajaja sisa pero caleta, tu sabes
+[04:31:03] [Async Chat Thread - #19/INFO]: <J3ZuX> edy
+[04:31:07] [Async Chat Thread - #19/INFO]: <xNieves> q
+[04:31:09] [Async Chat Thread - #19/INFO]: <J3ZuX> y los hijos pa cuando >V
+[04:31:14] [Async Chat Thread - #19/INFO]: <xNieves> sape
+[04:31:19] [Async Chat Thread - #19/INFO]: <J3ZuX> xd
+[04:31:26] [Async Chat Thread - #19/INFO]: <xNieves> no me puedo mantener yo bien
+[04:31:30] [Async Chat Thread - #19/INFO]: <J3ZuX> xd
+[04:31:30] [Async Chat Thread - #19/INFO]: <xNieves> voy a mantener a un carajito
+[04:31:31] [Async Chat Thread - #19/INFO]: <xNieves> xdd
+[04:31:50] [Async Chat Thread - #19/INFO]: <J3ZuX> jajaj activo emtonces, diles que usen condon cuando te cojan xd
+[04:31:51] [Async Chat Thread - #19/INFO]: <J8nAThAn> con eso se aprende
+[04:32:03] [Async Chat Thread - #19/INFO]: <J3ZuX> jaja
+[04:32:04] [Async Chat Thread - #19/INFO]: <xNieves> pq no aprendes tu jona
+[04:32:10] [Async Chat Thread - #19/INFO]: <xNieves> y despues me dices como te va la experiencia
+[04:32:11] [Async Chat Thread - #19/INFO]: <xNieves> xddd
+[04:32:19] [Async Chat Thread - #19/INFO]: <J8nAThAn> no mano qtal
+[04:33:09] [Async Chat Thread - #19/INFO]: <J8nAThAn> primero tengo que tener mi masion, hay si depues el carajito xd
+[04:33:24] [Async Chat Thread - #19/INFO]: <xNieves> quejode
+[04:33:29] [Async Chat Thread - #19/INFO]: <xNieves> kike mansion xd
+[04:33:35] [Async Chat Thread - #19/INFO]: <J3ZuX> SINO NI UNA NI LA OTRA XD
+[04:33:45] [Async Chat Thread - #19/INFO]: <J8nAThAn> jajajaj, uno nunca sabe
+[04:34:02] [Async Chat Thread - #19/INFO]: <J3ZuX> LOS QUE SON REALISTAS SUFREN MENOS EN LA VIDA
+[04:34:19] [Async Chat Thread - #19/INFO]: <J3ZuX> JAJA NO LO DIGO POR TI JONA ES SOLO ALGO QUE DIGO Y YA XD
+[04:34:40] [Async Chat Thread - #19/INFO]: <J8nAThAn> normal
+[04:34:49] [Async Chat Thread - #19/INFO]: <J8nAThAn> igual todos estamos pelando bolas
+[04:34:49] [Async Chat Thread - #19/INFO]: <J3ZuX> PORQUE MENTIRA NO ES XD
+[04:35:06] [Async Chat Thread - #19/INFO]: <xNieves> la verdad si jona xd
+[04:35:14] [Async Chat Thread - #19/INFO]: <xNieves> puro sin rial andamos
+[04:35:23] [Async Chat Thread - #19/INFO]: <J3ZuX> QUE TAL, PELANDO BOLA LO ESTYARAN HACIENDO USTEDES XD
+[04:35:27] [Async Chat Thread - #19/INFO]: <J8nAThAn> hay que ser realista, pero tampoco dejar de soñar
+[04:35:48] [Async Chat Thread - #19/INFO]: <J3ZuX> DEJAR DE SO;AR SI, MAS NO DEJAR DE HACER LAS VAINAS
+[04:35:52] [Craft Scheduler Thread - 15/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 10
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[04:37:11] [Async Chat Thread - #20/INFO]: <J3ZuX> TOTAL PRONTO YA VIENE CRISTO XD
+[04:37:31] [Async Chat Thread - #20/INFO]: <J8nAThAn> jajaj, hay fe hermano
+[04:37:37] [Async Chat Thread - #20/INFO]: <J3ZuX> XD
+[04:37:40] [Async Chat Thread - #20/INFO]: <xNieves> xddd
