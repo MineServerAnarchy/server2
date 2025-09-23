@@ -662,3 +662,54 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [04:03:36] [Async Chat Thread - #24/INFO]: <J8nAThAn> xd
 [04:04:15] [Async Chat Thread - #24/INFO]: <J8nAThAn> ya tenia una puta cabeza de esqueloto wihter chamo
 [04:04:26] [Async Chat Thread - #24/INFO]: <J3ZuX> MKR PS :v
+[04:05:30] [Async Chat Thread - #25/INFO]: <J8nAThAn> jesus tu no tines baras de blaeze..??
+[04:05:58] [Async Chat Thread - #25/INFO]: <J8nAThAn> :::????
+[04:06:06] [Async Chat Thread - #25/INFO]: <J3ZuX> SISA COMO 3
+[04:06:10] [Async Chat Thread - #25/INFO]: <J3ZuX> 4 POR Hy
+[04:06:17] [Async Chat Thread - #25/INFO]: <J3ZuX> porq
+[04:06:23] [Async Chat Thread - #25/INFO]: <J8nAThAn> necesito
+[04:06:42] [Async Chat Thread - #25/INFO]: <J3ZuX> pos consigue :v
+[04:06:46] [Async Chat Thread - #25/INFO]: <J3ZuX> cuantas necesitas?
+[04:06:53] [Async Chat Thread - #25/INFO]: <J8nAThAn> 10 diamante por esas 4
+[04:06:59] [Async Chat Thread - #25/INFO]: <xNieves> yo tengo 8
+[04:07:00] [Async Chat Thread - #25/INFO]: <xNieves> ;v
+[04:07:17] [Async Chat Thread - #25/INFO]: <J3ZuX> ahahha muchos diamantes :V, me tientas me tientas
+[04:07:40] [Async Chat Thread - #25/INFO]: <J8nAThAn> si o no xd
+[04:07:46] [Async Chat Thread - #25/INFO]: <J3ZuX> sisa llegate
+[04:07:52] [Async Chat Thread - #25/INFO]: <J8nAThAn> voy pa esa
+[04:08:04] [Async Chat Thread - #25/INFO]: <J3ZuX> tengo 3 :V
+[04:08:16] [Async Chat Thread - #25/INFO]: <J3ZuX> acabo de revisar
+[04:08:20] [Async Chat Thread - #25/INFO]: <J8nAThAn> naaa, necitaba 4
+[04:08:28] [Async Chat Thread - #25/INFO]: <J3ZuX> jajja solo tengo 3
+[04:08:37] [Async Chat Thread - #25/INFO]: <xNieves> dame eso 10 diamantes a mi
+[04:08:42] [Async Chat Thread - #25/INFO]: <xNieves> y te doy esas vainas
+[04:08:43] [Async Chat Thread - #25/INFO]: <xNieves> xddd
+[04:09:00] [Server thread/INFO]: J8nAThAn was slain by Zombie
+[04:09:03] [Async Chat Thread - #25/INFO]: <xNieves> akjakslda
+[04:09:11] [Async Chat Thread - #25/INFO]: <J8nAThAn> las 8..??
+[04:09:12] [Async Chat Thread - #25/INFO]: <J3ZuX> ya perdio los diamantes xd
+[04:09:53] [Async Chat Thread - #25/INFO]: <xNieves> cuantos diamantes das por 8
+[04:10:05] [Async Chat Thread - #25/INFO]: <xNieves> si por 4 dabas 10, deberias dar 20 por las 8
+[04:10:06] [Async Chat Thread - #25/INFO]: <xNieves> xjkasjd
+[04:10:09] [Async Chat Thread - #25/INFO]: <J3ZuX> jajaj que mas quieres endy mmgv
+[04:10:19] [Async Chat Thread - #25/INFO]: <J3ZuX> 10 ES MUCHO MAS BIEN POR 4
+[04:10:35] [Async Chat Thread - #25/INFO]: <xNieves> bueno le doy 5 por esos 10
+[04:10:43] [Async Chat Thread - #25/INFO]: <J8nAThAn> jajaja mmgv
+[04:10:59] [Async Chat Thread - #25/INFO]: <J8nAThAn> pasa cord
+[04:11:07] [Async Chat Thread - #25/INFO]: <xNieves> ve al portal del mrco de jesus
+[04:11:10] [Async Chat Thread - #25/INFO]: <xNieves> martine
+[04:11:17] [Async Chat Thread - #25/INFO]: <xNieves> y ahi hay una vaina de madera
+[04:11:20] [Async Chat Thread - #25/INFO]: <xNieves> sigue ese camino
+[04:11:23] [Async Chat Thread - #25/INFO]: <xNieves> y llegaras a mi portal
+[04:11:50] [Craft Scheduler Thread - 19/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 7
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[04:13:35] [Async Chat Thread - #26/INFO]: <xNieves> me avisas cuando llegues
