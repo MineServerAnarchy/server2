@@ -508,3 +508,57 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [02:52:41] [User Authenticator #17/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
 [02:52:41] [Server thread/INFO]: xNieves joined the game
 [02:52:41] [Server thread/INFO]: xNieves[/10.144.22.200:58279] logged in with entity id 34651 at ([world]4057.3498907653075, 14.0, -1062.5400297178212)
+[02:52:54] [Async Chat Thread - #14/INFO]: <xNieves> AE
+[02:53:13] [Async Chat Thread - #14/INFO]: <J8nAThAn> we
+[02:53:16] [Async Chat Thread - #14/INFO]: <J3ZuX> q
+[02:53:30] [Async Chat Thread - #14/INFO]: <xNieves> nooooo
+[02:53:39] [Async Chat Thread - #14/INFO]: <J3ZuX> Q
+[02:53:44] [Async Chat Thread - #14/INFO]: <xNieves> SE BORRARON IGUAÑL
+[02:53:57] [Async Chat Thread - #14/INFO]: <J3ZuX> MMGV LOS CHUNK QUEDAN CARGADOS COMO POR 10 MINUTOS
+[02:54:16] [Async Chat Thread - #14/INFO]: <xNieves> PERDI MI MMGVO PICO
+[02:54:16] [Async Chat Thread - #14/INFO]: <xNieves> XD
+[02:54:26] [Async Chat Thread - #14/INFO]: <xNieves> PRESTAME TU GRANJA DE XP AHI
+[02:54:28] [Async Chat Thread - #14/INFO]: <J3ZuX> NA ATI NO TE AFECTA XD
+[02:54:29] [Async Chat Thread - #14/INFO]: <xNieves> PA ENCANTAR
+[02:54:36] [Async Chat Thread - #14/INFO]: <J3ZuX> QUE MEDAS ACAMBIO :v
+[02:54:40] [Async Chat Thread - #14/INFO]: <J3ZuX> ADEMAS LA TENGO APAGADA
+[02:54:42] [Async Chat Thread - #14/INFO]: <xNieves> UN GRACIAS
+[02:54:48] [Async Chat Thread - #14/INFO]: <J3ZuX> PORQUE ANDO DECORANDO
+[02:55:15] [User Authenticator #18/INFO]: UUID of player J8nAThAn is 37dd31f1-fed6-3e4d-a7a4-d78516e69b14
+[02:55:15] [Server thread/INFO]: J8nAThAn lost connection: You logged in from another location
+[02:55:15] [Server thread/INFO]: J8nAThAn left the game
+[02:55:15] [Server thread/INFO]: J8nAThAn joined the game
+[02:55:15] [Server thread/INFO]: J8nAThAn[/10.144.157.103:57025] logged in with entity id 35753 at ([world]1371.938053563869, 69.0, 1706.995865433931)
+[02:56:03] [User Authenticator #18/INFO]: UUID of player J8nAThAn is 37dd31f1-fed6-3e4d-a7a4-d78516e69b14
+[02:56:03] [Server thread/INFO]: J8nAThAn lost connection: You logged in from another location
+[02:56:03] [Server thread/INFO]: J8nAThAn left the game
+[02:56:03] [Server thread/INFO]: J8nAThAn joined the game
+[02:56:03] [Server thread/INFO]: J8nAThAn[/10.144.157.103:59748] logged in with entity id 36108 at ([world]1373.1394681205886, 69.0, 1716.1964912878884)
+[02:56:25] [Async Chat Thread - #15/INFO]: <J8nAThAn> que ping tan mierda
+[02:56:32] [Async Chat Thread - #15/INFO]: <J3ZuX> XD{
+[02:56:50] [Craft Scheduler Thread - 13/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 7
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[02:56:51] [Async Chat Thread - #15/INFO]: <xNieves> VOY A TENER QUE IGUALITO HACER UNA GRANJA DE XP CON ARAÑAS
+[02:56:51] [Async Chat Thread - #15/INFO]: <xNieves> XD
+[02:57:08] [Async Chat Thread - #15/INFO]: <xNieves> QUE FALLA CHAMO
+[02:57:10] [Async Chat Thread - #15/INFO]: <J3ZuX> JAJAJA POS YO AQUI NO HICE GRANJA PA NADIE XD
+[02:57:15] [Async Chat Thread - #15/INFO]: <xNieves> maldito creeper
+[02:57:17] [Async Chat Thread - #15/INFO]: <J3ZuX> BUENO YA SABES
+[03:02:07] [Async Chat Thread - #16/INFO]: <J8nAThAn> zzzzzzzzzzz
+[03:02:13] [Async Chat Thread - #16/INFO]: <J3ZuX> zzzzz
+[03:02:18] [Server thread/INFO]: xNieves lost connection: Disconnected
+[03:02:18] [Server thread/INFO]: xNieves left the game
+[03:02:19] [Server thread/INFO]: J3ZuX lost connection: Disconnected
+[03:02:19] [Server thread/INFO]: J3ZuX left the game
+[03:02:38] [User Authenticator #19/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
+[03:02:38] [Server thread/INFO]: J3ZuX joined the game
+[03:02:38] [Server thread/INFO]: J3ZuX[/10.144.204.103:51246] logged in with entity id 38520 at ([world]2230.51733110525, 70.23164491174936, -146.30000001192093)
