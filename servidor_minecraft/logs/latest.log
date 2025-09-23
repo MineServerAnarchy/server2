@@ -1,86 +1,86 @@
-[22:53:14] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:53:14] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[22:53:15] [Worker-Main-2/INFO]: Loaded 7 recipes
-[22:53:16] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[22:53:16] [Server thread/INFO]: Loading properties
-[22:53:16] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[22:53:16] [Server thread/INFO]: Debug logging is disabled
-[22:53:16] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:53:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:53:16] [Server thread/INFO]: Default game type: SURVIVAL
-[22:53:16] [Server thread/INFO]: Generating keypair
-[22:53:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:53:17] [Server thread/INFO]: Using epoll channel type
-[22:53:18] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[22:53:21] [Server thread/WARN]: Legacy plugin PingTab v1.3.5 does not specify an api-version.
-[22:53:21] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
-[22:53:21] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.3.2
-[22:53:21] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
-[22:53:21] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[22:53:21] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[22:53:21] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[22:53:21] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[22:53:22] [Server thread/INFO]: [ViaRewind] Registering protocols...
-[22:53:22] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.3.2
-[22:53:22] [Server thread/INFO]: [BlockLocker] Loading BlockLocker v1.11
-[22:53:22] [Server thread/INFO]: [PingTab] Loading PingTab v1.3.5
-[22:53:22] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v4.0.7
-[22:53:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:53:22] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.11
-[22:53:22] [Server thread/WARN]: [BlockLocker] Cannot recognize material mangrove_door, ignoring it
-[22:53:22] [Server thread/WARN]: [BlockLocker] Cannot recognize material mangrove_fence_gate, ignoring it
-[22:53:22] [Server thread/WARN]: [BlockLocker] Cannot recognize material mangrove_trapdoor, ignoring it
-[22:53:22] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.7
-[22:53:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:53:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:53:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:53:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:53:22] [Server thread/INFO]: Preparing level "world"
-[22:53:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:53:23] [Server thread/INFO]: Preparing spawn area: 0%
-[22:53:23] [Server thread/INFO]: Time elapsed: 287 ms
-[22:53:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:53:23] [Server thread/INFO]: Time elapsed: 46 ms
-[22:53:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:53:23] [Server thread/INFO]: Time elapsed: 34 ms
-[22:53:23] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
-[22:53:23] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
-[22:53:23] [Server thread/INFO]: [ClearLag] Loading modules...
-[22:53:23] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
-[22:53:23] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[22:53:23] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[22:53:23] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
-[22:53:23] [Thread-8/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.16]...
-[22:53:23] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.16.4-1.16.5 (754)
-[22:53:23] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please update it to at least Java 21 (your version is 11.0.28).
-[22:53:23] [Server thread/WARN]: [ViaVersion] ViaVersion no longer officially supports this version of Java, only offering unsupported compatibility builds.
-[22:53:23] [Server thread/WARN]: [ViaVersion] See https://github.com/ViaVersion/ViaVersion/releases/tag/5.0.0 for more information.
-[22:53:23] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
-[22:53:23] [Server thread/INFO]: [PingTab] Enabling PingTab v1.3.5*
-[22:53:23] [Server thread/INFO]: [PingTab] Plugin metrics enabled!
-[22:53:23] [Server thread/INFO]: [PingTab] Checking for new versions...
-[22:53:25] [Server thread/INFO]: [PingTab] Plugin is up to date.
-[22:53:25] [Thread-8/INFO]: [ClearLag] No updates found!
-[22:53:25] [Server thread/INFO]: Running delayed init tasks
-[22:53:25] [Server thread/INFO]: Done (9.261s)! For help, type "help"
-[22:53:25] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[22:53:25] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
-[22:53:25] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
-[22:53:25] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
-[22:53:25] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[22:53:25] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
-[22:53:25] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
-[22:53:25] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
-[22:53:25] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
-[22:53:25] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[22:53:25] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.28
-[22:53:25] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[22:53:25] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
-[22:53:25] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
-[22:53:25] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[22:53:25] [Server thread/INFO]: Timings Reset
-[22:53:25] [Craft Scheduler Thread - 2/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[22:53:25] [Craft Scheduler Thread - 1/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 7
+[01:41:39] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:41:39] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[01:41:40] [Worker-Main-2/INFO]: Loaded 7 recipes
+[01:41:41] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[01:41:41] [Server thread/INFO]: Loading properties
+[01:41:41] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[01:41:41] [Server thread/INFO]: Debug logging is disabled
+[01:41:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:41:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:41:41] [Server thread/INFO]: Default game type: SURVIVAL
+[01:41:41] [Server thread/INFO]: Generating keypair
+[01:41:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:41:41] [Server thread/INFO]: Using epoll channel type
+[01:41:43] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[01:41:46] [Server thread/WARN]: Legacy plugin PingTab v1.3.5 does not specify an api-version.
+[01:41:46] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[01:41:46] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.3.2
+[01:41:46] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
+[01:41:46] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[01:41:46] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[01:41:46] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[01:41:46] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[01:41:47] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[01:41:47] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.3.2
+[01:41:47] [Server thread/INFO]: [BlockLocker] Loading BlockLocker v1.11
+[01:41:47] [Server thread/INFO]: [PingTab] Loading PingTab v1.3.5
+[01:41:47] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v4.0.7
+[01:41:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:41:47] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.11
+[01:41:47] [Server thread/WARN]: [BlockLocker] Cannot recognize material mangrove_door, ignoring it
+[01:41:47] [Server thread/WARN]: [BlockLocker] Cannot recognize material mangrove_fence_gate, ignoring it
+[01:41:47] [Server thread/WARN]: [BlockLocker] Cannot recognize material mangrove_trapdoor, ignoring it
+[01:41:47] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.7
+[01:41:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:41:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:41:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:41:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:41:47] [Server thread/INFO]: Preparing level "world"
+[01:41:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:41:47] [Server thread/INFO]: Preparing spawn area: 0%
+[01:41:47] [Server thread/INFO]: Time elapsed: 266 ms
+[01:41:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:41:47] [Server thread/INFO]: Time elapsed: 51 ms
+[01:41:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:41:47] [Server thread/INFO]: Time elapsed: 32 ms
+[01:41:47] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[01:41:47] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[01:41:48] [Server thread/INFO]: [ClearLag] Loading modules...
+[01:41:48] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[01:41:48] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[01:41:48] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[01:41:48] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
+[01:41:48] [Thread-8/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.16]...
+[01:41:48] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.16.4-1.16.5 (754)
+[01:41:48] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please update it to at least Java 21 (your version is 11.0.28).
+[01:41:48] [Server thread/WARN]: [ViaVersion] ViaVersion no longer officially supports this version of Java, only offering unsupported compatibility builds.
+[01:41:48] [Server thread/WARN]: [ViaVersion] See https://github.com/ViaVersion/ViaVersion/releases/tag/5.0.0 for more information.
+[01:41:48] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
+[01:41:48] [Server thread/INFO]: [PingTab] Enabling PingTab v1.3.5*
+[01:41:48] [Server thread/INFO]: [PingTab] Plugin metrics enabled!
+[01:41:48] [Server thread/INFO]: [PingTab] Checking for new versions...
+[01:41:50] [Thread-8/INFO]: [ClearLag] No updates found!
+[01:41:50] [Server thread/INFO]: [PingTab] Plugin is up to date.
+[01:41:50] [Server thread/INFO]: Running delayed init tasks
+[01:41:50] [Server thread/INFO]: Done (9.399s)! For help, type "help"
+[01:41:50] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[01:41:50] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[01:41:50] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[01:41:50] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[01:41:50] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[01:41:50] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[01:41:50] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[01:41:50] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[01:41:50] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[01:41:50] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[01:41:50] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.28
+[01:41:50] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[01:41:50] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[01:41:50] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[01:41:50] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[01:41:50] [Server thread/INFO]: Timings Reset
+[01:41:50] [Craft Scheduler Thread - 2/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[01:41:50] [Craft Scheduler Thread - 1/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 7
 java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -91,30 +91,325 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
-[22:53:25] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.3.2
-[22:53:26] [Server thread/INFO]: The latest version of BlockLocker (version 1.13.0) no longer supports this Minecraft version, only Minecraft 1.20.2, 1.20.4, 1.20.6, 1.21, 1.21.1, 1.21.2, 1.21.3, 1.21.4, 1.21.5, 1.21.6.
-[22:53:26] [Server thread/INFO]: More information: https://www.spigotmc.org/resources/blocklocker.3268/update?update=571821
-[22:53:55] [Server thread/INFO]: Stopping the server
-[22:53:55] [Server thread/INFO]: Stopping server
-[22:53:55] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.7
-[22:53:55] [Server thread/INFO]: [PingTab] Disabling PingTab v1.3.5
-[22:53:55] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.11
-[22:53:55] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
-[22:53:55] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
-[22:53:55] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[22:53:55] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
-[22:53:55] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[22:53:55] [Server thread/INFO]: Saving players
-[22:53:55] [Server thread/INFO]: Saving worlds
-[22:53:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:53:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:53:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[22:53:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:53:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[22:53:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:53:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:53:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:53:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:53:57] [Server thread/INFO]: Flushing Chunk IO
-[22:53:57] [Server thread/INFO]: Closing Thread Pool
-[22:53:57] [Server thread/INFO]: Closing Server
+[01:41:50] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.3.2
+[01:41:50] [User Authenticator #1/INFO]: UUID of player J8nAThAn is 37dd31f1-fed6-3e4d-a7a4-d78516e69b14
+[01:41:51] [Server thread/INFO]: The latest version of BlockLocker (version 1.13.0) no longer supports this Minecraft version, only Minecraft 1.20.2, 1.20.4, 1.20.6, 1.21, 1.21.1, 1.21.2, 1.21.3, 1.21.4, 1.21.5, 1.21.6.
+[01:41:51] [Server thread/INFO]: More information: https://www.spigotmc.org/resources/blocklocker.3268/update?update=571821
+[01:41:51] [Server thread/INFO]: J8nAThAn joined the game
+[01:41:51] [Server thread/INFO]: J8nAThAn[/10.144.157.103:55752] logged in with entity id 1 at ([world]1373.235654468676, 24.5, 1721.159956180844)
+[01:42:21] [Async Chat Thread - #0/INFO]: <J8nAThAn> Qlq
+[01:42:22] [Server thread/INFO]: [Server] ergaaa mmgv mosco y te quedas afuera xd
+[01:42:34] [Async Chat Thread - #0/INFO]: <J8nAThAn> JAJAJAJA,
+[01:43:09] [Server thread/INFO]: [Server] cual qlqw mmgc si eres el primero q entra xd
+[01:43:21] [Async Chat Thread - #0/INFO]: <J8nAThAn> JAJAJA YO SE MMGV
+[01:44:09] [User Authenticator #2/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
+[01:44:10] [Server thread/INFO]: J3ZuX joined the game
+[01:44:10] [Server thread/INFO]: J3ZuX[/10.144.204.103:50612] logged in with entity id 637 at ([world]2221.6297872475075, 72.0, -169.548967622361)
+[01:44:47] [Server thread/INFO]: J3ZuX issued server command: /ling
+[01:44:50] [Server thread/INFO]: J3ZuX issued server command: /ping
+[01:44:55] [Server thread/WARN]: J3ZuX was kicked due to keepalive timeout!
+[01:44:55] [Server thread/INFO]: J3ZuX lost connection: Timed out
+[01:44:55] [Server thread/INFO]: J3ZuX left the game
+[01:46:10] [User Authenticator #3/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
+[01:46:10] [Server thread/INFO]: J3ZuX joined the game
+[01:46:10] [Server thread/INFO]: J3ZuX[/10.144.204.103:50657] logged in with entity id 1204 at ([world]2225.622436605685, 73.0, -173.42989701991357)
+[01:47:06] [User Authenticator #3/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[01:47:06] [Server thread/INFO]: Jexus_777 joined the game
+[01:47:06] [Server thread/INFO]: Jexus_777[/10.144.149.96:52156] logged in with entity id 1767 at ([world]1721.2748851253962, 64.0, 122.22291407456726)
+[01:47:17] [Async Chat Thread - #1/INFO]: <J3ZuX> el muerde muerde
+[01:47:20] [Async Chat Thread - #1/INFO]: <Jexus_777> Hola perras
+[01:47:22] [Async Chat Thread - #1/INFO]: <J8nAThAn> MESSSI
+[01:47:25] [Async Chat Thread - #1/INFO]: <J3ZuX> habla
+[01:47:51] [Server thread/WARN]: Jexus_777 was kicked due to keepalive timeout!
+[01:47:51] [Server thread/INFO]: Jexus_777 lost connection: Timed out
+[01:47:51] [Server thread/INFO]: Jexus_777 left the game
+[01:48:25] [User Authenticator #4/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[01:48:25] [Server thread/INFO]: Jexus_777 joined the game
+[01:48:25] [Server thread/INFO]: Jexus_777[/10.144.149.96:52159] logged in with entity id 2423 at ([world]1722.2777216474196, 64.0, 121.00112562117064)
+[01:48:35] [Async Chat Thread - #2/INFO]: <Jexus_777> No tengo mucho wifi
+[01:48:38] [Async Chat Thread - #2/INFO]: <Jexus_777> putamadre
+[01:48:39] [Async Chat Thread - #2/INFO]: <J3ZuX> ya veo
+[01:49:10] [Server thread/WARN]: Jexus_777 was kicked due to keepalive timeout!
+[01:49:10] [Server thread/INFO]: Jexus_777 lost connection: Timed out
+[01:49:10] [Server thread/INFO]: Jexus_777 left the game
+[01:49:27] [Async Chat Thread - #2/INFO]: <J3ZuX> ..........
+[01:49:43] [User Authenticator #5/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[01:49:43] [Server thread/INFO]: Jexus_777 joined the game
+[01:49:43] [Server thread/INFO]: Jexus_777[/10.144.149.96:52161] logged in with entity id 3175 at ([world]1776.7515272171831, 64.16912552244726, 101.94761989208078)
+[01:50:20] [Async Chat Thread - #2/INFO]: <Jexus_777> MALDITO INTERNEEEEEEEEEEEEEET
+[01:50:25] [Async Chat Thread - #2/INFO]: <Jexus_777> La unica forma de yo juga
+[01:50:28] [Server thread/WARN]: Jexus_777 was kicked due to keepalive timeout!
+[01:50:28] [Server thread/INFO]: Jexus_777 lost connection: Timed out
+[01:50:28] [Server thread/INFO]: Jexus_777 left the game
+[01:50:31] [Async Chat Thread - #2/INFO]: <J3ZuX> xd
+[01:50:35] [User Authenticator #5/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[01:50:35] [Server thread/INFO]: Jexus_777 joined the game
+[01:50:35] [Server thread/INFO]: Jexus_777[/10.144.149.96:52165] logged in with entity id 3701 at ([world]1800.2035726604247, 63.75197261797401, 99.9102275637482)
+[01:51:05] [Async Chat Thread - #2/INFO]: <J3ZuX> duermann
+[01:51:07] [Async Chat Thread - #2/INFO]: <J3ZuX> zzzzzzzzz
+[01:51:17] [Async Chat Thread - #2/INFO]: <Jexus_777> zzzzz
+[01:51:23] [Async Chat Thread - #2/INFO]: <J3ZuX> zzzz
+[01:51:23] [Async Chat Thread - #2/INFO]: <Jexus_777> zzzz
+[01:51:24] [Async Chat Thread - #2/INFO]: <J3ZuX> zzzzzzzzz
+[01:51:25] [Async Chat Thread - #2/INFO]: <J3ZuX> zzzzzz
+[01:51:27] [Async Chat Thread - #2/INFO]: <J3ZuX> jonaa mmgv
+[01:51:28] [Async Chat Thread - #2/INFO]: <Jexus_777> nunca falta el mmgvo
+[01:51:28] [Async Chat Thread - #2/INFO]: <J3ZuX> zzzzzzzzzzz
+[01:51:29] [Async Chat Thread - #2/INFO]: <J3ZuX> zzzzzzzzzzz
+[01:51:30] [Async Chat Thread - #2/INFO]: <J3ZuX> zzzzzzzzzzzzz
+[01:51:31] [Async Chat Thread - #2/INFO]: <J3ZuX> zzzzzzzzzzzzz
+[01:51:32] [Async Chat Thread - #2/INFO]: <J3ZuX> zzzzzzzzzz
+[01:51:33] [Async Chat Thread - #2/INFO]: <J3ZuX> zzzzzzzzzzzz
+[01:51:34] [Async Chat Thread - #2/INFO]: <J3ZuX> zzzzzzzzzzzz
+[01:51:36] [Async Chat Thread - #2/INFO]: <J3ZuX> zzzzzzzzzzz
+[01:51:39] [Async Chat Thread - #2/INFO]: <Jexus_777> La unica forma de yo jugar es q lo prendas temprano
+[01:51:40] [Async Chat Thread - #2/INFO]: <J8nAThAn> ZZZZZZZ
+[01:51:43] [Async Chat Thread - #2/INFO]: <Jexus_777> pipipi
+[01:51:46] [Async Chat Thread - #2/INFO]: <Jexus_777> :'v
+[01:52:07] [Async Chat Thread - #2/INFO]: <J3ZuX> temprano el internet esta mas mierda y temprano no lo voy a prendi porque yo tengo cosas que hacer
+[01:52:43] [Async Chat Thread - #2/INFO]: <Jexus_777> Bueno cuando lo prendas temprano
+[01:53:13] [Async Chat Thread - #2/INFO]: <J3ZuX> mas bien ahorita fue que le prendi temprano
+[01:53:29] [Async Chat Thread - #2/INFO]: <Jexus_777> Si
+[01:53:42] [Async Chat Thread - #2/INFO]: <Jexus_777> Aqui tengo a mi tio al lado
+[01:53:47] [Async Chat Thread - #2/INFO]: <Jexus_777> No piensen mal
+[01:53:50] [Async Chat Thread - #2/INFO]: <Jexus_777> JASJDHASJH
+[01:53:50] [Async Chat Thread - #2/INFO]: <J3ZuX> ujunmmmm
+[01:53:57] [Async Chat Thread - #2/INFO]: <Jexus_777> Tiene 13 años
+[01:56:50] [Craft Scheduler Thread - 6/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 7
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[01:58:12] [Async Chat Thread - #3/INFO]: <J3ZuX> g
+[01:58:14] [Async Chat Thread - #3/INFO]: <Jexus_777> Q
+[01:58:48] [User Authenticator #6/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
+[01:58:48] [Server thread/INFO]: xNieves joined the game
+[01:58:48] [Server thread/INFO]: xNieves[/10.144.22.200:53476] logged in with entity id 6796 at ([world_nether]336.69999998807907, 61.0, -88.2443915447761)
+[01:59:11] [Async Chat Thread - #3/INFO]: <xNieves> buenas, no hay pan duro ni ropa vieja?
+[01:59:15] [Async Chat Thread - #3/INFO]: <Jexus_777> no
+[01:59:35] [Async Chat Thread - #3/INFO]: <J3ZuX> el guebo lo tengo duro falta que me quites la ropa 7w7
+[01:59:42] [Async Chat Thread - #3/INFO]: <Jexus_777> 7u7
+[01:59:43] [Async Chat Thread - #3/INFO]: <xNieves> ah vaina mano
+[01:59:49] [Async Chat Thread - #3/INFO]: <xNieves> esas no son cosas de hombre
+[01:59:55] [Async Chat Thread - #3/INFO]: <Jexus_777> porno
+[02:00:02] [Async Chat Thread - #3/INFO]: <J3ZuX> lo importante es tirar dise el dicho xd
+[02:00:03] [Async Chat Thread - #3/INFO]: <Jexus_777> No han visto el juego q se llama
+[02:00:07] [Async Chat Thread - #3/INFO]: <Jexus_777> pene vs vagina
+[02:00:14] [Async Chat Thread - #3/INFO]: <Jexus_777> Plantas vs zombies *
+[02:00:22] [Async Chat Thread - #3/INFO]: <xNieves> messi
+[02:00:24] [Async Chat Thread - #3/INFO]: <J3ZuX> ya la cagste xd
+[02:00:32] [Async Chat Thread - #3/INFO]: <xNieves> tu solo haz visto una vagina en tu vida
+[02:00:43] [Async Chat Thread - #3/INFO]: <Jexus_777> de echo
+[02:00:44] [Async Chat Thread - #3/INFO]: <Jexus_777> 6
+[02:00:48] [Async Chat Thread - #3/INFO]: <J3ZuX> endyt tu tampoco >V
+[02:00:56] [Async Chat Thread - #3/INFO]: <xNieves> es verdad martine
+[02:01:00] [Async Chat Thread - #3/INFO]: <J3ZuX> jajaja
+[02:01:01] [Server thread/INFO]: J8nAThAn was slain by Enderman
+[02:01:04] [Async Chat Thread - #3/INFO]: <xNieves> AJHJAKAS
+[02:01:05] [Async Chat Thread - #3/INFO]: <Jexus_777> f
+[02:01:06] [Async Chat Thread - #3/INFO]: <xNieves> efe
+[02:01:22] [Async Chat Thread - #3/INFO]: <J3ZuX> en que parte esta el cliptoris_
+[02:01:29] [Async Chat Thread - #3/INFO]: <xNieves> tengo 10 diamantes
+[02:01:53] [Async Chat Thread - #3/INFO]: <xNieves> eldiavl
+[02:01:55] [Async Chat Thread - #3/INFO]: <xNieves> don lag
+[02:02:04] [Async Chat Thread - #3/INFO]: <J3ZuX> jaja
+[02:02:04] [Async Chat Thread - #3/INFO]: <xNieves> el clitori queda via san juan mano
+[02:02:06] [Async Chat Thread - #3/INFO]: <Jexus_777> pinches internet
+[02:02:28] [Async Chat Thread - #3/INFO]: <xNieves> Hasta jonathan tiene lag
+[02:02:46] [Async Chat Thread - #3/INFO]: <J3ZuX> YO ANDO RELAX POR EL MOENTO
+[02:02:50] [Async Chat Thread - #3/INFO]: <Jexus_777> yo tmb
+[02:02:54] [Async Chat Thread - #3/INFO]: <Jexus_777> mire duerman
+[02:03:00] [Async Chat Thread - #3/INFO]: <J3ZuX> ZZZZZ
+[02:03:12] [Async Chat Thread - #3/INFO]: <xNieves> no puedo dormir, no me traje a mi oso de peluche
+[02:03:13] [Async Chat Thread - #3/INFO]: <xNieves> jahaksd
+[02:03:24] [Async Chat Thread - #3/INFO]: <J3ZuX> XD
+[02:03:28] [Async Chat Thread - #3/INFO]: <xNieves> zz
+[02:03:48] [Async Chat Thread - #3/INFO]: <xNieves> duerman pues malditp
+[02:03:52] [Async Chat Thread - #3/INFO]: <J3ZuX> ZZZ
+[02:03:56] [Async Chat Thread - #3/INFO]: <xNieves> zzzz
+[02:03:57] [Async Chat Thread - #3/INFO]: <J3ZuX> ZZZZZZ
+[02:04:02] [Async Chat Thread - #3/INFO]: <xNieves> MESIIIIIIIIIIIIIIIIIIIIIIIIIIII
+[02:04:05] [Async Chat Thread - #3/INFO]: <Jexus_777> zzzz
+[02:04:12] [Async Chat Thread - #3/INFO]: <xNieves> JONAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[02:04:14] [Async Chat Thread - #3/INFO]: <J3ZuX> XX
+[02:04:24] [Async Chat Thread - #3/INFO]: <Jexus_777> Nunca falta el mmgvo
+[02:04:26] [Async Chat Thread - #3/INFO]: <xNieves> JONAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJONAAA
+[02:04:28] [Async Chat Thread - #3/INFO]: <xNieves> JONAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[02:04:28] [Async Chat Thread - #3/INFO]: <xNieves> JONAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[02:04:29] [Async Chat Thread - #3/INFO]: <xNieves> JONAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[02:04:29] [Async Chat Thread - #3/INFO]: <J8nAThAn> ZZZZZ
+[02:04:30] [Async Chat Thread - #3/INFO]: <xNieves> JONAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[02:04:30] [Async Chat Thread - #3/INFO]: <xNieves> JONAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[02:04:31] [Server thread/INFO]: J8nAThAn lost connection: Disconnected
+[02:04:31] [Server thread/INFO]: J8nAThAn left the game
+[02:04:33] [Async Chat Thread - #3/INFO]: <J3ZuX> MI PING XDDDDDD
+[02:04:39] [Async Chat Thread - #3/INFO]: <Jexus_777> 5659 XD
+[02:04:42] [Async Chat Thread - #3/INFO]: <xNieves> er diabvl
+[02:04:52] [User Authenticator #7/INFO]: UUID of player J8nAThAn is 37dd31f1-fed6-3e4d-a7a4-d78516e69b14
+[02:04:52] [Server thread/INFO]: J8nAThAn joined the game
+[02:04:52] [Server thread/INFO]: J8nAThAn[/10.144.157.103:56954] logged in with entity id 10166 at ([world]1413.3156123540655, 11.0, 1668.8775368073434)
+[02:05:06] [Async Chat Thread - #3/INFO]: <xNieves> habia una vez
+[02:05:12] [Async Chat Thread - #3/INFO]: <xNieves> un barquito chiquitico
+[02:05:19] [Async Chat Thread - #3/INFO]: <xNieves> habia una vez un barquito chiquitico
+[02:05:30] [Async Chat Thread - #3/INFO]: <J3ZuX> COMO ASI
+[02:05:32] [Async Chat Thread - #3/INFO]: <xNieves> que no podia que no sabia que no podia navegar
+[02:05:39] [Async Chat Thread - #3/INFO]: <xNieves> pasaron 1 2 3 4 5 6 7 semanas
+[02:05:41] [Async Chat Thread - #3/INFO]: <xNieves> pasaron 1 2 3 4 5 6 7 semanas
+[02:05:53] [Async Chat Thread - #3/INFO]: <J3ZuX> MRK
+[02:05:54] [Async Chat Thread - #3/INFO]: <xNieves> y el barquito que no podia que no sabia que no podia navegar
+[02:05:58] [Async Chat Thread - #3/INFO]: <Jexus_777> me voy a dejar matar ojo
+[02:06:06] [Server thread/INFO]: Jexus_777 was slain by Zombie
+[02:06:12] [Async Chat Thread - #3/INFO]: <xNieves> *Aparece en el spawn*
+[02:06:16] [Async Chat Thread - #3/INFO]: <J3ZuX> xd
+[02:06:27] [Async Chat Thread - #3/INFO]: <J3ZuX> "se vuevlve a morir"
+[02:06:36] [Async Chat Thread - #3/INFO]: <Jexus_777> mmgvo ping de mrd
+[02:06:44] [Async Chat Thread - #3/INFO]: <J3ZuX> ahora jesys es el que nos gana de ping
+[02:06:49] [Async Chat Thread - #3/INFO]: <J3ZuX> ah ya no xd
+[02:06:51] [Async Chat Thread - #3/INFO]: <Jexus_777> OJALA
+[02:07:04] [Async Chat Thread - #3/INFO]: <xNieves> mano
+[02:07:05] [Async Chat Thread - #3/INFO]: <xNieves> nmms
+[02:07:07] [Async Chat Thread - #3/INFO]: <xNieves> ese ping
+[02:07:13] [Async Chat Thread - #3/INFO]: <J3ZuX> jaajja
+[02:07:41] [Async Chat Thread - #3/INFO]: <J3ZuX> que esta pasando señor que esta pasando
+[02:07:56] [Async Chat Thread - #3/INFO]: <xNieves> la banda sin internet
+[02:08:07] [Async Chat Thread - #3/INFO]: <xNieves> hasta jona lleva algo de lag
+[02:08:41] [Async Chat Thread - #3/INFO]: <Jexus_777> pvp o miedo
+[02:08:46] [Async Chat Thread - #3/INFO]: <Jexus_777> espera me activo el autoclik
+[02:10:04] [Async Chat Thread - #4/INFO]: <xNieves> necesita autoclick pa ganar
+[02:10:06] [Async Chat Thread - #4/INFO]: <xNieves> que gey
+[02:10:14] [Async Chat Thread - #4/INFO]: <Jexus_777> uwu
+[02:10:18] [Async Chat Thread - #4/INFO]: <Jexus_777> ni asi gano
+[02:10:21] [Async Chat Thread - #4/INFO]: <Jexus_777> imaginate
+[02:10:48] [Async Chat Thread - #4/INFO]: <xNieves> y yo que iba a jugarte un pvp
+[02:10:50] [Async Chat Thread - #4/INFO]: <xNieves> pero ya no
+[02:10:54] [Async Chat Thread - #4/INFO]: <xNieves> no juego contra geys
+[02:11:05] [Async Chat Thread - #4/INFO]: <Jexus_777> oki
+[02:11:32] [Async Chat Thread - #4/INFO]: <xNieves> que diria hitler en estos momentos
+[02:11:36] [Async Chat Thread - #4/INFO]: <Jexus_777> jesus tengo 329 palitos, dejame tradear con tus aldeanos UnU
+[02:11:50] [Craft Scheduler Thread - 7/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 7
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[02:11:53] [Async Chat Thread - #4/INFO]: <J3ZuX> no
+[02:12:03] [Async Chat Thread - #4/INFO]: <Jexus_777> na mas descuidate
+[02:12:19] [Async Chat Thread - #4/INFO]: <J3ZuX> lleva avenir para aca y no entras mas nunca en esta mierda
+[02:12:20] [Async Chat Thread - #4/INFO]: <Jexus_777> si estan en aprendiz, van a estar en expertos
+[02:12:27] [Async Chat Thread - #4/INFO]: <J3ZuX> ./ban Jexus_777
+[02:12:35] [Async Chat Thread - #4/INFO]: <xNieves> te reto
+[02:12:36] [Async Chat Thread - #4/INFO]: <xNieves> asaksd
+[02:12:43] [Async Chat Thread - #4/INFO]: <J3ZuX> que se ponga loko
+[02:12:48] [Async Chat Thread - #4/INFO]: <Jexus_777> tiene q banear pq pvp no puede
+[02:13:00] [Async Chat Thread - #4/INFO]: <Jexus_777> ajhdsajhdfa
+[02:13:01] [Async Chat Thread - #4/INFO]: <J3ZuX> aja
+[02:13:29] [Async Chat Thread - #4/INFO]: <Jexus_777> ahorita voy
+[02:13:32] [Async Chat Thread - #4/INFO]: <xNieves> sera qye me lanzo una granja de arañas
+[02:15:28] [Server thread/WARN]: J3ZuX was kicked due to keepalive timeout!
+[02:15:28] [Server thread/INFO]: J3ZuX lost connection: Timed out
+[02:15:28] [Server thread/INFO]: J3ZuX left the game
+[02:15:32] [Async Chat Thread - #5/INFO]: <Jexus_777> zzz
+[02:15:36] [Async Chat Thread - #5/INFO]: <xNieves> mielda
+[02:15:37] [Async Chat Thread - #5/INFO]: <Jexus_777> me voy a dejar matar ojo
+[02:15:42] [Async Chat Thread - #5/INFO]: <xNieves> llegue a la bedrok
+[02:15:45] [Async Chat Thread - #5/INFO]: <xNieves> sin darme cuenta
+[02:16:36] [User Authenticator #8/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
+[02:16:36] [Server thread/INFO]: J3ZuX joined the game
+[02:16:36] [Server thread/INFO]: J3ZuX[/10.144.204.103:50893] logged in with entity id 16892 at ([world]2207.5454600361013, 74.0, -182.69999998807907)
+[02:16:41] [Async Chat Thread - #5/INFO]: <Jexus_777> zzz
+[02:17:45] [Async Chat Thread - #6/INFO]: <Jexus_777> pesque una caña con imr
+[02:17:50] [Server thread/INFO]: Jexus_777 was slain by Zombie
+[02:18:27] [Server thread/WARN]: Jexus_777 was kicked due to keepalive timeout!
+[02:18:27] [Server thread/INFO]: Jexus_777 lost connection: Timed out
+[02:18:27] [Server thread/INFO]: Jexus_777 left the game
+[02:18:38] [User Authenticator #9/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[02:18:38] [Server thread/INFO]: Jexus_777 joined the game
+[02:18:38] [Server thread/INFO]: Jexus_777[/10.144.149.96:52173] logged in with entity id 18394 at ([world]1756.699999988079, 63.0, 135.9353872997852)
+[02:19:56] [Async Chat Thread - #7/INFO]: <J3ZuX> jona cierra el porno x
+[02:20:13] [Async Chat Thread - #7/INFO]: <J8nAThAn> DILE A MESSI XD
+[02:20:17] [Async Chat Thread - #7/INFO]: <J3ZuX> xd
+[02:20:34] [Async Chat Thread - #7/INFO]: <Jexus_777> MMGVO UN ESQUELETO ENCIMA DE UNA ARAÑA
+[02:20:43] [Async Chat Thread - #7/INFO]: <Jexus_777> Q MRD
+[02:20:46] [Async Chat Thread - #7/INFO]: <Jexus_777> zzzzzzzzzzzzzzzzzzz
+[02:20:56] [Async Chat Thread - #7/INFO]: <Jexus_777> porfa duerman
+[02:21:03] [Async Chat Thread - #7/INFO]: <J3ZuX> zzzzzz
+[02:21:06] [Async Chat Thread - #7/INFO]: <xNieves> duerman los demas
+[02:21:08] [Async Chat Thread - #7/INFO]: <xNieves> pa salirme
+[02:21:13] [Async Chat Thread - #7/INFO]: <Jexus_777> nunca falta el mmgvo
+[02:21:16] [Async Chat Thread - #7/INFO]: <Jexus_777> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[02:21:18] [Async Chat Thread - #7/INFO]: <J3ZuX> zzzzzzzzzzzzz
+[02:21:21] [Async Chat Thread - #7/INFO]: <Jexus_777> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[02:21:34] [Async Chat Thread - #7/INFO]: <Jexus_777> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[02:21:45] [Async Chat Thread - #7/INFO]: <J3ZuX> endy salte que yo saco a jona
+[02:21:48] [Server thread/INFO]: xNieves lost connection: Disconnected
+[02:21:48] [Server thread/INFO]: xNieves left the game
+[02:21:49] [Async Chat Thread - #7/INFO]: <Jexus_777> JONAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[02:21:54] [Async Chat Thread - #7/INFO]: <Jexus_777> ZZZ
+[02:21:54] [Server thread/INFO]: J3ZuX issued server command: /kick J8nAThAn
+[02:21:54] [Server thread/INFO]: J8nAThAn lost connection: Kicked by an operator
+[02:21:54] [Server thread/INFO]: J8nAThAn left the game
+[02:21:54] [Server thread/INFO]: [J3ZuX: Kicked J8nAThAn: Kicked by an operator]
+[02:22:07] [User Authenticator #10/INFO]: UUID of player J8nAThAn is 37dd31f1-fed6-3e4d-a7a4-d78516e69b14
+[02:22:07] [Server thread/INFO]: J8nAThAn joined the game
+[02:22:07] [Server thread/INFO]: J8nAThAn[/10.144.157.103:57868] logged in with entity id 20503 at ([world]1372.4950089538452, 24.0, 1712.9088664035212)
+[02:22:40] [User Authenticator #10/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
+[02:22:41] [Server thread/INFO]: xNieves joined the game
+[02:22:41] [Server thread/INFO]: xNieves[/10.144.22.200:55568] logged in with entity id 21134 at ([world]4090.013209601766, 14.0, -1062.699999988079)
+[02:22:48] [Async Chat Thread - #7/INFO]: <xNieves> ya?
+[02:22:52] [Async Chat Thread - #7/INFO]: <J3ZuX> YES{
+[02:23:01] [Async Chat Thread - #7/INFO]: <J8nAThAn> MARTINEZ ME IMAGINO ENTOCES QUE VOY MAÑANA..??
+[02:23:09] [Async Chat Thread - #7/INFO]: <xNieves> a
+[02:23:10] [Async Chat Thread - #7/INFO]: <xNieves> e
+[02:23:32] [Async Chat Thread - #7/INFO]: <J8nAThAn> MARTINEZ..??
+[02:23:35] [Async Chat Thread - #7/INFO]: <J3ZuX> DIME
+[02:23:42] [Async Chat Thread - #7/INFO]: <J8nAThAn> LEEE MMGV
+[02:23:52] [Async Chat Thread - #7/INFO]: <Jexus_777> no se puede ser tan mmgvo
+[02:23:57] [Async Chat Thread - #7/INFO]: <Jexus_777> malditco reeper
+[02:23:57] [Async Chat Thread - #7/INFO]: <J3ZuX> NO HABLASTE CON uRIS??
+[02:24:09] [Async Chat Thread - #7/INFO]: <J8nAThAn> AYER XD
+[02:24:15] [Async Chat Thread - #7/INFO]: <J3ZuX> YO NOSE NADA DE ESO, TE DIJE QUE NO IBA HOY
+[02:24:24] [Async Chat Thread - #7/INFO]: <J8nAThAn> ME dijo que fuera mañana
+[02:24:30] [Async Chat Thread - #7/INFO]: <J3ZuX> pos anda ps
+[02:24:47] [Server thread/INFO]: Jexus_777 was shot by Skeleton
+[02:24:57] [Async Chat Thread - #7/INFO]: <J8nAThAn> ummm solo te pregunto, como ustedes e meten los besos xd
+[02:25:02] [Async Chat Thread - #7/INFO]: <xNieves> malditoooooooooooooooo lag
+[02:25:10] [Async Chat Thread - #7/INFO]: <J3ZuX> pero deja los celos qye este guebo es tuyo
+[02:25:17] [Async Chat Thread - #7/INFO]: <J8nAThAn> jajaj qtal
+[02:25:21] [Server thread/WARN]: Jexus_777 was kicked due to keepalive timeout!
+[02:25:21] [Server thread/INFO]: Jexus_777 lost connection: Timed out
+[02:25:21] [Server thread/INFO]: Jexus_777 left the game
+[02:25:25] [User Authenticator #11/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[02:25:25] [Server thread/INFO]: Jexus_777 joined the game
+[02:25:25] [Server thread/INFO]: Jexus_777[/10.144.149.96:52178] logged in with entity id 22834 at ([world]1804.9510343544855, 63.0, 109.91859666421229)
+[02:26:10] [Server thread/WARN]: Jexus_777 was kicked due to keepalive timeout!
+[02:26:10] [Server thread/INFO]: Jexus_777 lost connection: Timed out
+[02:26:10] [Server thread/INFO]: Jexus_777 left the game
+[02:26:13] [User Authenticator #11/INFO]: UUID of player Jexus_777 is 61385d32-79f8-3c78-947b-e0d5a091a11e
+[02:26:14] [Server thread/INFO]: Jexus_777 joined the game
+[02:26:14] [Server thread/INFO]: Jexus_777[/10.144.149.96:52180] logged in with entity id 23314 at ([world]1799.475166851963, 63.7531999805212, 103.30000001192093)
+[02:26:24] [Server thread/INFO]: Jexus_777 lost connection: Disconnected
+[02:26:24] [Server thread/INFO]: Jexus_777 left the game
+[02:26:50] [Craft Scheduler Thread - 9/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 7
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[02:28:35] [Async Chat Thread - #8/INFO]: <xNieves> que maldita mierda los sonidos de la mina
+[02:29:56] [Server thread/INFO]: J3ZuX has made the advancement [Tactical Fishing]
