@@ -562,3 +562,27 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [03:02:38] [User Authenticator #19/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
 [03:02:38] [Server thread/INFO]: J3ZuX joined the game
 [03:02:38] [Server thread/INFO]: J3ZuX[/10.144.204.103:51246] logged in with entity id 38520 at ([world]2230.51733110525, 70.23164491174936, -146.30000001192093)
+[03:03:09] [User Authenticator #19/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
+[03:03:09] [Server thread/INFO]: xNieves joined the game
+[03:03:09] [Server thread/INFO]: xNieves[/10.144.22.200:59258] logged in with entity id 38985 at ([world]4109.072171593989, 63.0, -1121.1322583617668)
+[03:03:44] [Async Chat Thread - #17/INFO]: <xNieves> ae
+[03:04:21] [User Authenticator #20/INFO]: UUID of player J8nAThAn is 37dd31f1-fed6-3e4d-a7a4-d78516e69b14
+[03:04:21] [Server thread/INFO]: J8nAThAn lost connection: You logged in from another location
+[03:04:21] [Server thread/INFO]: J8nAThAn left the game
+[03:04:21] [Netty Epoll Server IO #0/WARN]: [ViaVersion] Duplicate UUID on frontend connection! (37dd31f1-fed6-3e4d-a7a4-d78516e69b14)
+[03:04:21] [Server thread/INFO]: J8nAThAn joined the game
+[03:04:21] [Server thread/INFO]: J8nAThAn[/10.144.157.103:63971] logged in with entity id 39685 at ([world]1377.1223359473106, 24.0, 1714.7348894586573)
+[03:04:52] [Server thread/INFO]: J8nAThAn lost connection: Timed out
+[03:04:52] [Server thread/INFO]: J8nAThAn left the game
+[03:06:44] [Server thread/INFO]: [Server] ...
+[03:11:50] [Craft Scheduler Thread - 15/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 7
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
