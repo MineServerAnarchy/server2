@@ -447,3 +447,64 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [02:41:53] [Server thread/INFO]: [Server] ...
 [02:42:03] [Server thread/INFO]: J8nAThAn lost connection: Timed out
 [02:42:03] [Server thread/INFO]: J8nAThAn left the game
+[02:42:58] [Async Chat Thread - #11/INFO]: <xNieves> no bueno malditop
+[02:44:21] [User Authenticator #13/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
+[02:44:21] [Server thread/INFO]: J3ZuX joined the game
+[02:44:21] [Server thread/INFO]: J3ZuX[/10.144.204.103:51136] logged in with entity id 29568 at ([world]2216.069420490592, 52.0, -149.1927209239408)
+[02:46:26] [Async Chat Thread - #12/INFO]: <J3ZuX> QUE PASO CON JONA AL FIN?
+[02:46:34] [User Authenticator #14/INFO]: UUID of player J8nAThAn is 37dd31f1-fed6-3e4d-a7a4-d78516e69b14
+[02:46:34] [Server thread/INFO]: J8nAThAn joined the game
+[02:46:34] [Server thread/INFO]: J8nAThAn[/10.144.157.103:61809] logged in with entity id 30317 at ([world]1374.699999988079, 67.0, 1709.3693608316842)
+[02:46:37] [Async Chat Thread - #12/INFO]: <xNieves> eso
+[02:46:37] [Async Chat Thread - #12/INFO]: <xNieves> xd
+[02:46:46] [Async Chat Thread - #12/INFO]: <J8nAThAn> sisa xd
+[02:47:10] [Server thread/INFO]: J8nAThAn has made the advancement [The Parrots and the Bats]
+[02:47:24] [Async Chat Thread - #12/INFO]: <J3ZuX> ah lst
+[02:47:31] [Async Chat Thread - #12/INFO]: <xNieves> ngbna e marcio
+[02:47:36] [Async Chat Thread - #12/INFO]: <xNieves> hablando por el fb
+[02:47:38] [Async Chat Thread - #12/INFO]: <xNieves> y jona aqui
+[02:47:39] [Server thread/INFO]: J8nAThAn was slain by Zombie
+[02:47:39] [Async Chat Thread - #12/INFO]: <xNieves> xd
+[02:47:44] [Async Chat Thread - #12/INFO]: <J3ZuX> no te dig ps
+[02:48:01] [User Authenticator #15/INFO]: UUID of player J8nAThAn is 37dd31f1-fed6-3e4d-a7a4-d78516e69b14
+[02:48:01] [Server thread/INFO]: J8nAThAn lost connection: You logged in from another location
+[02:48:01] [Server thread/INFO]: J8nAThAn left the game
+[02:48:01] [Server thread/INFO]: J8nAThAn joined the game
+[02:48:01] [Server thread/INFO]: J8nAThAn[/10.144.157.103:61920] logged in with entity id 31172 at ([world]1367.445974684406, 69.0, 1723.965238330708)
+[02:48:06] [Server thread/INFO]: xNieves was blown up by Creeper
+[02:48:10] [Async Chat Thread - #12/INFO]: <J3ZuX> xd
+[02:48:12] [Async Chat Thread - #12/INFO]: <xNieves> MALLLLDITOOOO
+[02:48:19] [Async Chat Thread - #12/INFO]: <J3ZuX> jaja
+[02:48:34] [Async Chat Thread - #12/INFO]: <xNieves> mano me cayo un creeper de la nada
+[02:48:35] [Async Chat Thread - #12/INFO]: <xNieves> xddd
+[02:48:54] [Async Chat Thread - #12/INFO]: <J3ZuX> ZZZZZZZZZZZZZZZ
+[02:49:02] [Async Chat Thread - #12/INFO]: <xNieves> zz
+[02:49:26] [Async Chat Thread - #12/INFO]: <J3ZuX> JONA PERRAAAAAAAA
+[02:49:31] [Async Chat Thread - #12/INFO]: <J8nAThAn> tzzzz
+[02:49:33] [Server thread/INFO]: J8nAThAn lost connection: Disconnected
+[02:49:33] [Server thread/INFO]: J8nAThAn left the game
+[02:49:36] [Server thread/INFO]: J3ZuX lost connection: Disconnected
+[02:49:36] [Server thread/INFO]: J3ZuX left the game
+[02:49:47] [Server thread/INFO]: [Server] YA?
+[02:49:50] [Async Chat Thread - #12/INFO]: <xNieves> SE
+[02:49:57] [User Authenticator #16/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
+[02:49:57] [Server thread/INFO]: J3ZuX joined the game
+[02:49:57] [Server thread/INFO]: J3ZuX[/10.144.204.103:51190] logged in with entity id 33171 at ([world]2294.9396971252763, 64.0, -139.24010871495116)
+[02:50:13] [User Authenticator #16/INFO]: UUID of player J8nAThAn is 37dd31f1-fed6-3e4d-a7a4-d78516e69b14
+[02:50:13] [Server thread/INFO]: J8nAThAn joined the game
+[02:50:13] [Server thread/INFO]: J8nAThAn[/10.144.157.103:62030] logged in with entity id 33473 at ([world]1354.493978411281, 69.0, 1701.3775149002824)
+[02:50:53] [Async Chat Thread - #13/INFO]: <xNieves> NGBN
+[02:50:56] [Async Chat Thread - #13/INFO]: <xNieves> ME VOY A DESCONECTAR
+[02:50:57] [Async Chat Thread - #13/INFO]: <xNieves> ME AVISAN
+[02:51:03] [Async Chat Thread - #13/INFO]: <xNieves> CUANDO ESA VAINA POASE
+[02:51:15] [Async Chat Thread - #13/INFO]: <J3ZuX> DALE
+[02:51:28] [Server thread/INFO]: xNieves lost connection: Disconnected
+[02:51:28] [Server thread/INFO]: xNieves left the game
+[02:52:28] [Server thread/INFO]: J8nAThAn lost connection: Disconnected
+[02:52:28] [Server thread/INFO]: J8nAThAn left the game
+[02:52:35] [User Authenticator #17/INFO]: UUID of player J8nAThAn is 37dd31f1-fed6-3e4d-a7a4-d78516e69b14
+[02:52:35] [Server thread/INFO]: J8nAThAn joined the game
+[02:52:35] [Server thread/INFO]: J8nAThAn[/10.144.157.103:57456] logged in with entity id 34565 at ([world]1375.0639852040304, 69.0, 1709.8569659018478)
+[02:52:41] [User Authenticator #17/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
+[02:52:41] [Server thread/INFO]: xNieves joined the game
+[02:52:41] [Server thread/INFO]: xNieves[/10.144.22.200:58279] logged in with entity id 34651 at ([world]4057.3498907653075, 14.0, -1062.5400297178212)
