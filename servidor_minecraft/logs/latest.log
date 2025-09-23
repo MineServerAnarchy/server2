@@ -746,3 +746,67 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [04:24:20] [Async Chat Thread - #29/INFO]: <J3ZuX> PERO SIGUE UN CAMISO QUE ENDY MINO
 [04:24:36] [Async Chat Thread - #29/INFO]: <J8nAThAn> ahhh ok
 [04:24:41] [Async Chat Thread - #29/INFO]: <xNieves> ngbna
+[04:26:03] [Async Chat Thread - #30/INFO]: <xNieves> conseguiste el camino?
+[04:26:16] [Async Chat Thread - #30/INFO]: <J8nAThAn> naguebona de casa xd
+[04:26:29] [Async Chat Thread - #30/INFO]: <J8nAThAn> regalame hierro hay
+[04:26:50] [Craft Scheduler Thread - 20/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 7
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[04:26:51] [Async Chat Thread - #30/INFO]: <xNieves> te regalo hierro
+[04:26:56] [Async Chat Thread - #30/INFO]: <xNieves> y te vendo las varas
+[04:27:01] [Async Chat Thread - #30/INFO]: <xNieves> dame mis 10 diamantes
+[04:27:02] [Async Chat Thread - #30/INFO]: <J8nAThAn> mrk deje lo diamantes
+[04:27:02] [Server thread/INFO]: J8nAThAn has made the advancement [Into Fire]
+[04:27:06] [Async Chat Thread - #30/INFO]: <xNieves> ngbna
+[04:27:12] [Async Chat Thread - #30/INFO]: <xNieves> eres rolitranco e mmgvo
+[04:27:13] [Async Chat Thread - #30/INFO]: <J8nAThAn> naaa mentira xd
+[04:27:31] [Async Chat Thread - #30/INFO]: <J8nAThAn> ya tienes para el free
+[04:27:31] [Async Chat Thread - #30/INFO]: <xNieves> ahora pire de aqui
+[04:31:39] [Async Chat Thread - #31/INFO]: <J3ZuX> endy
+[04:31:41] [Async Chat Thread - #31/INFO]: <xNieves> que
+[04:32:02] [Async Chat Thread - #31/INFO]: <J3ZuX> XDF
+[04:32:04] [Async Chat Thread - #31/INFO]: <xNieves> que mmgvo
+[04:32:16] [Async Chat Thread - #31/INFO]: <xNieves> aun no ta prendia
+[04:32:17] [Async Chat Thread - #31/INFO]: <J3ZuX> y jona ya se feu¡
+[04:32:19] [Async Chat Thread - #31/INFO]: <xNieves> si
+[04:32:29] [Async Chat Thread - #31/INFO]: <J3ZuX> mmm ya veo
+[04:32:32] [Async Chat Thread - #31/INFO]: <J8nAThAn> estoy en tu casa jesu
+[04:32:34] [Async Chat Thread - #31/INFO]: <xNieves> erga
+[04:32:35] [Async Chat Thread - #31/INFO]: <J3ZuX> ´pero te quedo bien???
+[04:32:36] [Async Chat Thread - #31/INFO]: <xNieves> te va a roba
+[04:32:40] [Async Chat Thread - #31/INFO]: <xNieves> se supone
+[04:32:41] [Async Chat Thread - #31/INFO]: <J3ZuX> que va xd
+[04:32:43] [Async Chat Thread - #31/INFO]: <xNieves> la prendi
+[04:32:46] [Async Chat Thread - #31/INFO]: <xNieves> y funciono
+[04:32:50] [Async Chat Thread - #31/INFO]: <J3ZuX> jona por donde te fuiste que no te vi mgmv
+[04:33:03] [Async Chat Thread - #31/INFO]: <J8nAThAn> entre por tu portal
+[04:33:10] [Async Chat Thread - #31/INFO]: <xNieves> por eso
+[04:33:11] [Async Chat Thread - #31/INFO]: <J3ZuX> bueno te venia para aca
+[04:33:14] [Async Chat Thread - #31/INFO]: <xNieves> por donde te fuiste
+[04:33:15] [Async Chat Thread - #31/INFO]: <xNieves> xddd
+[04:33:35] [Async Chat Thread - #31/INFO]: <J8nAThAn> estoy buscando comida por esotos lares
+[04:33:42] [Async Chat Thread - #31/INFO]: <xNieves> comete un webo
+[04:33:46] [Async Chat Thread - #31/INFO]: <xNieves> xddd
+[04:33:54] [Async Chat Thread - #31/INFO]: <J3ZuX> hay tengo zaharias
+[04:33:57] [Async Chat Thread - #31/INFO]: <J8nAThAn> erga y tu como sabes que eso se come vale
+[04:34:17] [Async Chat Thread - #31/INFO]: <xNieves> me conto messi
+[04:34:24] [Async Chat Thread - #31/INFO]: <J3ZuX> NADA RARI XD
+[04:34:30] [Async Chat Thread - #31/INFO]: <xNieves> que a cada rato quiere ir a comer webo pa donde martine
+[04:34:31] [Async Chat Thread - #31/INFO]: <xNieves> xddd
+[04:34:43] [Async Chat Thread - #31/INFO]: <J8nAThAn> blando de messi econtre su casa
+[04:34:56] [Async Chat Thread - #31/INFO]: <xNieves> ta a 400 bloques de donde jesus
+[04:35:00] [Async Chat Thread - #31/INFO]: <xNieves> es casi su vecino xdd
+[04:35:19] [Async Chat Thread - #31/INFO]: <J3ZuX> AUN TAS EN MI CASA JONA
+[04:35:37] [Async Chat Thread - #31/INFO]: <J8nAThAn> zzz
+[04:35:38] [Server thread/INFO]: J8nAThAn lost connection: Disconnected
+[04:35:38] [Server thread/INFO]: J8nAThAn left the game
+[04:35:43] [Async Chat Thread - #31/INFO]: <J3ZuX> MMGVV JONA ME ROMPIE EL PORTAL
+[04:35:43] [Async Chat Thread - #31/INFO]: <xNieves> erga
