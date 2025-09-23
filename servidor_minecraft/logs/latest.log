@@ -413,3 +413,37 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.lang.Thread.run(Thread.java:829) [?:?]
 [02:28:35] [Async Chat Thread - #8/INFO]: <xNieves> que maldita mierda los sonidos de la mina
 [02:29:56] [Server thread/INFO]: J3ZuX has made the advancement [Tactical Fishing]
+[02:35:16] [Async Chat Thread - #9/INFO]: <J8nAThAn> zzzzzzz
+[02:35:23] [Async Chat Thread - #9/INFO]: <J3ZuX> z
+[02:35:23] [Async Chat Thread - #9/INFO]: <J3ZuX> z
+[02:35:24] [Async Chat Thread - #9/INFO]: <J3ZuX> z
+[02:35:24] [Async Chat Thread - #9/INFO]: <J3ZuX> z
+[02:35:24] [Async Chat Thread - #9/INFO]: <J3ZuX> z
+[02:35:28] [Async Chat Thread - #9/INFO]: <xNieves> no deberiamos dormir porque siempre eres el mmgvo que no duerme
+[02:35:30] [Server thread/INFO]: xNieves lost connection: Disconnected
+[02:35:30] [Server thread/INFO]: xNieves left the game
+[02:35:34] [Async Chat Thread - #9/INFO]: <J3ZuX> xd
+[02:35:46] [Async Chat Thread - #9/INFO]: <J8nAThAn> jajaj si hablan paja chamo
+[02:35:53] [User Authenticator #12/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
+[02:35:53] [Server thread/INFO]: xNieves joined the game
+[02:35:53] [Server thread/INFO]: xNieves[/10.144.22.200:56791] logged in with entity id 27190 at ([world]3934.8327134510655, 14.0, -1068.699999988079)
+[02:36:04] [Async Chat Thread - #9/INFO]: <J3ZuX> mentira no es mmgv _V
+[02:38:11] [Async Chat Thread - #10/INFO]: <xNieves> er guebo pue
+[02:38:14] [Async Chat Thread - #10/INFO]: <xNieves> maldti lag
+[02:38:22] [Async Chat Thread - #10/INFO]: <J3ZuX> yo ando bien
+[02:39:59] [Server thread/INFO]: J3ZuX lost connection: Disconnected
+[02:39:59] [Server thread/INFO]: J3ZuX left the game
+[02:41:50] [Craft Scheduler Thread - 10/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 7
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[02:41:53] [Server thread/INFO]: [Server] ...
+[02:42:03] [Server thread/INFO]: J8nAThAn lost connection: Timed out
+[02:42:03] [Server thread/INFO]: J8nAThAn left the game
