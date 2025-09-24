@@ -321,3 +321,29 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [03:29:14] [Async Chat Thread - #12/INFO]: <J3ZuX> AHORA COMPLETA LOS DEL MUNDO NORMAL v:W
 [03:29:29] [Async Chat Thread - #12/INFO]: <xNieves> sape
 [03:29:32] [Async Chat Thread - #12/INFO]: <J3ZuX> XD
+[03:40:42] [Server thread/INFO]: [Server] ..
+[03:40:47] [Async Chat Thread - #13/INFO]: <J3ZuX> zzzzzzzzzzz
+[03:40:53] [Async Chat Thread - #13/INFO]: <xNieves> toy en el nether
+[03:41:00] [Async Chat Thread - #13/INFO]: <J3ZuX> OK
+[03:43:01] [Craft Scheduler Thread - 9/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[03:47:28] [Async Chat Thread - #14/INFO]: <xNieves> saquear bastiones es mejor que las fortalezas
+[03:47:39] [Async Chat Thread - #14/INFO]: <J3ZuX> SISA
+[03:47:42] [Async Chat Thread - #14/INFO]: <xNieves> me acabo de sacar un pico de diamantes efi 5 y ni siquiera es el cofre del centro
+[03:47:56] [Async Chat Thread - #14/INFO]: <J3ZuX> SISA HASTA NETHERITE PUEDES ENCONTRAR
+[03:49:41] [Server thread/WARN]: xNieves was kicked due to keepalive timeout!
+[03:49:41] [Server thread/INFO]: xNieves lost connection: Timed out
+[03:49:41] [Server thread/INFO]: xNieves left the game
+[03:49:47] [User Authenticator #4/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
+[03:49:47] [Server thread/INFO]: xNieves joined the game
+[03:49:47] [Server thread/INFO]: xNieves[/10.144.22.200:58097] logged in with entity id 21934 at ([world_nether]253.382892046322, 43.0, -671.4274117542177)
+[03:50:07] [Async Chat Thread - #15/INFO]: <xNieves> ae
