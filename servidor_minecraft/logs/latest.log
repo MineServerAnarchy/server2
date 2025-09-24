@@ -428,3 +428,20 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [04:41:12] [Async Chat Thread - #21/INFO]: <J3ZuX> ZZZZZZZZZZ
 [04:41:13] [Server thread/INFO]: xNieves lost connection: Disconnected
 [04:41:13] [Server thread/INFO]: xNieves left the game
+[04:41:30] [User Authenticator #7/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
+[04:41:30] [Server thread/INFO]: xNieves joined the game
+[04:41:30] [Server thread/INFO]: xNieves[/10.144.22.200:62519] logged in with entity id 35269 at ([world]4108.2684551203565, 56.0, -1162.6900934709836)
+[04:43:01] [Craft Scheduler Thread - 13/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[04:43:53] [Server thread/INFO]: Villager EntityVillager['Fletcher'/35281, uuid='95aa2ccf-f6f6-4a8c-8d50-bdfc7cd4eaf2', l='ServerLevel[world]', x=4108.70, y=55.04, z=-1163.70, cx=256, cz=-73, tl=617812, v=true, d=false] died, message: 'Fletcher drowned'
+[04:47:04] [Server thread/INFO]: Villager EntityVillager['Fletcher'/35275, uuid='623a63cd-5073-498d-a92a-4b4ccbf4319d', l='ServerLevel[world]', x=4096.50, y=39.00, z=-1164.51, cx=256, cz=-73, tl=902420, v=true, d=false] died, message: 'Fletcher drowned'
+[04:47:21] [Server thread/INFO]: Villager EntityVillager['Fletcher'/35285, uuid='81eea503-4376-4dcb-9504-cbf6944c2a74', l='ServerLevel[world]', x=4108.51, y=32.00, z=-1159.12, cx=256, cz=-73, tl=750583, v=true, d=false] died, message: 'Fletcher drowned'
