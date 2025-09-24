@@ -505,3 +505,20 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [05:11:17] [Async Chat Thread - #25/INFO]: <J3ZuX> ZZZZZZZZ
 [05:11:21] [Async Chat Thread - #25/INFO]: <xNieves> z
 [05:11:29] [Async Chat Thread - #25/INFO]: <J3ZuX> ZZZZZZZZZ
+[05:13:01] [Craft Scheduler Thread - 15/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[05:20:26] [Server thread/INFO]: J3ZuX tried to swim in lava
+[05:20:29] [Async Chat Thread - #26/INFO]: <xNieves> efe
+[05:20:30] [Async Chat Thread - #26/INFO]: <J3ZuX> Xd
+[05:20:35] [Async Chat Thread - #26/INFO]: <xNieves> en el nether?
+[05:20:39] [Async Chat Thread - #26/INFO]: <J3ZuX> sisa
+[05:20:45] [Async Chat Thread - #26/INFO]: <xNieves> recontra efe
