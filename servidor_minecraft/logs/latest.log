@@ -113,3 +113,49 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [02:37:39] [Async Chat Thread - #2/INFO]: <xNieves> con tu ping
 [02:37:40] [Async Chat Thread - #2/INFO]: <xNieves> xsddd
 [02:37:48] [Async Chat Thread - #2/INFO]: <J8nAThAn> JAJAJAJ
+[02:38:03] [Async Chat Thread - #2/INFO]: <xNieves> donde quedo tu cable jasajsas
+[02:38:04] [User Authenticator #2/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
+[02:38:04] [Server thread/INFO]: J3ZuX joined the game
+[02:38:04] [Server thread/INFO]: J3ZuX[/10.144.204.103:49398] logged in with entity id 2867 at ([world]2215.175392303161, 52.0, -146.7477478349325)
+[02:38:32] [Async Chat Thread - #2/INFO]: <J8nAThAn> YO SOLO DECIA MANO XD
+[02:38:39] [Async Chat Thread - #2/INFO]: <xNieves> xddddddddd
+[02:39:58] [Server thread/INFO]: J8nAThAn was slain by Piglin
+[02:40:02] [Async Chat Thread - #3/INFO]: <xNieves> erga
+[02:40:03] [Async Chat Thread - #3/INFO]: <xNieves> efe
+[02:40:04] [Async Chat Thread - #3/INFO]: <J3ZuX> xd
+[02:40:18] [Async Chat Thread - #3/INFO]: <J3ZuX> ya comenzo xd
+[02:40:33] [Async Chat Thread - #3/INFO]: <J8nAThAn> ESOS MALDITOS NO TE PUEDEN VER PICANDO ORO
+[02:40:41] [Async Chat Thread - #3/INFO]: <J3ZuX> no
+[02:40:51] [Async Chat Thread - #3/INFO]: <xNieves> ni abriendo un cofre
+[02:40:56] [Async Chat Thread - #3/INFO]: <xNieves> porque se exitan
+[02:40:59] [Async Chat Thread - #3/INFO]: <J3ZuX> ni mamando geubo
+[02:41:06] [Async Chat Thread - #3/INFO]: <xNieves> erga esa no se
+[02:41:12] [Async Chat Thread - #3/INFO]: <xNieves> tu hablaras por la experiencia
+[02:41:13] [Async Chat Thread - #3/INFO]: <xNieves> xddd
+[02:41:19] [Async Chat Thread - #3/INFO]: <J3ZuX> xd+{w{
+[02:43:01] [Craft Scheduler Thread - 5/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[02:45:19] [Async Chat Thread - #4/INFO]: <J8nAThAn> ENDY EN QUE RANGO ESTAS EN BLOOD
+[02:45:36] [Async Chat Thread - #4/INFO]: <xNieves> oro 3
+[02:45:53] [Async Chat Thread - #4/INFO]: <J8nAThAn> UMMM OK
+[02:46:27] [Async Chat Thread - #4/INFO]: <J8nAThAn> JESUS DISQUE ESTA EN MARICO 3 XD
+[02:46:38] [Async Chat Thread - #4/INFO]: <xNieves> erga ese rango es unico pa el
+[02:46:38] [Async Chat Thread - #4/INFO]: <xNieves> xdddd
+[02:46:49] [Async Chat Thread - #4/INFO]: <J8nAThAn> JAJAJA SISA
+[02:47:01] [Async Chat Thread - #4/INFO]: <J3ZuX> SE ABRA DESCARGADO MESSI EL BLOOD Y NO ME ENTERE
+[02:47:28] [Async Chat Thread - #4/INFO]: <J8nAThAn> NO TE HASGAS EL LOKO TU SABES QUE LA PUTA ES PA TI
+[02:47:38] [Async Chat Thread - #4/INFO]: <xNieves> erga}
+[02:47:40] [Async Chat Thread - #4/INFO]: <xNieves> LA PUTA
+[02:47:42] [Async Chat Thread - #4/INFO]: <xNieves> XDDDDDDDDDDD
+[02:47:47] [Async Chat Thread - #4/INFO]: <J3ZuX> LALAL SI TU ERES LA PUTA POS VENGASE XD
+[02:47:56] [Async Chat Thread - #4/INFO]: <J8nAThAn> JAJAJA QTAL
+[02:48:04] [Async Chat Thread - #4/INFO]: <J3ZuX> QUE GUEVO HAY HASTA PA ENDY XD
