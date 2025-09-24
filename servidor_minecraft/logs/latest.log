@@ -423,3 +423,8 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
+[04:38:05] [Server thread/INFO]: Villager EntityVillager['Fletcher'/31283, uuid='c526eb69-c98c-4460-8d30-c46e8f1de32e', l='ServerLevel[world]', x=4107.47, y=55.00, z=-1150.49, cx=256, cz=-72, tl=554250, v=true, d=false] died, message: 'Fletcher drowned'
+[04:41:11] [Async Chat Thread - #21/INFO]: <J3ZuX> ZZZZZZZZZZZZ
+[04:41:12] [Async Chat Thread - #21/INFO]: <J3ZuX> ZZZZZZZZZZ
+[04:41:13] [Server thread/INFO]: xNieves lost connection: Disconnected
+[04:41:13] [Server thread/INFO]: xNieves left the game
