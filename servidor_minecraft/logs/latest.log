@@ -406,3 +406,20 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [04:14:25] [User Authenticator #5/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
 [04:14:25] [Server thread/INFO]: xNieves joined the game
 [04:14:25] [Server thread/INFO]: xNieves[/10.144.22.200:60181] logged in with entity id 27554 at ([world]4105.801376177516, 56.0, -1152.0793889224435)
+[04:26:53] [Async Chat Thread - #20/INFO]: <J3ZuX> zzzzzzz
+[04:27:00] [Server thread/INFO]: xNieves lost connection: Disconnected
+[04:27:00] [Server thread/INFO]: xNieves left the game
+[04:27:20] [User Authenticator #6/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
+[04:27:20] [Server thread/INFO]: xNieves joined the game
+[04:27:20] [Server thread/INFO]: xNieves[/10.144.22.200:61312] logged in with entity id 31061 at ([world]4107.375166928416, 63.0, -1023.7130516873626)
+[04:28:01] [Craft Scheduler Thread - 12/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
