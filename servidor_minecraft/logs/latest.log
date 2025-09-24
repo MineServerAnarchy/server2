@@ -347,3 +347,36 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [03:49:47] [Server thread/INFO]: xNieves joined the game
 [03:49:47] [Server thread/INFO]: xNieves[/10.144.22.200:58097] logged in with entity id 21934 at ([world_nether]253.382892046322, 43.0, -671.4274117542177)
 [03:50:07] [Async Chat Thread - #15/INFO]: <xNieves> ae
+[03:56:22] [Server thread/INFO]: [Server] ............
+[03:58:01] [Craft Scheduler Thread - 10/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[03:58:08] [Async Chat Thread - #16/INFO]: <xNieves> sali del bastion vivo
+[03:58:21] [Async Chat Thread - #16/INFO]: <J3ZuX> pero no siendo hombre xd
+[03:58:44] [Async Chat Thread - #16/INFO]: <xNieves> sali con 16 bloques de oro, 1 pechera de diamante, 1 casco de diamante, un pico diamante efi 5 y uno de netherite
+[03:58:56] [Async Chat Thread - #16/INFO]: <J3ZuX> TA BIEN LO DE LA NETJERITE
+[03:58:57] [Server thread/INFO]: xNieves was burnt to a crisp whilst fighting Hoglin
+[03:59:02] [Async Chat Thread - #16/INFO]: <xNieves> M;añdot
+[03:59:03] [Async Chat Thread - #16/INFO]: <xNieves> klasdasd
+[03:59:12] [Async Chat Thread - #16/INFO]: <J3ZuX> CULO
+[03:59:14] [Async Chat Thread - #16/INFO]: <xNieves> olvidate de todo lo que dije
+[03:59:17] [Async Chat Thread - #16/INFO]: <xNieves> no quedo nada
+[03:59:25] [Async Chat Thread - #16/INFO]: <J3ZuX> PORQEU XD
+[03:59:34] [Async Chat Thread - #16/INFO]: <xNieves> chamo maldita sea
+[03:59:38] [Async Chat Thread - #16/INFO]: <J3ZuX> XD QUE PASO
+[03:59:40] [Async Chat Thread - #16/INFO]: <xNieves> un cochino de esos de los que son grandes
+[03:59:46] [Async Chat Thread - #16/INFO]: <J3ZuX> AJA
+[03:59:46] [Async Chat Thread - #16/INFO]: <xNieves> esos bichos te levantan
+[03:59:53] [Async Chat Thread - #16/INFO]: <xNieves> bueno un mmgvo eso me lanzo a la lava
+[03:59:53] [Async Chat Thread - #16/INFO]: <J3ZuX> AJJA ME ENTERO
+[04:00:05] [Async Chat Thread - #16/INFO]: <J3ZuX> PERO NO ME SALE QUE MORISTE
+[04:00:10] [Async Chat Thread - #16/INFO]: <xNieves> a mi si
+[04:00:22] [Async Chat Thread - #16/INFO]: <J3ZuX> AAAAAAAH YA VI AJAJAJAJAA
