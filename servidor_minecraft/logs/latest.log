@@ -522,3 +522,30 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [05:20:35] [Async Chat Thread - #26/INFO]: <xNieves> en el nether?
 [05:20:39] [Async Chat Thread - #26/INFO]: <J3ZuX> sisa
 [05:20:45] [Async Chat Thread - #26/INFO]: <xNieves> recontra efe
+[05:23:42] [Async Chat Thread - #27/INFO]: <J3ZuX> zzzzzzzz
+[05:23:49] [Async Chat Thread - #27/INFO]: <xNieves> voy
+[05:24:11] [Async Chat Thread - #27/INFO]: <xNieves> zz
+[05:24:13] [Async Chat Thread - #27/INFO]: <J3ZuX> zzz
+[05:27:07] [Async Chat Thread - #28/INFO]: <xNieves> bueno bro me retiro
+[05:27:11] [Async Chat Thread - #28/INFO]: <J3ZuX> X2
+[05:27:23] [Async Chat Thread - #28/INFO]: <xNieves> tons a domi
+[05:27:28] [Async Chat Thread - #28/INFO]: <J3ZuX> SISA WEON
+[05:27:38] [Async Chat Thread - #28/INFO]: <J3ZuX> ME PASE DE LA HORA MAS BIEN
+[05:27:43] [Async Chat Thread - #28/INFO]: <xNieves> ajajaj
+[05:27:48] [Async Chat Thread - #28/INFO]: <xNieves> bueno bro
+[05:27:53] [Async Chat Thread - #28/INFO]: <J3ZuX> DALE BRO
+[05:27:55] [Async Chat Thread - #28/INFO]: <xNieves> chaoo
+[05:27:57] [Async Chat Thread - #28/INFO]: <J3ZuX> ADIOS
+[05:28:00] [Server thread/INFO]: xNieves lost connection: Disconnected
+[05:28:00] [Server thread/INFO]: xNieves left the game
+[05:28:01] [Craft Scheduler Thread - 16/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
