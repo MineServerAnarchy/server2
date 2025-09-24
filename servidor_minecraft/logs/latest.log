@@ -445,3 +445,33 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [04:43:53] [Server thread/INFO]: Villager EntityVillager['Fletcher'/35281, uuid='95aa2ccf-f6f6-4a8c-8d50-bdfc7cd4eaf2', l='ServerLevel[world]', x=4108.70, y=55.04, z=-1163.70, cx=256, cz=-73, tl=617812, v=true, d=false] died, message: 'Fletcher drowned'
 [04:47:04] [Server thread/INFO]: Villager EntityVillager['Fletcher'/35275, uuid='623a63cd-5073-498d-a92a-4b4ccbf4319d', l='ServerLevel[world]', x=4096.50, y=39.00, z=-1164.51, cx=256, cz=-73, tl=902420, v=true, d=false] died, message: 'Fletcher drowned'
 [04:47:21] [Server thread/INFO]: Villager EntityVillager['Fletcher'/35285, uuid='81eea503-4376-4dcb-9504-cbf6944c2a74', l='ServerLevel[world]', x=4108.51, y=32.00, z=-1159.12, cx=256, cz=-73, tl=750583, v=true, d=false] died, message: 'Fletcher drowned'
+[04:52:02] [Server thread/INFO]: Villager EntityVillager['Fletcher'/35302, uuid='9b6494d4-9719-4dac-9f68-ca0bfbc86521', l='ServerLevel[world]', x=4090.49, y=40.00, z=-1160.50, cx=255, cz=-73, tl=774207, v=true, d=false] died, message: 'Fletcher drowned'
+[04:52:23] [Server thread/INFO]: Villager EntityVillager['Farmer'/35314, uuid='345da01c-d72d-4cf3-a468-bb5be859c7e0', l='ServerLevel[world]', x=4092.50, y=42.00, z=-1149.49, cx=255, cz=-72, tl=827076, v=true, d=false] died, message: 'Farmer drowned'
+[04:55:28] [Async Chat Thread - #22/INFO]: <J3ZuX> ZZZZZZZZ
+[04:55:34] [Server thread/INFO]: xNieves lost connection: Disconnected
+[04:55:34] [Server thread/INFO]: xNieves left the game
+[04:55:49] [User Authenticator #8/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
+[04:55:49] [Server thread/INFO]: xNieves joined the game
+[04:55:49] [Server thread/INFO]: xNieves[/10.144.22.200:63700] logged in with entity id 38486 at ([world]4093.0578583667852, 56.0, -1162.4770345533298)
+[04:55:57] [Async Chat Thread - #22/INFO]: <J3ZuX> ZZZZZZ
+[04:56:00] [Async Chat Thread - #22/INFO]: <xNieves> njda
+[04:56:01] [Async Chat Thread - #22/INFO]: <J3ZuX> HABIAN ZOMBIE X
+[04:56:01] [Server thread/INFO]: xNieves lost connection: Disconnected
+[04:56:01] [Server thread/INFO]: xNieves left the game
+[04:56:20] [User Authenticator #8/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
+[04:56:20] [Server thread/INFO]: xNieves joined the game
+[04:56:20] [Server thread/INFO]: xNieves[/10.144.22.200:63820] logged in with entity id 38773 at ([world]4093.0642348994807, 56.0, -1162.2504662329745)
+[04:56:24] [Async Chat Thread - #22/INFO]: <J3ZuX> habien zombie xd
+[04:56:30] [Async Chat Thread - #22/INFO]: <xNieves> xd
+[04:58:01] [Craft Scheduler Thread - 14/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[04:58:30] [Server thread/INFO]: [Server] ..
