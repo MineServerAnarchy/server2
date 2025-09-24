@@ -245,3 +245,30 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [03:08:00] [Async Chat Thread - #8/INFO]: <xNieves> z
 [03:08:06] [Async Chat Thread - #8/INFO]: <J3ZuX> zzzzz
 [03:08:07] [Async Chat Thread - #8/INFO]: <J3ZuX> zzzzzzzz
+[03:11:21] [Async Chat Thread - #9/INFO]: <xNieves> un aldeano me saco un libro de poder 5
+[03:11:35] [Async Chat Thread - #9/INFO]: <J3ZuX> precio?
+[03:11:36] [Async Chat Thread - #9/INFO]: <xNieves> un arco con poder ta roto
+[03:11:45] [Async Chat Thread - #9/INFO]: <xNieves> 48 ese mmgvo
+[03:11:49] [Async Chat Thread - #9/INFO]: <J3ZuX> jajaja
+[03:11:54] [Async Chat Thread - #9/INFO]: <J3ZuX> barato mas bien
+[03:12:09] [Async Chat Thread - #9/INFO]: <J3ZuX> sabes dond eesta el bioma azul en el nether?
+[03:12:23] [Async Chat Thread - #9/INFO]: <xNieves> tengo varias localidades
+[03:12:28] [Async Chat Thread - #9/INFO]: <J3ZuX> pasame 1
+[03:12:35] [Async Chat Thread - #9/INFO]: <xNieves> dejame ir al nether a buscar las coords
+[03:12:36] [Async Chat Thread - #9/INFO]: <xNieves> xd
+[03:12:43] [Async Chat Thread - #9/INFO]: <J3ZuX> ale
+[03:13:01] [Craft Scheduler Thread - 7/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[03:15:56] [Async Chat Thread - #10/INFO]: <xNieves> ya va me laguie terrible
+[03:16:03] [Async Chat Thread - #10/INFO]: <J3ZuX> XD
+[03:16:23] [Server thread/INFO]: [Server] ..................
+[03:19:07] [Async Chat Thread - #11/INFO]: <xNieves> cerca de mi portal hay un bioma de esos
