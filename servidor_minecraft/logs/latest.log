@@ -94,3 +94,33 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [01:40:15] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.3.2
 [01:40:16] [Server thread/INFO]: The latest version of BlockLocker (version 1.13.0) no longer supports this Minecraft version, only Minecraft 1.20.2, 1.20.4, 1.20.6, 1.21, 1.21.1, 1.21.2, 1.21.3, 1.21.4, 1.21.5, 1.21.6.
 [01:40:16] [Server thread/INFO]: More information: https://www.spigotmc.org/resources/blocklocker.3268/update?update=571821
+[01:51:23] [User Authenticator #1/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
+[01:51:24] [Server thread/INFO]: J3ZuX joined the game
+[01:51:24] [Server thread/INFO]: J3ZuX[/10.144.204.103:49580] logged in with entity id 107 at ([world]2222.758516930113, 74.0, -175.90412143590953)
+[01:52:09] [Server thread/WARN]: J3ZuX was kicked due to keepalive timeout!
+[01:52:09] [Server thread/INFO]: J3ZuX lost connection: Timed out
+[01:52:09] [Server thread/INFO]: J3ZuX left the game
+[01:52:36] [User Authenticator #2/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
+[01:52:36] [Server thread/INFO]: J3ZuX joined the game
+[01:52:36] [Server thread/INFO]: J3ZuX[/10.144.204.103:49599] logged in with entity id 476 at ([world]2224.5, 72.0, -169.5)
+[01:53:32] [Server thread/INFO]: J3ZuX lost connection: Disconnected
+[01:53:32] [Server thread/INFO]: J3ZuX left the game
+[01:53:33] [User Authenticator #2/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
+[01:53:33] [Server thread/INFO]: xNieves joined the game
+[01:53:33] [Server thread/INFO]: xNieves[/10.144.22.200:62259] logged in with entity id 872 at ([world]4144.562116422115, 35.0, -1112.611087237116)
+[01:55:15] [Craft Scheduler Thread - 6/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 225
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[01:57:19] [Server thread/INFO]: xNieves lost connection: Timed out
+[01:57:19] [Server thread/INFO]: xNieves left the game
+[01:58:04] [User Authenticator #3/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
+[01:58:04] [Server thread/INFO]: xNieves joined the game
+[01:58:04] [Server thread/INFO]: xNieves[/10.144.22.200:62664] logged in with entity id 1575 at ([world]4140.469481566445, 63.0, -1100.753443312989)
