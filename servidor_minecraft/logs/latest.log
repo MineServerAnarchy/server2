@@ -1,87 +1,80 @@
-[02:27:52] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:27:53] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[02:27:53] [Worker-Main-1/INFO]: Loaded 7 recipes
-[02:27:54] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[02:27:54] [Server thread/INFO]: Loading properties
-[02:27:54] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[02:27:54] [Server thread/INFO]: Debug logging is disabled
-[02:27:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:27:54] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:27:54] [Server thread/INFO]: Default game type: SURVIVAL
-[02:27:54] [Server thread/INFO]: Generating keypair
-[02:27:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:27:54] [Server thread/INFO]: Using epoll channel type
-[02:27:55] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[02:27:58] [Server thread/WARN]: Legacy plugin PingTab v1.3.5 does not specify an api-version.
-[02:27:58] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
-[02:27:58] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.3.2
-[02:27:58] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
-[02:27:58] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[02:27:59] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[02:27:59] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[02:27:59] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[02:27:59] [Server thread/INFO]: [ViaRewind] Registering protocols...
-[02:27:59] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.3.2
-[02:27:59] [Server thread/INFO]: [BlockLocker] Loading BlockLocker v1.11
-[02:27:59] [Server thread/INFO]: [PingTab] Loading PingTab v1.3.5
-[02:27:59] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v4.0.7
-[02:27:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:27:59] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.11
-[02:27:59] [Server thread/WARN]: [BlockLocker] Cannot recognize material mangrove_door, ignoring it
-[02:27:59] [Server thread/WARN]: [BlockLocker] Cannot recognize material mangrove_fence_gate, ignoring it
-[02:27:59] [Server thread/WARN]: [BlockLocker] Cannot recognize material mangrove_trapdoor, ignoring it
-[02:27:59] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.7
-[02:27:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:27:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:27:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:27:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:27:59] [Server thread/INFO]: Preparing level "world"
-[02:27:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:28:00] [Server thread/INFO]: Preparing spawn area: 0%
-[02:28:00] [Server thread/INFO]: Preparing spawn area: 0%
-[02:28:00] [Server thread/INFO]: Time elapsed: 571 ms
-[02:28:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:28:00] [Server thread/INFO]: Time elapsed: 93 ms
-[02:28:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:28:00] [Server thread/INFO]: Time elapsed: 79 ms
-[02:28:00] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
-[02:28:00] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
-[02:28:00] [Server thread/INFO]: [ClearLag] Loading modules...
-[02:28:00] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
-[02:28:00] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[02:28:00] [Thread-8/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.16]...
-[02:28:00] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[02:28:00] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
-[02:28:00] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.16.4-1.16.5 (754)
-[02:28:00] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please update it to at least Java 21 (your version is 11.0.28).
-[02:28:00] [Server thread/WARN]: [ViaVersion] ViaVersion no longer officially supports this version of Java, only offering unsupported compatibility builds.
-[02:28:00] [Server thread/WARN]: [ViaVersion] See https://github.com/ViaVersion/ViaVersion/releases/tag/5.0.0 for more information.
-[02:28:01] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
-[02:28:01] [Server thread/INFO]: [PingTab] Enabling PingTab v1.3.5*
-[02:28:01] [Server thread/INFO]: [PingTab] Plugin metrics enabled!
-[02:28:01] [Server thread/INFO]: [PingTab] Checking for new versions...
-[02:28:01] [Thread-8/INFO]: [ClearLag] No updates found!
-[02:28:01] [Server thread/INFO]: [PingTab] Plugin is up to date.
-[02:28:01] [Server thread/INFO]: Running delayed init tasks
-[02:28:01] [Server thread/INFO]: Done (7.198s)! For help, type "help"
-[02:28:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[02:28:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
-[02:28:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
-[02:28:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
-[02:28:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[02:28:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
-[02:28:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
-[02:28:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
-[02:28:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
-[02:28:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[02:28:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.28
-[02:28:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[02:28:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
-[02:28:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
-[02:28:01] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[02:28:01] [Craft Scheduler Thread - 2/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[02:28:01] [Server thread/INFO]: Timings Reset
-[02:28:01] [Craft Scheduler Thread - 1/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
+[01:40:06] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:40:07] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[01:40:07] [Worker-Main-1/INFO]: Loaded 7 recipes
+[01:40:08] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[01:40:08] [Server thread/INFO]: Loading properties
+[01:40:08] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[01:40:08] [Server thread/INFO]: Debug logging is disabled
+[01:40:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:40:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:40:08] [Server thread/INFO]: Default game type: SURVIVAL
+[01:40:08] [Server thread/INFO]: Generating keypair
+[01:40:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:40:08] [Server thread/INFO]: Using epoll channel type
+[01:40:09] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[01:40:12] [Server thread/WARN]: Legacy plugin PingTab v1.3.5 does not specify an api-version.
+[01:40:12] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[01:40:12] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.3.2
+[01:40:12] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
+[01:40:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[01:40:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[01:40:13] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[01:40:13] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[01:40:13] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[01:40:13] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.3.2
+[01:40:13] [Server thread/INFO]: [BlockLocker] Loading BlockLocker v1.11
+[01:40:13] [Server thread/INFO]: [PingTab] Loading PingTab v1.3.5
+[01:40:13] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v4.0.7
+[01:40:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:40:13] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.11
+[01:40:13] [Server thread/WARN]: [BlockLocker] Cannot recognize material mangrove_door, ignoring it
+[01:40:13] [Server thread/WARN]: [BlockLocker] Cannot recognize material mangrove_fence_gate, ignoring it
+[01:40:13] [Server thread/WARN]: [BlockLocker] Cannot recognize material mangrove_trapdoor, ignoring it
+[01:40:13] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.7
+[01:40:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:40:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:40:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:40:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:40:13] [Server thread/INFO]: Preparing level "world"
+[01:40:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:40:14] [Server thread/INFO]: Preparing spawn area: 0%
+[01:40:14] [Server thread/INFO]: Time elapsed: 376 ms
+[01:40:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:40:14] [Server thread/INFO]: Time elapsed: 118 ms
+[01:40:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:40:14] [Server thread/INFO]: Time elapsed: 70 ms
+[01:40:14] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[01:40:14] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[01:40:14] [Server thread/INFO]: [ClearLag] Loading modules...
+[01:40:14] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[01:40:14] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[01:40:14] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[01:40:14] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
+[01:40:14] [Thread-8/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.16]...
+[01:40:14] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.16.4-1.16.5 (754)
+[01:40:14] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please update it to at least Java 21 (your version is 11.0.28).
+[01:40:14] [Server thread/WARN]: [ViaVersion] ViaVersion no longer officially supports this version of Java, only offering unsupported compatibility builds.
+[01:40:14] [Server thread/WARN]: [ViaVersion] See https://github.com/ViaVersion/ViaVersion/releases/tag/5.0.0 for more information.
+[01:40:14] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
+[01:40:14] [Server thread/INFO]: [PingTab] Enabling PingTab v1.3.5*
+[01:40:14] [Server thread/INFO]: [PingTab] Plugin metrics enabled!
+[01:40:14] [Server thread/INFO]: [PingTab] Checking for new versions...
+[01:40:15] [Thread-8/INFO]: [ClearLag] No updates found!
+[01:40:15] [Server thread/INFO]: [PingTab] Plugin is up to date.
+[01:40:15] [Server thread/INFO]: Running delayed init tasks
+[01:40:15] [Server thread/INFO]: Done (7.137s)! For help, type "help"
+[01:40:15] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[01:40:15] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[01:40:15] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[01:40:15] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[01:40:15] [Craft Scheduler Thread - 2/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[01:40:15] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[01:40:15] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[01:40:15] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[01:40:15] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[01:40:15] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[01:40:15] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[01:40:15] [Craft Scheduler Thread - 1/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 225
 java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -92,486 +85,12 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
-[02:28:01] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.3.2
-[02:28:02] [Server thread/INFO]: The latest version of BlockLocker (version 1.13.0) no longer supports this Minecraft version, only Minecraft 1.20.2, 1.20.4, 1.20.6, 1.21, 1.21.1, 1.21.2, 1.21.3, 1.21.4, 1.21.5, 1.21.6.
-[02:28:02] [Server thread/INFO]: More information: https://www.spigotmc.org/resources/blocklocker.3268/update?update=571821
-[02:30:37] [User Authenticator #1/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
-[02:30:38] [Server thread/INFO]: xNieves joined the game
-[02:30:38] [Server thread/INFO]: xNieves[/10.144.22.200:51145] logged in with entity id 114 at ([world]4145.680001502838, 35.0, -1111.9774840633913)
-[02:31:17] [User Authenticator #1/INFO]: UUID of player J8nAThAn is 37dd31f1-fed6-3e4d-a7a4-d78516e69b14
-[02:31:17] [Server thread/INFO]: J8nAThAn joined the game
-[02:31:17] [Server thread/INFO]: J8nAThAn[/10.144.157.103:52826] logged in with entity id 484 at ([world]1375.4158161360574, 24.1875, 1714.171192170216)
-[02:31:38] [Async Chat Thread - #0/INFO]: <J8nAThAn> LINDO TU PING XD
-[02:31:45] [Async Chat Thread - #0/INFO]: <xNieves> ES HERMOSO
-[02:31:47] [Async Chat Thread - #0/INFO]: <xNieves> xdddd
-[02:31:54] [Async Chat Thread - #0/INFO]: <J8nAThAn> XD
-[02:33:08] [Async Chat Thread - #1/INFO]: <xNieves> ping de mier
-[02:33:34] [Async Chat Thread - #1/INFO]: <J8nAThAn> VIVA EL INTERNET POR CABLE NOJODA
-[02:33:53] [Async Chat Thread - #1/INFO]: <xNieves> mmgvo
-[02:34:00] [Async Chat Thread - #1/INFO]: <J8nAThAn> JAJAJA
-[02:37:36] [Async Chat Thread - #2/INFO]: <xNieves> y que paso ahora
-[02:37:39] [Async Chat Thread - #2/INFO]: <xNieves> con tu ping
-[02:37:40] [Async Chat Thread - #2/INFO]: <xNieves> xsddd
-[02:37:48] [Async Chat Thread - #2/INFO]: <J8nAThAn> JAJAJAJ
-[02:38:03] [Async Chat Thread - #2/INFO]: <xNieves> donde quedo tu cable jasajsas
-[02:38:04] [User Authenticator #2/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
-[02:38:04] [Server thread/INFO]: J3ZuX joined the game
-[02:38:04] [Server thread/INFO]: J3ZuX[/10.144.204.103:49398] logged in with entity id 2867 at ([world]2215.175392303161, 52.0, -146.7477478349325)
-[02:38:32] [Async Chat Thread - #2/INFO]: <J8nAThAn> YO SOLO DECIA MANO XD
-[02:38:39] [Async Chat Thread - #2/INFO]: <xNieves> xddddddddd
-[02:39:58] [Server thread/INFO]: J8nAThAn was slain by Piglin
-[02:40:02] [Async Chat Thread - #3/INFO]: <xNieves> erga
-[02:40:03] [Async Chat Thread - #3/INFO]: <xNieves> efe
-[02:40:04] [Async Chat Thread - #3/INFO]: <J3ZuX> xd
-[02:40:18] [Async Chat Thread - #3/INFO]: <J3ZuX> ya comenzo xd
-[02:40:33] [Async Chat Thread - #3/INFO]: <J8nAThAn> ESOS MALDITOS NO TE PUEDEN VER PICANDO ORO
-[02:40:41] [Async Chat Thread - #3/INFO]: <J3ZuX> no
-[02:40:51] [Async Chat Thread - #3/INFO]: <xNieves> ni abriendo un cofre
-[02:40:56] [Async Chat Thread - #3/INFO]: <xNieves> porque se exitan
-[02:40:59] [Async Chat Thread - #3/INFO]: <J3ZuX> ni mamando geubo
-[02:41:06] [Async Chat Thread - #3/INFO]: <xNieves> erga esa no se
-[02:41:12] [Async Chat Thread - #3/INFO]: <xNieves> tu hablaras por la experiencia
-[02:41:13] [Async Chat Thread - #3/INFO]: <xNieves> xddd
-[02:41:19] [Async Chat Thread - #3/INFO]: <J3ZuX> xd+{w{
-[02:43:01] [Craft Scheduler Thread - 5/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
-java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[02:45:19] [Async Chat Thread - #4/INFO]: <J8nAThAn> ENDY EN QUE RANGO ESTAS EN BLOOD
-[02:45:36] [Async Chat Thread - #4/INFO]: <xNieves> oro 3
-[02:45:53] [Async Chat Thread - #4/INFO]: <J8nAThAn> UMMM OK
-[02:46:27] [Async Chat Thread - #4/INFO]: <J8nAThAn> JESUS DISQUE ESTA EN MARICO 3 XD
-[02:46:38] [Async Chat Thread - #4/INFO]: <xNieves> erga ese rango es unico pa el
-[02:46:38] [Async Chat Thread - #4/INFO]: <xNieves> xdddd
-[02:46:49] [Async Chat Thread - #4/INFO]: <J8nAThAn> JAJAJA SISA
-[02:47:01] [Async Chat Thread - #4/INFO]: <J3ZuX> SE ABRA DESCARGADO MESSI EL BLOOD Y NO ME ENTERE
-[02:47:28] [Async Chat Thread - #4/INFO]: <J8nAThAn> NO TE HASGAS EL LOKO TU SABES QUE LA PUTA ES PA TI
-[02:47:38] [Async Chat Thread - #4/INFO]: <xNieves> erga}
-[02:47:40] [Async Chat Thread - #4/INFO]: <xNieves> LA PUTA
-[02:47:42] [Async Chat Thread - #4/INFO]: <xNieves> XDDDDDDDDDDD
-[02:47:47] [Async Chat Thread - #4/INFO]: <J3ZuX> LALAL SI TU ERES LA PUTA POS VENGASE XD
-[02:47:56] [Async Chat Thread - #4/INFO]: <J8nAThAn> JAJAJA QTAL
-[02:48:04] [Async Chat Thread - #4/INFO]: <J3ZuX> QUE GUEVO HAY HASTA PA ENDY XD
-[02:48:17] [Async Chat Thread - #4/INFO]: <xNieves> na ami no me metas en esas mariqueras suyas
-[02:48:24] [Async Chat Thread - #4/INFO]: <xNieves> tu no sabes que una relacion es de 2, no de 3
-[02:48:26] [Async Chat Thread - #4/INFO]: <xNieves> xdddddddddd
-[02:48:51] [Async Chat Thread - #4/INFO]: <J3ZuX> SISA PERO SIEMPRE HAY UNA QUE SACA LECHE Y OTRA QUE LO LIMPIA
-[02:48:58] [Async Chat Thread - #4/INFO]: <J3ZuX> CUAL DE LAS DOS ERES TU??
-[02:49:01] [Async Chat Thread - #4/INFO]: <xNieves> ninguna
-[02:49:06] [Async Chat Thread - #4/INFO]: <J3ZuX> XD
-[02:49:14] [Async Chat Thread - #4/INFO]: <xNieves> jona cumple bien los dos papeles
-[02:49:15] [Async Chat Thread - #4/INFO]: <xNieves> xdddd
-[02:49:19] [Async Chat Thread - #4/INFO]: <J3ZuX> XD
-[02:49:44] [Async Chat Thread - #4/INFO]: <J8nAThAn> QUE VA ENDY QUE ES UNIVERSITARIO XD
-[02:50:00] [Async Chat Thread - #4/INFO]: <xNieves> pero no en esa carrera mano
-[02:50:01] [Async Chat Thread - #4/INFO]: <J3ZuX> XD Y YA LE DARAN SUTITULO XD
-[02:50:09] [Async Chat Thread - #4/INFO]: <xNieves> tu ya tienes titulo y todo
-[02:50:14] [Async Chat Thread - #4/INFO]: <xNieves> eres bachiller en mamarwebo
-[02:50:15] [Async Chat Thread - #4/INFO]: <xNieves> xdddd
-[02:50:37] [Async Chat Thread - #4/INFO]: <J3ZuX> JAJJA PERO TU ME ESTAS SUPERANDO, YA HASTA TITULO DE TRAGONA TENDRAS XD
-[02:50:52] [Async Chat Thread - #4/INFO]: <xNieves> o sea que si estas titulado en mamarwebo
-[02:50:53] [Async Chat Thread - #4/INFO]: <xNieves> JAHJHASHJAHSJAHS
-[02:51:02] [Async Chat Thread - #4/INFO]: <xNieves> te jodiste mamawebo
-[02:51:11] [Async Chat Thread - #4/INFO]: <J3ZuX> JAJAJJA VEO QUE NO NEGASTE NADA
-[02:51:18] [Async Chat Thread - #4/INFO]: <J3ZuX> MENTIRA NOO ES ENTONCES XD
-[02:51:18] [Async Chat Thread - #4/INFO]: <xNieves> tu tampoco
-[02:51:20] [Async Chat Thread - #4/INFO]: <xNieves> JAJHASJHJA
-[02:51:29] [Async Chat Thread - #4/INFO]: <J3ZuX> JAJJA RELAJAO
-[02:51:35] [Async Chat Thread - #4/INFO]: <J8nAThAn> JAJAJA LO ARRECHO QUE ENDY DE GRADUO EN EL MISMO LICEO
-[02:51:46] [Async Chat Thread - #4/INFO]: <xNieves> los 3 nos graduamos en el mismo liceo muchacho mrk
-[02:51:48] [Async Chat Thread - #4/INFO]: <xNieves> xddd
-[02:51:48] [Async Chat Thread - #4/INFO]: <J3ZuX> HABLO EL OTRO MRK AJAJJA
-[02:51:59] [Async Chat Thread - #4/INFO]: <J3ZuX> AJAJA ESTE ES PEOR, SE JODIO SOLO XD
-[02:52:26] [Async Chat Thread - #4/INFO]: <J8nAThAn> NAAAA, QUE VA,
-[02:52:37] [Async Chat Thread - #4/INFO]: <J3ZuX> JAJAJAJA SAPE GATO
-[02:55:26] [Async Chat Thread - #5/INFO]: <J8nAThAn> bueno mi gente yo me retiro
-[02:55:35] [Async Chat Thread - #5/INFO]: <J3ZuX> erga tan rapido xd
-[02:55:44] [Async Chat Thread - #5/INFO]: <xNieves> ngbna
-[02:55:50] [Async Chat Thread - #5/INFO]: <xNieves> el trabajo lo dejo cansao
-[02:55:58] [Async Chat Thread - #5/INFO]: <J8nAThAn> jajaj, hoy solo domir 3 horas xd, y tengo rolo es sueño
-[02:56:03] [Async Chat Thread - #5/INFO]: <J3ZuX> xd
-[02:56:10] [Async Chat Thread - #5/INFO]: <xNieves> y tu jesu tienes trabajo mañana?
-[02:56:21] [Async Chat Thread - #5/INFO]: <J3ZuX> obvio
-[02:56:56] [Async Chat Thread - #5/INFO]: <J8nAThAn> bay bay
-[02:56:59] [Async Chat Thread - #5/INFO]: <J3ZuX> dale ps
-[02:57:00] [Async Chat Thread - #5/INFO]: <xNieves> chao
-[02:57:04] [Server thread/INFO]: J8nAThAn lost connection: Disconnected
-[02:57:04] [Server thread/INFO]: J8nAThAn left the game
-[02:57:27] [Async Chat Thread - #5/INFO]: <xNieves> a mi ya se me van a acabar las vacaciones xd
-[02:57:36] [Async Chat Thread - #5/INFO]: <J3ZuX> kaajja sisa
-[02:57:42] [Async Chat Thread - #5/INFO]: <J3ZuX> como esats en el blood ya estas pro?
-[02:57:56] [Async Chat Thread - #5/INFO]: <xNieves> ahi ma o meno
-[02:58:01] [Craft Scheduler Thread - 6/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
-java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[02:58:11] [Async Chat Thread - #5/INFO]: <xNieves> hasta ahora solo he perdido 2 partidas
-[02:58:12] [Async Chat Thread - #5/INFO]: <J3ZuX> bueno cuando quieras pvp me dices
-[02:58:22] [Async Chat Thread - #5/INFO]: <J3ZuX> sisa al comienzo yo no perdi ninguna
-[02:58:28] [Async Chat Thread - #5/INFO]: <J3ZuX> perdia
-[02:58:41] [Async Chat Thread - #5/INFO]: <xNieves> yo perdi una por mrk
-[02:58:47] [Async Chat Thread - #5/INFO]: <xNieves> por querer matar a uno a cuchillo
-[02:58:48] [Async Chat Thread - #5/INFO]: <J3ZuX> xd
-[02:58:55] [Async Chat Thread - #5/INFO]: <xNieves> y el mmgvo tenia un rpg
-[02:59:00] [Async Chat Thread - #5/INFO]: <J3ZuX> ese es ahorita que ganas, despues nou
-[03:02:58] [Async Chat Thread - #6/INFO]: <xNieves> COMO SE HACIA UN ALTO HORNO?
-[03:03:29] [Async Chat Thread - #6/INFO]: <J3ZuX> con hieerro y piedra lisa
-[03:04:55] [Async Chat Thread - #7/INFO]: <xNieves> como se hacia la piedra lisa? xd
-[03:05:13] [Async Chat Thread - #7/INFO]: <J3ZuX> COSILA LA PIEDRA QUE NO ESTA ROTA
-[03:05:29] [Async Chat Thread - #7/INFO]: <xNieves> ya vi
-[03:05:39] [Async Chat Thread - #7/INFO]: <J3ZuX> PA QUE ME PREGUNTAS ENTONCES MMGV :v
-[03:05:47] [Async Chat Thread - #7/INFO]: <xNieves> pa ver si estabas atento
-[03:05:52] [Server thread/WARN]: xNieves was kicked for floating too long!
-[03:05:52] [Server thread/INFO]: xNieves lost connection: Flying is not enabled on this server
-[03:05:53] [Server thread/INFO]: xNieves left the game
-[03:06:07] [User Authenticator #3/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
-[03:06:07] [Server thread/INFO]: xNieves joined the game
-[03:06:07] [Server thread/INFO]: xNieves[/10.144.22.200:54431] logged in with entity id 11455 at ([world]4113.167126313636, 63.169490234890354, -1089.548955254487)
-[03:07:44] [Async Chat Thread - #8/INFO]: <J3ZuX> zzzzzz
-[03:08:00] [Async Chat Thread - #8/INFO]: <xNieves> z
-[03:08:06] [Async Chat Thread - #8/INFO]: <J3ZuX> zzzzz
-[03:08:07] [Async Chat Thread - #8/INFO]: <J3ZuX> zzzzzzzz
-[03:11:21] [Async Chat Thread - #9/INFO]: <xNieves> un aldeano me saco un libro de poder 5
-[03:11:35] [Async Chat Thread - #9/INFO]: <J3ZuX> precio?
-[03:11:36] [Async Chat Thread - #9/INFO]: <xNieves> un arco con poder ta roto
-[03:11:45] [Async Chat Thread - #9/INFO]: <xNieves> 48 ese mmgvo
-[03:11:49] [Async Chat Thread - #9/INFO]: <J3ZuX> jajaja
-[03:11:54] [Async Chat Thread - #9/INFO]: <J3ZuX> barato mas bien
-[03:12:09] [Async Chat Thread - #9/INFO]: <J3ZuX> sabes dond eesta el bioma azul en el nether?
-[03:12:23] [Async Chat Thread - #9/INFO]: <xNieves> tengo varias localidades
-[03:12:28] [Async Chat Thread - #9/INFO]: <J3ZuX> pasame 1
-[03:12:35] [Async Chat Thread - #9/INFO]: <xNieves> dejame ir al nether a buscar las coords
-[03:12:36] [Async Chat Thread - #9/INFO]: <xNieves> xd
-[03:12:43] [Async Chat Thread - #9/INFO]: <J3ZuX> ale
-[03:13:01] [Craft Scheduler Thread - 7/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
-java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[03:15:56] [Async Chat Thread - #10/INFO]: <xNieves> ya va me laguie terrible
-[03:16:03] [Async Chat Thread - #10/INFO]: <J3ZuX> XD
-[03:16:23] [Server thread/INFO]: [Server] ..................
-[03:19:07] [Async Chat Thread - #11/INFO]: <xNieves> cerca de mi portal hay un bioma de esos
-[03:19:48] [Async Chat Thread - #11/INFO]: <xNieves> si vienes te enseño
-[03:19:52] [Async Chat Thread - #11/INFO]: <xNieves> traeme algo de oro ahi
-[03:19:52] [Async Chat Thread - #11/INFO]: <xNieves> xd
-[03:20:00] [Async Chat Thread - #11/INFO]: <J3ZuX> jajaj no tengo es nada de oro
-[03:20:08] [Async Chat Thread - #11/INFO]: <xNieves> ni una pieza de armadura?
-[03:20:13] [Async Chat Thread - #11/INFO]: <J3ZuX> ah eso si
-[03:20:15] [Async Chat Thread - #11/INFO]: <xNieves> eso quiero
-[03:20:22] [Async Chat Thread - #11/INFO]: <xNieves> es que pase pal nether y se me olvido
-[03:20:30] [Async Chat Thread - #11/INFO]: <J3ZuX> dale voy
-[03:20:39] [Async Chat Thread - #11/INFO]: <xNieves> y esos mmgvos cochinos ven a uno sin oro y lo quieren descuartizar
-[03:20:54] [Async Chat Thread - #11/INFO]: <J3ZuX> xd
-[03:21:17] [Async Chat Thread - #11/INFO]: <xNieves> tu sabras donde hay el bioma ese del nether que es todo gris?
-[03:21:24] [Async Chat Thread - #11/INFO]: <J3ZuX> sisa
-[03:21:28] [Async Chat Thread - #11/INFO]: <xNieves> es el unico que me falta por explorar
-[03:21:43] [Async Chat Thread - #11/INFO]: <J3ZuX> encontre uno pero no guarde las cord porque no me gusta ese bioma
-[03:21:52] [Async Chat Thread - #11/INFO]: <xNieves> es el peor del nether d
-[03:22:09] [Async Chat Thread - #11/INFO]: <J3ZuX> sisa y mas difcicil xd, peron esta tan lejos de mi ´´prtar
-[03:22:31] [Async Chat Thread - #11/INFO]: <J3ZuX> delta de basarto creo que se llama
-[03:22:35] [Async Chat Thread - #11/INFO]: <xNieves> eso
-[03:22:48] [Async Chat Thread - #11/INFO]: <J3ZuX> estoy en tu portal
-[03:23:25] [Async Chat Thread - #11/INFO]: <xNieves> siganme los wenos
-[03:23:50] [Async Chat Thread - #11/INFO]: <xNieves> xd
-[03:23:53] [Async Chat Thread - #11/INFO]: <J3ZuX> XD{{
-[03:24:44] [Async Chat Thread - #11/INFO]: <xNieves> ahi ta
-[03:24:49] [Async Chat Thread - #11/INFO]: <J3ZuX> dale mano gracias
-[03:24:55] [Async Chat Thread - #11/INFO]: <xNieves> fino
-[03:24:55] [Server thread/INFO]: J3ZuX has completed the challenge [Hot Tourist Destinations]
-[03:24:58] [Async Chat Thread - #11/INFO]: <xNieves> erg
-[03:25:02] [Async Chat Thread - #11/INFO]: <J3ZuX> soble gracias xd
-[03:25:06] [Async Chat Thread - #11/INFO]: <J3ZuX> ni sabia xd
-[03:25:15] [Async Chat Thread - #11/INFO]: <xNieves> xd
-[03:28:01] [Craft Scheduler Thread - 8/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
-java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[03:28:17] [Server thread/INFO]: xNieves has completed the challenge [Hot Tourist Destinations]
-[03:28:34] [Async Chat Thread - #12/INFO]: <J3ZuX> xd
-[03:28:49] [Async Chat Thread - #12/INFO]: <xNieves> lito
-[03:28:57] [Async Chat Thread - #12/INFO]: <xNieves> ahora el unico que no tiene el logro es mesi
-[03:29:14] [Async Chat Thread - #12/INFO]: <J3ZuX> AHORA COMPLETA LOS DEL MUNDO NORMAL v:W
-[03:29:29] [Async Chat Thread - #12/INFO]: <xNieves> sape
-[03:29:32] [Async Chat Thread - #12/INFO]: <J3ZuX> XD
-[03:40:42] [Server thread/INFO]: [Server] ..
-[03:40:47] [Async Chat Thread - #13/INFO]: <J3ZuX> zzzzzzzzzzz
-[03:40:53] [Async Chat Thread - #13/INFO]: <xNieves> toy en el nether
-[03:41:00] [Async Chat Thread - #13/INFO]: <J3ZuX> OK
-[03:43:01] [Craft Scheduler Thread - 9/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
-java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[03:47:28] [Async Chat Thread - #14/INFO]: <xNieves> saquear bastiones es mejor que las fortalezas
-[03:47:39] [Async Chat Thread - #14/INFO]: <J3ZuX> SISA
-[03:47:42] [Async Chat Thread - #14/INFO]: <xNieves> me acabo de sacar un pico de diamantes efi 5 y ni siquiera es el cofre del centro
-[03:47:56] [Async Chat Thread - #14/INFO]: <J3ZuX> SISA HASTA NETHERITE PUEDES ENCONTRAR
-[03:49:41] [Server thread/WARN]: xNieves was kicked due to keepalive timeout!
-[03:49:41] [Server thread/INFO]: xNieves lost connection: Timed out
-[03:49:41] [Server thread/INFO]: xNieves left the game
-[03:49:47] [User Authenticator #4/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
-[03:49:47] [Server thread/INFO]: xNieves joined the game
-[03:49:47] [Server thread/INFO]: xNieves[/10.144.22.200:58097] logged in with entity id 21934 at ([world_nether]253.382892046322, 43.0, -671.4274117542177)
-[03:50:07] [Async Chat Thread - #15/INFO]: <xNieves> ae
-[03:56:22] [Server thread/INFO]: [Server] ............
-[03:58:01] [Craft Scheduler Thread - 10/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
-java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[03:58:08] [Async Chat Thread - #16/INFO]: <xNieves> sali del bastion vivo
-[03:58:21] [Async Chat Thread - #16/INFO]: <J3ZuX> pero no siendo hombre xd
-[03:58:44] [Async Chat Thread - #16/INFO]: <xNieves> sali con 16 bloques de oro, 1 pechera de diamante, 1 casco de diamante, un pico diamante efi 5 y uno de netherite
-[03:58:56] [Async Chat Thread - #16/INFO]: <J3ZuX> TA BIEN LO DE LA NETJERITE
-[03:58:57] [Server thread/INFO]: xNieves was burnt to a crisp whilst fighting Hoglin
-[03:59:02] [Async Chat Thread - #16/INFO]: <xNieves> M;añdot
-[03:59:03] [Async Chat Thread - #16/INFO]: <xNieves> klasdasd
-[03:59:12] [Async Chat Thread - #16/INFO]: <J3ZuX> CULO
-[03:59:14] [Async Chat Thread - #16/INFO]: <xNieves> olvidate de todo lo que dije
-[03:59:17] [Async Chat Thread - #16/INFO]: <xNieves> no quedo nada
-[03:59:25] [Async Chat Thread - #16/INFO]: <J3ZuX> PORQEU XD
-[03:59:34] [Async Chat Thread - #16/INFO]: <xNieves> chamo maldita sea
-[03:59:38] [Async Chat Thread - #16/INFO]: <J3ZuX> XD QUE PASO
-[03:59:40] [Async Chat Thread - #16/INFO]: <xNieves> un cochino de esos de los que son grandes
-[03:59:46] [Async Chat Thread - #16/INFO]: <J3ZuX> AJA
-[03:59:46] [Async Chat Thread - #16/INFO]: <xNieves> esos bichos te levantan
-[03:59:53] [Async Chat Thread - #16/INFO]: <xNieves> bueno un mmgvo eso me lanzo a la lava
-[03:59:53] [Async Chat Thread - #16/INFO]: <J3ZuX> AJJA ME ENTERO
-[04:00:05] [Async Chat Thread - #16/INFO]: <J3ZuX> PERO NO ME SALE QUE MORISTE
-[04:00:10] [Async Chat Thread - #16/INFO]: <xNieves> a mi si
-[04:00:22] [Async Chat Thread - #16/INFO]: <J3ZuX> AAAAAAAH YA VI AJAJAJAJAA
-[04:00:32] [Async Chat Thread - #16/INFO]: <xNieves> este mmgvo cochino e mierd
-[04:02:51] [Async Chat Thread - #17/INFO]: <J3ZuX> xd
-[04:09:56] [Async Chat Thread - #18/INFO]: <xNieves> de que sirve un hacha con fortuna
-[04:09:57] [Async Chat Thread - #18/INFO]: <xNieves> xddd
-[04:10:08] [Async Chat Thread - #18/INFO]: <J3ZuX> para pisar sandia >V
-[04:10:28] [Async Chat Thread - #18/INFO]: <xNieves> que mierd
-[04:10:28] [Async Chat Thread - #18/INFO]: <xNieves> xd
-[04:10:31] [Async Chat Thread - #18/INFO]: <J3ZuX> xd
-[04:12:29] [Server thread/INFO]: [Server] .,
-[04:13:01] [Craft Scheduler Thread - 11/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
-java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[04:13:55] [Async Chat Thread - #19/INFO]: <J3ZuX> zzzzzzzzz
-[04:14:05] [Server thread/INFO]: xNieves lost connection: Disconnected
-[04:14:05] [Server thread/INFO]: xNieves left the game
-[04:14:25] [User Authenticator #5/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
-[04:14:25] [Server thread/INFO]: xNieves joined the game
-[04:14:25] [Server thread/INFO]: xNieves[/10.144.22.200:60181] logged in with entity id 27554 at ([world]4105.801376177516, 56.0, -1152.0793889224435)
-[04:26:53] [Async Chat Thread - #20/INFO]: <J3ZuX> zzzzzzz
-[04:27:00] [Server thread/INFO]: xNieves lost connection: Disconnected
-[04:27:00] [Server thread/INFO]: xNieves left the game
-[04:27:20] [User Authenticator #6/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
-[04:27:20] [Server thread/INFO]: xNieves joined the game
-[04:27:20] [Server thread/INFO]: xNieves[/10.144.22.200:61312] logged in with entity id 31061 at ([world]4107.375166928416, 63.0, -1023.7130516873626)
-[04:28:01] [Craft Scheduler Thread - 12/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
-java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[04:38:05] [Server thread/INFO]: Villager EntityVillager['Fletcher'/31283, uuid='c526eb69-c98c-4460-8d30-c46e8f1de32e', l='ServerLevel[world]', x=4107.47, y=55.00, z=-1150.49, cx=256, cz=-72, tl=554250, v=true, d=false] died, message: 'Fletcher drowned'
-[04:41:11] [Async Chat Thread - #21/INFO]: <J3ZuX> ZZZZZZZZZZZZ
-[04:41:12] [Async Chat Thread - #21/INFO]: <J3ZuX> ZZZZZZZZZZ
-[04:41:13] [Server thread/INFO]: xNieves lost connection: Disconnected
-[04:41:13] [Server thread/INFO]: xNieves left the game
-[04:41:30] [User Authenticator #7/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
-[04:41:30] [Server thread/INFO]: xNieves joined the game
-[04:41:30] [Server thread/INFO]: xNieves[/10.144.22.200:62519] logged in with entity id 35269 at ([world]4108.2684551203565, 56.0, -1162.6900934709836)
-[04:43:01] [Craft Scheduler Thread - 13/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
-java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[04:43:53] [Server thread/INFO]: Villager EntityVillager['Fletcher'/35281, uuid='95aa2ccf-f6f6-4a8c-8d50-bdfc7cd4eaf2', l='ServerLevel[world]', x=4108.70, y=55.04, z=-1163.70, cx=256, cz=-73, tl=617812, v=true, d=false] died, message: 'Fletcher drowned'
-[04:47:04] [Server thread/INFO]: Villager EntityVillager['Fletcher'/35275, uuid='623a63cd-5073-498d-a92a-4b4ccbf4319d', l='ServerLevel[world]', x=4096.50, y=39.00, z=-1164.51, cx=256, cz=-73, tl=902420, v=true, d=false] died, message: 'Fletcher drowned'
-[04:47:21] [Server thread/INFO]: Villager EntityVillager['Fletcher'/35285, uuid='81eea503-4376-4dcb-9504-cbf6944c2a74', l='ServerLevel[world]', x=4108.51, y=32.00, z=-1159.12, cx=256, cz=-73, tl=750583, v=true, d=false] died, message: 'Fletcher drowned'
-[04:52:02] [Server thread/INFO]: Villager EntityVillager['Fletcher'/35302, uuid='9b6494d4-9719-4dac-9f68-ca0bfbc86521', l='ServerLevel[world]', x=4090.49, y=40.00, z=-1160.50, cx=255, cz=-73, tl=774207, v=true, d=false] died, message: 'Fletcher drowned'
-[04:52:23] [Server thread/INFO]: Villager EntityVillager['Farmer'/35314, uuid='345da01c-d72d-4cf3-a468-bb5be859c7e0', l='ServerLevel[world]', x=4092.50, y=42.00, z=-1149.49, cx=255, cz=-72, tl=827076, v=true, d=false] died, message: 'Farmer drowned'
-[04:55:28] [Async Chat Thread - #22/INFO]: <J3ZuX> ZZZZZZZZ
-[04:55:34] [Server thread/INFO]: xNieves lost connection: Disconnected
-[04:55:34] [Server thread/INFO]: xNieves left the game
-[04:55:49] [User Authenticator #8/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
-[04:55:49] [Server thread/INFO]: xNieves joined the game
-[04:55:49] [Server thread/INFO]: xNieves[/10.144.22.200:63700] logged in with entity id 38486 at ([world]4093.0578583667852, 56.0, -1162.4770345533298)
-[04:55:57] [Async Chat Thread - #22/INFO]: <J3ZuX> ZZZZZZ
-[04:56:00] [Async Chat Thread - #22/INFO]: <xNieves> njda
-[04:56:01] [Async Chat Thread - #22/INFO]: <J3ZuX> HABIAN ZOMBIE X
-[04:56:01] [Server thread/INFO]: xNieves lost connection: Disconnected
-[04:56:01] [Server thread/INFO]: xNieves left the game
-[04:56:20] [User Authenticator #8/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
-[04:56:20] [Server thread/INFO]: xNieves joined the game
-[04:56:20] [Server thread/INFO]: xNieves[/10.144.22.200:63820] logged in with entity id 38773 at ([world]4093.0642348994807, 56.0, -1162.2504662329745)
-[04:56:24] [Async Chat Thread - #22/INFO]: <J3ZuX> habien zombie xd
-[04:56:30] [Async Chat Thread - #22/INFO]: <xNieves> xd
-[04:58:01] [Craft Scheduler Thread - 14/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
-java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[04:58:30] [Server thread/INFO]: [Server] ..
-[05:02:29] [Async Chat Thread - #23/INFO]: <xNieves> njda mano la mejor granja de xp es tradear con aldeanos
-[05:02:36] [Async Chat Thread - #23/INFO]: <xNieves> esos mmgvos dejan bastante xp
-[05:02:37] [Async Chat Thread - #23/INFO]: <J3ZuX> sisa
-[05:02:45] [Async Chat Thread - #23/INFO]: <J3ZuX> pero lo malo es coseguir las cosas
-[05:02:52] [Async Chat Thread - #23/INFO]: <J3ZuX> pero si da bastante exp
-[05:03:05] [Async Chat Thread - #23/INFO]: <xNieves> yo ando matando aldeanos y cambiandolos
-[05:03:20] [Async Chat Thread - #23/INFO]: <J3ZuX> rxd
-[05:03:25] [Async Chat Thread - #23/INFO]: <xNieves> con aldeano granjero y aldeano de flechas
-[05:03:38] [Async Chat Thread - #23/INFO]: <J3ZuX> sisa, son los mas facil
-[05:03:55] [Async Chat Thread - #23/INFO]: <xNieves> y como tengo una granja de arañas
-[05:04:00] [Async Chat Thread - #23/INFO]: <xNieves> tambien uso el pescador
-[05:04:01] [Async Chat Thread - #23/INFO]: <J3ZuX> aqui no hay lampara de fuego azul__
-[05:04:12] [Async Chat Thread - #23/INFO]: <xNieves> no eso es en la 1.18 creo
-[05:04:16] [Async Chat Thread - #23/INFO]: <J3ZuX> ,MM
-[05:06:07] [Async Chat Thread - #24/INFO]: <xNieves> creo que me voy a hacer una granja de generacion natural
-[05:06:16] [Async Chat Thread - #24/INFO]: <J3ZuX> DE QIE_
-[05:06:20] [Async Chat Thread - #24/INFO]: <xNieves> de xp
-[05:06:23] [Async Chat Thread - #24/INFO]: <J3ZuX> AH OK
-[05:06:23] [Async Chat Thread - #24/INFO]: <xNieves> pero sin spawner
-[05:06:28] [Async Chat Thread - #24/INFO]: <J3ZuX> SISA
-[05:06:34] [Async Chat Thread - #24/INFO]: <J3ZuX> AMI ME GUSTARIA POR LA POLBORA
-[05:06:38] [Async Chat Thread - #24/INFO]: <J3ZuX> VORA
-[05:06:39] [Async Chat Thread - #24/INFO]: <xNieves> puedo usar la carne de zombie y polvora para tradear
-[05:07:28] [Async Chat Thread - #24/INFO]: <xNieves> me voy a poner full diamante a punta de mis aldeanos xd
-[05:07:42] [Async Chat Thread - #24/INFO]: <J3ZuX> ASI HICE YO XD
-[05:11:09] [Async Chat Thread - #25/INFO]: <J3ZuX> ZZZZZZ
-[05:11:16] [Async Chat Thread - #25/INFO]: <J3ZuX> ZZZZZZZ
-[05:11:17] [Async Chat Thread - #25/INFO]: <J3ZuX> ZZZZZZZZ
-[05:11:21] [Async Chat Thread - #25/INFO]: <xNieves> z
-[05:11:29] [Async Chat Thread - #25/INFO]: <J3ZuX> ZZZZZZZZZ
-[05:13:01] [Craft Scheduler Thread - 15/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
-java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[05:20:26] [Server thread/INFO]: J3ZuX tried to swim in lava
-[05:20:29] [Async Chat Thread - #26/INFO]: <xNieves> efe
-[05:20:30] [Async Chat Thread - #26/INFO]: <J3ZuX> Xd
-[05:20:35] [Async Chat Thread - #26/INFO]: <xNieves> en el nether?
-[05:20:39] [Async Chat Thread - #26/INFO]: <J3ZuX> sisa
-[05:20:45] [Async Chat Thread - #26/INFO]: <xNieves> recontra efe
-[05:23:42] [Async Chat Thread - #27/INFO]: <J3ZuX> zzzzzzzz
-[05:23:49] [Async Chat Thread - #27/INFO]: <xNieves> voy
-[05:24:11] [Async Chat Thread - #27/INFO]: <xNieves> zz
-[05:24:13] [Async Chat Thread - #27/INFO]: <J3ZuX> zzz
-[05:27:07] [Async Chat Thread - #28/INFO]: <xNieves> bueno bro me retiro
-[05:27:11] [Async Chat Thread - #28/INFO]: <J3ZuX> X2
-[05:27:23] [Async Chat Thread - #28/INFO]: <xNieves> tons a domi
-[05:27:28] [Async Chat Thread - #28/INFO]: <J3ZuX> SISA WEON
-[05:27:38] [Async Chat Thread - #28/INFO]: <J3ZuX> ME PASE DE LA HORA MAS BIEN
-[05:27:43] [Async Chat Thread - #28/INFO]: <xNieves> ajajaj
-[05:27:48] [Async Chat Thread - #28/INFO]: <xNieves> bueno bro
-[05:27:53] [Async Chat Thread - #28/INFO]: <J3ZuX> DALE BRO
-[05:27:55] [Async Chat Thread - #28/INFO]: <xNieves> chaoo
-[05:27:57] [Async Chat Thread - #28/INFO]: <J3ZuX> ADIOS
-[05:28:00] [Server thread/INFO]: xNieves lost connection: Disconnected
-[05:28:00] [Server thread/INFO]: xNieves left the game
-[05:28:01] [Craft Scheduler Thread - 16/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 476
-java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
-	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
-	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
-	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[05:40:40] [Server thread/INFO]: J3ZuX lost connection: Disconnected
-[05:40:40] [Server thread/INFO]: J3ZuX left the game
-[05:40:47] [Server thread/INFO]: Stopping the server
-[05:40:47] [Server thread/INFO]: Stopping server
-[05:40:47] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.7
-[05:40:47] [Server thread/INFO]: [PingTab] Disabling PingTab v1.3.5
-[05:40:47] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.11
-[05:40:47] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
-[05:40:47] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
-[05:40:47] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[05:40:47] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
-[05:40:47] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[05:40:47] [Server thread/INFO]: Saving players
-[05:40:47] [Server thread/INFO]: Saving worlds
-[05:40:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:40:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:40:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[05:40:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:40:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[05:40:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:40:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:40:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:40:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:40:48] [Server thread/INFO]: Flushing Chunk IO
-[05:40:48] [Server thread/INFO]: Closing Thread Pool
-[05:40:48] [Server thread/INFO]: Closing Server
+[01:40:15] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.28
+[01:40:15] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[01:40:15] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[01:40:15] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[01:40:15] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[01:40:15] [Server thread/INFO]: Timings Reset
+[01:40:15] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.3.2
+[01:40:16] [Server thread/INFO]: The latest version of BlockLocker (version 1.13.0) no longer supports this Minecraft version, only Minecraft 1.20.2, 1.20.4, 1.20.6, 1.21, 1.21.1, 1.21.2, 1.21.3, 1.21.4, 1.21.5, 1.21.6.
+[01:40:16] [Server thread/INFO]: More information: https://www.spigotmc.org/resources/blocklocker.3268/update?update=571821
