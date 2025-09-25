@@ -124,3 +124,30 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [01:58:04] [User Authenticator #3/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
 [01:58:04] [Server thread/INFO]: xNieves joined the game
 [01:58:04] [Server thread/INFO]: xNieves[/10.144.22.200:62664] logged in with entity id 1575 at ([world]4140.469481566445, 63.0, -1100.753443312989)
+[02:00:25] [User Authenticator #4/INFO]: UUID of player J3ZuX is e30c7224-8444-3029-bf10-107ea21be3c9
+[02:00:26] [Server thread/INFO]: J3ZuX joined the game
+[02:00:26] [Server thread/INFO]: J3ZuX[/10.144.204.103:49670] logged in with entity id 2088 at ([world]2224.35982694713, 72.0, -165.5942506675492)
+[02:01:03] [Async Chat Thread - #0/INFO]: <xNieves> ya vengo brother voy a hacerle un favor a mi viejo
+[02:01:11] [Async Chat Thread - #0/INFO]: <J3ZuX> da,e mano
+[02:01:14] [Server thread/INFO]: xNieves lost connection: Disconnected
+[02:01:14] [Server thread/INFO]: xNieves left the game
+[02:08:58] [User Authenticator #5/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
+[02:08:58] [Server thread/INFO]: xNieves joined the game
+[02:08:58] [Server thread/INFO]: xNieves[/10.144.22.200:63864] logged in with entity id 3718 at ([world]4149.698321925574, 63.0, -1044.435786716646)
+[02:09:16] [Async Chat Thread - #1/INFO]: <xNieves> he vuelto
+[02:09:26] [Async Chat Thread - #1/INFO]: <J3ZuX> ta lo note :v
+[02:09:44] [Async Chat Thread - #1/INFO]: <xNieves> la qlos pal suelo y mi ping pal espacio porque ngbna e lag
+[02:09:56] [Async Chat Thread - #1/INFO]: <J3ZuX> xd
+[02:10:15] [Craft Scheduler Thread - 8/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 225
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[02:10:19] [Async Chat Thread - #1/INFO]: <xNieves> tu jesu, que aldeano tienes que te de casco?
+[02:10:23] [Async Chat Thread - #1/INFO]: <xNieves> y que tan buene es el casco
