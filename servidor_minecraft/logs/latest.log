@@ -341,3 +341,58 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [02:47:55] [Async Chat Thread - #8/INFO]: <J3ZuX> sisa pero asi es feo
 [02:48:07] [Async Chat Thread - #8/INFO]: <J3ZuX> pero bueno para el futuro sera
 [02:48:15] [Async Chat Thread - #8/INFO]: <xNieves> sisa
+[02:52:05] [Async Chat Thread - #9/INFO]: <xNieves> tengo mi primera enderpearl xd
+[02:52:31] [Async Chat Thread - #9/INFO]: <J3ZuX> YO TENGO CASI 12 XD
+[02:52:52] [Async Chat Thread - #9/INFO]: <xNieves> yo iba a ir al nether a cazar enderman
+[02:52:55] [Async Chat Thread - #9/INFO]: <xNieves> pero no me he puesto xd
+[02:53:09] [Async Chat Thread - #9/INFO]: <J3ZuX> YO LAS CONSEGUI SIN HACER NADA PLATICA,E TE
+[02:53:16] [Async Chat Thread - #9/INFO]: <xNieves> voy a tu casa un momento
+[02:53:23] [Async Chat Thread - #9/INFO]: <J3ZuX> PARA? :v
+[02:53:26] [Async Chat Thread - #9/INFO]: <xNieves> te tengo un regalo
+[02:53:33] [Async Chat Thread - #9/INFO]: <J3ZuX> 7W7
+[02:53:44] [Async Chat Thread - #9/INFO]: <J3ZuX> DEJAME MAJARME EL CIERRE 7W7
+[02:53:55] [Async Chat Thread - #9/INFO]: <xNieves> eso es con jona mano
+[02:53:59] [Async Chat Thread - #9/INFO]: <J3ZuX> XD
+[02:55:15] [Craft Scheduler Thread - 11/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 225
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[02:56:29] [Async Chat Thread - #10/INFO]: <xNieves> aea
+[02:56:31] [Server thread/INFO]: xNieves lost connection: Disconnected
+[02:56:31] [Server thread/INFO]: xNieves left the game
+[02:56:44] [User Authenticator #8/INFO]: UUID of player xNieves is 32f9b769-5f88-385d-a9e7-7c60895b3a2b
+[02:56:44] [Server thread/INFO]: xNieves joined the game
+[02:56:44] [Server thread/INFO]: xNieves[/10.144.22.200:51929] logged in with entity id 14734 at ([world]2213.7230823992477, 72.0, -156.72497229272616)
+[02:57:02] [Async Chat Thread - #10/INFO]: <xNieves> ea
+[02:57:05] [Async Chat Thread - #10/INFO]: <xNieves> mira
+[02:57:09] [Async Chat Thread - #10/INFO]: <J3ZuX> XD
+[02:57:21] [Async Chat Thread - #10/INFO]: <xNieves> mgvo
+[02:57:24] [Async Chat Thread - #10/INFO]: <J3ZuX> XD
+[02:57:35] [Async Chat Thread - #10/INFO]: <J3ZuX> ERDAA PERO TENES GASTANTE :_v
+[02:57:36] [Async Chat Thread - #10/INFO]: <J3ZuX> :V
+[02:57:42] [Async Chat Thread - #10/INFO]: <xNieves> para subir pisas shift y apuntas hacia abajo
+[02:58:03] [Async Chat Thread - #10/INFO]: <J3ZuX> AAAA
+[02:58:36] [Async Chat Thread - #10/INFO]: <J3ZuX> ESTP ME RECUERDA A FORNITE
+[02:58:40] [Async Chat Thread - #10/INFO]: <xNieves> xddd
+[02:58:52] [Async Chat Thread - #10/INFO]: <xNieves> asi es mas facil hacer tus vainas de cortar arboles raros
+[02:58:59] [Async Chat Thread - #10/INFO]: <J3ZuX> bueno weon voy a miir
+[02:59:06] [Async Chat Thread - #10/INFO]: <xNieves> dejame llegarme a mi casa
+[02:59:14] [Async Chat Thread - #10/INFO]: <xNieves> no tendras mas carne de zombie porahi?
+[02:59:20] [Async Chat Thread - #10/INFO]: <J3ZuX> NO SEGUUIRAS JUGABNDO?
+[02:59:33] [Async Chat Thread - #10/INFO]: <xNieves> me aburre un poco juga solo xd
+[02:59:42] [Async Chat Thread - #10/INFO]: <J3ZuX> JAJA SISA
+[02:59:43] [Async Chat Thread - #10/INFO]: <xNieves> con esto tradeo
+[02:59:48] [Async Chat Thread - #10/INFO]: <xNieves> llego a mi casa
+[02:59:50] [Async Chat Thread - #10/INFO]: <J3ZuX> dale
+[03:00:05] [Async Chat Thread - #10/INFO]: <xNieves> mano
+[03:00:07] [Async Chat Thread - #10/INFO]: <J3ZuX> q
+[03:00:10] [Async Chat Thread - #10/INFO]: <xNieves> un ghast destruyo tu portal xd
+[03:00:16] [Async Chat Thread - #10/INFO]: <J3ZuX> xd
+[03:01:43] [Async Chat Thread - #11/INFO]: <xNieves> llegue
