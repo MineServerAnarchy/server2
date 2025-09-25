@@ -196,3 +196,31 @@ java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOn
 [02:19:11] [Async Chat Thread - #2/INFO]: <J3ZuX> Xd seguro los pusiste al reves
 [02:19:25] [Async Chat Thread - #2/INFO]: <xNieves> na creo que era porque uno estaba medio roto
 [02:19:41] [Async Chat Thread - #2/INFO]: <J3ZuX> mm bueno
+[02:21:40] [Async Chat Thread - #3/INFO]: <xNieves> baje a la mina al final xd
+[02:21:46] [Async Chat Thread - #3/INFO]: <J3ZuX> cual mina
+[02:21:54] [Async Chat Thread - #3/INFO]: <xNieves> tengo una cueva debajo de mi casa
+[02:22:01] [Async Chat Thread - #3/INFO]: <xNieves> asi que puede que no me vaya aun xd
+[02:22:05] [Async Chat Thread - #3/INFO]: <J3ZuX> mmm ta bien jona ya vas a morir xd
+[02:22:27] [Async Chat Thread - #3/INFO]: <xNieves> con el lag si
+[02:22:36] [Async Chat Thread - #3/INFO]: <J3ZuX> la labia xd
+[02:22:38] [Async Chat Thread - #3/INFO]: <xNieves> aea
+[02:22:58] [Async Chat Thread - #3/INFO]: <xNieves> ajahs
+[02:23:00] [Async Chat Thread - #3/INFO]: <xNieves> mira mi ping
+[02:25:15] [Craft Scheduler Thread - 9/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 225
+java.lang.NoSuchMethodError: 'org.bukkit.entity.Player[] org.bukkit.Server.getOnlinePlayers()'
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[02:27:02] [Async Chat Thread - #4/INFO]: <J3ZuX> ven a ver un beta que hice si no esats haciendo nada :V
+[02:27:18] [Async Chat Thread - #4/INFO]: <xNieves> ya bvoy
+[02:29:23] [Async Chat Thread - #5/INFO]: <xNieves> aea
+[02:29:27] [Async Chat Thread - #5/INFO]: <xNieves> ya voy de camino
+[02:29:31] [Async Chat Thread - #5/INFO]: <J3ZuX> DALE
+[02:30:36] [Async Chat Thread - #6/INFO]: <xNieves> ya va que un mmgvo ghast me campea el portal el mmgvo
+[02:30:50] [Async Chat Thread - #6/INFO]: <J3ZuX> XD
